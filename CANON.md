@@ -9,7 +9,7 @@ File này lưu những thiết lập đã chốt của toàn bộ truyện, kể
 - **Part 00 — ZEROTH AXIOM**: phần mở đầu độc lập.
 - **Main trilogy**: Part I — SIXTEEN, Part II — NETWORK, Part III — AMYGDALA.
 - **Phần mở rộng**: FOIL, PAST và Part IV — LIMBIC.
-- **Phase**: nhóm nhiều Arc thuộc cùng một giai đoạn bên trong Part.
+- **Phase**: nhãn dùng để nhóm nhiều Arc trong thiết kế tổng thể; không phải một tầng thư mục hay đơn vị bản thảo.
 
 ## Mục lục đọc
 
