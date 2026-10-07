@@ -1,5 +1,9 @@
 # OXYTOCIN — Canon
 
+Đây là story bible chính của OXYTOCIN.
+
+File này được phép chứa **spoiler toàn bộ series**, bao gồm tên gọi chính thức, danh tính, quan hệ, cơ chế ẩn, nguyên nhân, kết cục và những sự thật chỉ được tiết lộ rất muộn trong truyện, miễn là chúng đã được chốt.
+
 ## Bản sắc tác phẩm
 
 **OXYTOCIN** là psychological thriller / dark coming-of-age / mindgame xoay quanh **Vũ Nhật Minh**.
@@ -12,11 +16,6 @@ Trục vận hành xuyên series:
 
 OXYTOCIN theo dõi cả sức mạnh lẫn giới hạn của phương pháp đó khi đối tượng Minh cố hiểu ngày càng phức tạp, từ một cá nhân đến mạng lưới xã hội và cuối cùng là chính bản thân cậu.
 
-Một nguyên tắc xuyên suốt:
-
-> **Tác động không đồng nghĩa kiểm soát.**
-
-Con người trong OXYTOCIN luôn có khả năng lựa chọn, phản ứng và làm sai mô hình của Minh.
 
 ---
 
