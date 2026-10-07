@@ -3,18 +3,12 @@
 ## Thông tin cơ bản
 
 - Tên đầy đủ: **Vũ Nhật Minh**
-- Nam
-- Người Laccovia
+- Giới tính: Nam
+- Người Laccovian
 - Sinh ngày **04/01**
-- 16 tuổi khi Part I — SIXTEEN bắt đầu
-- Khoảng 22 tuổi ở Part III — AMYGDALA
-- 42 tuổi trong khung truyện hiện tại
-- Sau này trở thành giáo sư / học giả nổi bật về **khoa học thần kinh nhận thức tại LUCN**
-- Xuất thân kinh tế bình thường
-- Ngoại hình sáng, có sức hút
-- IQ tham khảo hậu trường: khoảng **180**
-
-IQ chỉ là một con số thiết kế, không dùng để chứng minh Minh thông minh trong truyện.
+- Tương lai sau này trở thành Giáo sư đầu ngành về Khoa học thần kinh nhận thức.
+- Ít nói, kiệm lời, thông minh, khó đoán.
+- IQ Concept: khoảng **180**
 
 ## Vai trò
 
