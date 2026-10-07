@@ -4,6 +4,8 @@ Nhật ký phát triển OXYTOCIN theo ngày.
 
 ## 2026-10-08
 
+- Viết hồ sơ nhân vật `characters/01_CORE/MINH.md` cho Vũ Nhật Minh.
+
 - Chốt tên: **Part 00 — THE ZEROTH AXIOM**; **Arc 00 — Zeroth Axiom**.
 
 - Chốt `Phase` chỉ là nhãn nhóm Arc ở cấp thiết kế/mục lục; không xuất hiện như một tầng trong `story/` hoặc `outline/`. Hierarchy repo vẫn là Part → Arc → Ep → Chapter.
