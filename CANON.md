@@ -2,23 +2,21 @@
 
 ## Bản sắc tác phẩm
 
-**OXYTOCIN** là psychological thriller / dark coming-of-age / mindgame, có yếu tố psychological noir và science thriller.
+**OXYTOCIN** là psychological thriller / dark coming-of-age / mindgame xoay quanh **Vũ Nhật Minh**.
 
-Trọng tâm của truyện là **con người, quan hệ, lựa chọn và hệ quả**. Tâm lý học, thần kinh học, toán học, vật lý và tư duy hệ thống là nền để xây cơ chế, không phải mục tiêu phô diễn.
+Minh nhìn con người như những hệ thống có thể quan sát, mô hình hóa, dự đoán và tác động. Từ năm 16 tuổi, cách nhìn đó dần trở thành phương pháp cậu dùng để xử lý con người, quan hệ và những hệ thống lớn hơn quanh mình.
 
-Nhân vật trung tâm là **Vũ Nhật Minh**.
+Trục vận hành xuyên series:
 
-Từ năm 16 tuổi, Minh dần biến việc quan sát con người thành một phương pháp:
+**quan sát → mô hình hóa → dự đoán → can thiệp → hệ quả**
 
-**quan sát → mô hình hóa → dự đoán → can thiệp**
-
-Minh tin hành vi con người có thể được hiểu bằng nguyên nhân, điều kiện và xác suất. Toàn bộ series liên tục kiểm nghiệm giới hạn của niềm tin đó.
+OXYTOCIN theo dõi cả sức mạnh lẫn giới hạn của phương pháp đó khi đối tượng Minh cố hiểu ngày càng phức tạp, từ một cá nhân đến mạng lưới xã hội và cuối cùng là chính bản thân cậu.
 
 Một nguyên tắc xuyên suốt:
 
 > **Tác động không đồng nghĩa kiểm soát.**
 
-Người khác luôn có khả năng lựa chọn, phản ứng và làm sai mô hình của Minh.
+Con người trong OXYTOCIN luôn có khả năng lựa chọn, phản ứng và làm sai mô hình của Minh.
 
 ---
 
