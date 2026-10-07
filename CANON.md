@@ -207,13 +207,13 @@ AMYGDALA vẫn là kết thúc trọn vẹn của main trilogy; LIMBIC mở thê
 
 ### FOIL
 
-Đi theo hành trình của Foil từ góc nhìn của chính cậu.
+FOIL kể lại hành trình của Foil từ chính góc nhìn của cậu.
 
-FOIL mở thêm quá khứ, động cơ và những phần của main story mà Minh không thể thấy hoặc không thể hiểu đầy đủ.
+Phía sau hình ảnh nhẹ tênh và khó nắm bắt là một người lớn lên từ dư âm của một cuộc thanh trừng chính trị từng quét qua gia tộc Levi. Càng trưởng thành, Foil càng tự bước vào chính trường bằng những quan hệ và ảnh hưởng do chính mình gây dựng, thay vì chỉ sống nhờ cái họ đã mất quyền lực từ lâu.
 
-Trục cốt lõi:
+Đến cuối hành trình, Foil đã trở thành một political actor thật sự. Lựa chọn dẫn tới cái chết của cậu cũng là một lựa chọn chính trị của riêng Foil, xuất phát từ điều cậu tin và con đường cậu tự chọn.
 
-> **Mô hình mà Minh không bao giờ mô hình được.**
+FOIL vì thế không chỉ giải thích thêm một nhân vật trong main trilogy, mà mở ra một câu chuyện song song với Minh: một con người khác, một cách nhìn khác, và một con đường khác đi tới cùng điểm cuối.
 
 ### PAST
 
