@@ -56,7 +56,7 @@ Có khả năng tách một vấn đề thành các biến, xây giả thuyết,
 
 Mạnh hơn ở các bài toán dài hạn, có cấu trúc và cần tích lũy thông tin qua thời gian.
 
-Có nền kiến thức rộng, đặc biệt ở khoa học thần kinh nhận thức, tâm lý học, sinh học, thống kê, toán học, vật lý, máy tính và triết học.
+Minh có kiến thức rộng ở nhiều lĩnh vực và có khả năng kết nối chúng khi phân tích vấn đề.
 
 ## Giới hạn
 
