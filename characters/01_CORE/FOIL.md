@@ -25,12 +25,10 @@ Foil không có nhu cầu sửa mọi hiểu lầm về mình. Cậu có thể �
 
 ## Quá khứ (Timeline)
 
-- Sinh ra trong gia tộc Levi, một gia tộc giàu có và có ảnh hưởng lớn tại Laccovia.
 - Khoảng năm 12 tuổi, Foil đang sống ở nước ngoài.
 - Cha mẹ Foil bị bắt và gia tộc Levi bị thanh trừng về mặt chính trị.
 - Biến cố này xảy ra cùng ngày Ngoại của Minh mất.
 - Sau đó Foil trở về Laccovia mà không biết đầy đủ chuyện gì đã xảy ra với gia đình.
-- Foil thừa kế khối tài sản rất lớn của gia tộc Levi.
 
 ## Năng lực
 
