@@ -170,15 +170,15 @@ NETWORK đưa Minh từ mô hình con người sang mô hình hệ thống, đ�
 
 ### Part III — AMYGDALA
 
-Khoảng năm 22 tuổi, quan hệ Minh–Foil đi tới điểm cuối.
+AMYGDALA diễn ra khi Minh khoảng 22 tuổi, lúc những gì bắt đầu từ việc mô hình hóa con người và mạng lưới đã mở rộng tới quy mô xã hội và chính trị của Laccovia.
 
-Foil lúc này đã trở thành một người có ảnh hưởng thật sự và bước vào một lựa chọn chính trị có hậu quả vượt xa phạm vi đời sống cá nhân. Cậu chọn hy sinh vì mục đích của chính mình trước khi Minh kịp triển khai một phương án khác có thể giải quyết tình thế mà Foil không cần chết.
+Đến đây, Minh và Foil đều đã có con đường riêng. Minh ngày càng mạnh ở việc nhìn hệ thống, tìm điểm tác động và tạo ra kết quả ở quy mô lớn; Foil meanwhile đã tự xây ảnh hưởng chính trị đủ để lựa chọn của cậu có thể làm thay đổi những gì vượt xa đời sống cá nhân. Sự khác biệt giữa hai người vì thế không còn chỉ nằm ở cách nghĩ hay cách sống, mà bắt đầu tạo ra những hệ quả thật sự trong cùng một hệ thống.
 
-Minh chứng kiến Foil chết mà không hiểu hết toàn bộ nguyên nhân ngay lúc đó.
+Các xung đột của Part III dần đẩy Minh và Foil về hai hướng khác nhau. Minh vẫn tìm một phương án có thể giữ mọi thứ trong phạm vi giải được; Foil đi tới một lựa chọn mà cậu chấp nhận trả giá bằng chính mạng sống. Cái chết của Foil là điểm cuối của chuỗi nguyên nhân đó, không phải toàn bộ nội dung của AMYGDALA.
 
-Sau gần bảy năm Foil tồn tại trong đời mình, cái chết ấy khiến Minh lần đầu nhìn thấy đầy đủ trọng lượng của mối quan hệ giữa hai người. Minh nhận ra tình yêu sâu sắc dành cho Foil theo nghĩa platonic, khi người đó đã không còn ở đó nữa.
+Minh chứng kiến Foil chết khi vẫn chưa hiểu hết vì sao cậu lại chọn như vậy. Chỉ sau đó, toàn bộ trọng lượng của gần bảy năm quan hệ giữa hai người mới dội ngược trở lại Minh. Cậu nhận ra tình yêu sâu sắc dành cho Foil theo nghĩa platonic, đồng thời lần đầu đối diện trực tiếp với một mất mát mà mọi mô hình và phương án của mình đều không còn ý nghĩa.
 
-Cái chết của Foil làm thay đổi sâu sắc thế cân bằng INT/Core. INT dần mất vị trí chi phối tuyệt đối, và hành trình của main trilogy khép lại khi câu chuyện trở về Giáo sư Minh ở tuổi 42.
+Cú sụp đó làm thay đổi sâu sắc thế cân bằng INT/Core. INT mất dần vị trí chi phối tuyệt đối, và main trilogy khép lại khi câu chuyện trở về Giáo sư Minh ở tuổi 42.
 
 ### FOIL
 
