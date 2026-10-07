@@ -198,7 +198,7 @@ FOIL đi xuyên các giai đoạn Foil đã xuất hiện trong main trilogy và
 
 PAST quay về thời điểm trước khi Minh và Foil trở thành hai con người mà main story cho thấy.
 
-Ở phần tính cách gốc, **Core của Minh và Foil gần như cùng một kiểu người**: nhạy cảm, giàu tình cảm, dễ gắn bó và đều có một đời sống nội tâm sâu hơn rất nhiều so với vẻ ngoài sau này. Cả hai cũng lớn lên qua những biến cố đủ mạnh để buộc họ phải tìm một cách sống sót.
+Ở phần tính cách gốc, **Core của Minh và Foil gần như cùng một kiểu người**: nhạy cảm, giàu tình cảm, sống nội tâm và có xu hướng gắn bó rất sâu với những người mình thật sự coi trọng. Cả hai cũng lớn lên qua những biến cố đủ mạnh để buộc họ phải tìm một cách sống sót.
 
 Từ cùng một điểm xuất phát, hai người đi theo hai hướng gần như đối nghịch.
 
