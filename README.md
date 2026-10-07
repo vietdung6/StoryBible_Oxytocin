@@ -1,38 +1,15 @@
-# OXYTOCIN — Story Bible
+# OXYTOCIN
 
-Đây là repository hiện hành của **OXYTOCIN**.
+Repository dùng để quản lý bản thảo, dàn ý, nhân vật, thế giới và các tài liệu phát triển của **OXYTOCIN**.
 
-Mục tiêu của repo này là giữ đủ thông tin để viết truyện lâu dài mà không biến việc quản lý tài liệu thành một hệ thống phức tạp hơn chính câu chuyện.
-
-Repo cũ chỉ được xem là **archive/reference**. Một chi tiết chỉ thuộc phiên bản hiện hành khi nó đã được đưa vào repository này.
-
----
-
-## Cấu trúc chính
-
-OXYTOCIN dùng hierarchy:
+## Cấu trúc truyện
 
 **Part → Arc → Ep → Chapter**
 
-Tuy nhiên, workflow sáng tác không bắt đầu từ Chapter.
+Trong quá trình viết, nội dung được phát triển theo **Ep**.  
+Sau khi một **Arc** hoàn chỉnh, toàn bộ Arc mới được đọc lại và chia thành **Chapter** theo nhịp truyện thực tế.
 
-Trong lúc viết, mỗi **Ep** là một file văn bản. Chỉ sau khi **toàn bộ Arc đã hoàn chỉnh**, Arc mới được đọc lại và chia thành các Chapter theo nhịp truyện thực tế.
-
-Không tạo Chapter trước chỉ để lấp cấu trúc.
-
-### Các tuyến chính
-
-- Part 00 — **ZEROTH AXIOM**
-- Part I — **SIXTEEN**
-- Part II — **NETWORK**
-- Part III — **AMYGDALA**
-- Part IV — **LIMBIC**
-- Spin-off I — **FOIL**
-- Spin-off II — **PAST**
-
----
-
-## Bản đồ repository
+## Cấu trúc repository
 
 ```text
 .
@@ -55,142 +32,89 @@ Không tạo Chapter trước chỉ để lấp cấu trúc.
 └─ inbox/
 ```
 
+## Nội dung từng thư mục
+
 ### `story/`
 
-Văn bản truyện thực tế.
+Bản thảo truyện.
 
-Đây là nơi trả lời câu hỏi:
-
-> Truyện hiện tại thực sự viết gì?
-
-Trong giai đoạn sáng tác, prose được giữ theo từng **Ep**. Không dựng lại prose từ outline nếu file truyện chưa tồn tại.
+Mỗi Ep được viết thành một file riêng trong Arc tương ứng.
 
 ### `outline/`
 
 Dàn ý của Part, Arc và Ep.
 
-Outline giữ những gì cần để nhớ và tiếp tục câu chuyện:
-
-- chuyện gì xảy ra;
-- thứ tự các beat;
-- mục đích của Ep/Arc;
+Dùng để giữ:
+- diễn biến chính;
+- thứ tự sự kiện;
+- chức năng của từng Ep;
 - thay đổi nhân vật và quan hệ;
-- chuỗi nhân quả quan trọng;
-- các điểm chưa chốt.
-
-Outline không phải văn bản truyện.
+- các điểm chưa hoàn thiện.
 
 ### `mindgames/`
 
-Thiết kế kỹ thuật cho các màn đấu trí.
+Thiết kế các màn đấu trí hoặc cơ chế cần tách riêng khỏi outline.
 
-Có thể chứa:
-
+Có thể bao gồm:
 - luật;
 - dữ kiện;
 - giới hạn;
 - cách suy luận;
 - lời giải;
-- thông tin mỗi bên biết;
-- tính công bằng;
-- biến gây nhiễu;
-- phương án phản ứng.
-
-Không phải Arc nào cũng cần file mindgame. Chỉ tạo khi cơ chế đủ phức tạp để cần tách riêng khỏi outline.
+- thông tin mỗi bên nắm giữ;
+- biến gây nhiễu.
 
 ### `characters/`
 
-Hồ sơ nhân vật, chia thành bốn cấp:
+Hồ sơ nhân vật.
 
-- **01_CORE** — nhân vật cốt lõi của toàn bộ series.
-- **02_MAJOR** — nhân vật lớn, có ảnh hưởng dài hoặc giữ vai trò quan trọng trong một tuyến.
-- **03_SUPPORTING** — nhân vật phụ có tác động đáng kể nhưng không cần hồ sơ cấp Major.
+Bốn cấp:
+
+- **01_CORE** — nhân vật trung tâm của toàn series.
+- **02_MAJOR** — nhân vật lớn.
+- **03_SUPPORTING** — nhân vật phụ quan trọng.
 - **04_MINOR** — nhân vật nhỏ cần giữ nhất quán.
-
-Hồ sơ nhân vật giữ identity, voice, giới hạn năng lực, đặc điểm ổn định và những điều không được viết lệch.
 
 ### `continuity/`
 
-Chỉ giữ những thứ cần theo dõi xuyên nhiều Arc:
+Theo dõi các yếu tố xuyên nhiều phần của truyện.
 
-- `TIMELINE.md` — thứ tự sự kiện;
-- `RELATIONSHIPS.md` — trạng thái và các mốc quan hệ;
-- `SEEDS.md` — chi tiết cài trước và payoff cần nhớ.
-
-Không tạo thêm registry nếu chưa có nhu cầu thực tế.
+- `TIMELINE.md` — dòng thời gian.
+- `RELATIONSHIPS.md` — trạng thái và tiến triển quan hệ.
+- `SEEDS.md` — chi tiết cài trước và payoff.
 
 ### `world/`
 
-Thiết lập thế giới và các tổ chức/địa điểm quan trọng.
+Thiết lập thế giới, địa điểm và tổ chức.
 
 ### `research/`
 
-Tài liệu nghiên cứu phục vụ việc viết.
-
-**Research không tự trở thành canon.**
+Tài liệu nghiên cứu phục vụ quá trình viết.
 
 ### `inbox/`
 
-Nơi giữ ý tưởng chưa chốt.
+Ý tưởng chưa được đưa vào cấu trúc chính thức.
 
-Một ý tưởng trong `inbox/` không được xem là thiết lập chính thức cho tới khi nó được quyết định và chuyển sang đúng nguồn.
-
----
-
-## Các file ở root
+## Các file chính
 
 ### `CURRENT.md`
 
-Điểm bắt đầu khi quay lại dự án.
-
-Chỉ cần trả lời:
-
-- đang viết gì;
-- file hiện tại là gì;
-- đã dừng ở đâu;
-- bước tiếp theo là gì;
-- có vấn đề cục bộ nào cần nhớ.
-
-Giữ file này ngắn.
+Ghi vị trí đang viết và bước tiếp theo.
 
 ### `CANON.md`
 
-Chỉ giữ thiết lập cấp toàn series và những invariant thật sự cần tồn tại xuyên nhiều phần.
-
-Không dùng nó làm kho chứa mọi fact của truyện.
+Thiết lập cấp toàn series.
 
 ### `STYLE.md`
 
-Luật viết văn bản truyện.
+Quy tắc văn phong và cách viết bản thảo.
 
-Voice riêng của từng nhân vật nên nằm trong hồ sơ nhân vật tương ứng thay vì dồn tất cả vào đây.
+## Workflow
 
----
-
-## Workflow viết
-
-Khi quay lại viết:
-
-1. Đọc `CURRENT.md`.
-2. Mở đúng file trong `outline/` của phần đang viết.
-3. Nếu có đấu trí phức tạp, đọc file tương ứng trong `mindgames/`.
-4. Chỉ mở character, continuity hoặc world file thực sự liên quan tới cảnh.
-5. Trước khi viết prose, đọc `STYLE.md`.
-6. Viết trực tiếp vào Ep tương ứng trong `story/`.
-7. Khi toàn bộ Arc hoàn chỉnh, đọc lại Arc và mới chia Chapter.
-
-**Không đọc toàn bộ repo theo mặc định.**
-
----
-
-## Nguyên tắc giữ repo gọn
-
-- Một loại thông tin nên có một nơi chịu trách nhiệm chính.
-- Không copy cùng một fact vào nhiều file chỉ vì nó có liên quan.
-- `story/` là prose, `outline/` là thiết kế câu chuyện, `mindgames/` là cơ chế đấu trí.
-- Chat, brainstorm và repo cũ không tự override nội dung hiện hành.
-- Không tự biến ý tưởng chưa chốt thành canon.
-- Git giữ lịch sử thay đổi; repo hiện tại chỉ cần phản ánh trạng thái đang dùng.
-- Chỉ thêm file hoặc hệ thống mới khi việc viết thực sự cần nó.
-
-Mục tiêu cuối cùng của Story Bible là **giúp viết OXYTOCIN dễ hơn**, không phải biến OXYTOCIN thành một dự án quản trị tài liệu.
+1. Xác định Arc và Ep đang viết trong `CURRENT.md`.
+2. Đọc outline tương ứng.
+3. Đọc mindgame nếu Ep có cơ chế đấu trí riêng.
+4. Mở các hồ sơ nhân vật hoặc world cần thiết.
+5. Viết Ep trong `story/`.
+6. Hoàn thiện toàn bộ Arc.
+7. Chia Arc thành Chapter sau cùng.
