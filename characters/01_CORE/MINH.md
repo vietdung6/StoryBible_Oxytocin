@@ -50,13 +50,13 @@ INT không phải một nhân cách phản diện và không tồn tại độc 
 
 ## Năng lực
 
-Minh mạnh ở tư duy phân tích, mô hình hóa và suy luận nhân quả.
+Minh có khả năng nhìn một vấn đề như một hệ thống thay vì một chuỗi sự kiện rời rạc.
 
-Có khả năng tách một vấn đề thành các biến, xây giả thuyết, kiểm tra và cập nhật mô hình khi dữ liệu thay đổi.
+Cậu thường tìm cấu trúc nằm bên dưới hành vi: yếu tố nào đang chi phối, các biến liên hệ với nhau ra sao, điều kiện nào tạo ra kết quả và điểm nào trong hệ thống có thể bị tác động.
 
-Mạnh hơn ở các bài toán dài hạn, có cấu trúc và cần tích lũy thông tin qua thời gian.
+Thế mạnh của Minh nằm ở việc xây một mô hình đủ rõ để dự đoán, kiểm tra rồi sửa lại khi thực tế không khớp. Cậu đặc biệt mạnh với những vấn đề dài hạn, nhiều tầng nguyên nhân và cần tích lũy thông tin qua thời gian.
 
-Minh có kiến thức rộng ở nhiều lĩnh vực và có khả năng kết nối chúng khi phân tích vấn đề.
+Minh có kiến thức rộng ở nhiều lĩnh vực và thường kết nối chúng thành một khung phân tích chung thay vì sử dụng từng mảng kiến thức riêng lẻ.
 
 ## Thế giới quan
 
