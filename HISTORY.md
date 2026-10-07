@@ -4,6 +4,8 @@ Nhật ký phát triển OXYTOCIN theo ngày.
 
 ## 2026-10-08
 
+- Thêm mục lục đọc vào `CANON.md`, gồm thứ tự các Part/Spin-off và tên Arc đã chốt.
+
 - Tạo repository mới `StoryBible_Oxytocin`.
 - Thiết lập cấu trúc `story/`, `outline/`, `mindgames/`, `characters/`, `continuity/`, `world/`, `research/`, `inbox/`.
 - Chia nhân vật thành 4 cấp: CORE, MAJOR, SUPPORTING, MINOR.
