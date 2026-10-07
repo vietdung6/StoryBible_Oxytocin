@@ -4,7 +4,9 @@ Repository dùng để quản lý bản thảo, dàn ý, nhân vật, thế gi�
 
 ## Cấu trúc truyện
 
-**Part → Arc → Ep → Chapter**
+**Part → Phase → Arc → Ep → Chapter**
+
+Một **Phase** gom nhiều Arc thuộc cùng một giai đoạn lớn trong Part.
 
 Trong quá trình viết, nội dung được phát triển theo **Ep**.  
 Sau khi một **Arc** hoàn chỉnh, toàn bộ Arc mới được đọc lại và chia thành **Chapter** theo nhịp truyện thực tế.
@@ -43,7 +45,7 @@ Mỗi Ep được viết thành một file riêng trong Arc tương ứng.
 
 ### `outline/`
 
-Dàn ý của Part, Arc và Ep.
+Dàn ý của Part, Phase, Arc và Ep.
 
 Dùng để giữ:
 - diễn biến chính;
