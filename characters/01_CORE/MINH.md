@@ -58,14 +58,6 @@ Mạnh hơn ở các bài toán dài hạn, có cấu trúc và cần tích lũy
 
 Minh có kiến thức rộng ở nhiều lĩnh vực và có khả năng kết nối chúng khi phân tích vấn đề.
 
-## Giới hạn
-
-Minh không toàn tri và không thể kiểm soát hoàn toàn con người hay hệ thống.
-
-Khả năng mô hình hóa giảm khi số lượng biến tăng, thông tin thiếu, tác nhân thay đổi hoặc chính hành động can thiệp làm hệ thống đổi trạng thái.
-
-Minh có xu hướng phân tích cảm xúc của chính mình thay vì trực tiếp đối diện với chúng.
-
 ## Thế giới quan
 
 Minh nghiêng về **chủ nghĩa hư vô tiêu cực**.
