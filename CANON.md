@@ -172,7 +172,7 @@ NETWORK đưa Minh từ mô hình con người sang mô hình hệ thống, đ�
 
 AMYGDALA diễn ra khi Minh khoảng 22 tuổi, lúc những gì bắt đầu từ việc mô hình hóa con người và mạng lưới đã mở rộng tới quy mô xã hội và chính trị của Laccovia.
 
-Đến đây, Minh và Foil đều đã có con đường riêng. Minh ngày càng mạnh ở việc nhìn hệ thống, tìm điểm tác động và tạo ra kết quả ở quy mô lớn; Foil meanwhile đã tự xây ảnh hưởng chính trị đủ để lựa chọn của cậu có thể làm thay đổi những gì vượt xa đời sống cá nhân. Sự khác biệt giữa hai người vì thế không còn chỉ nằm ở cách nghĩ hay cách sống, mà bắt đầu tạo ra những hệ quả thật sự trong cùng một hệ thống.
+Đến đây, Minh và Foil đều đã có con đường riêng. Minh ngày càng mạnh ở việc nhìn hệ thống, tìm điểm tác động và tạo ra kết quả ở quy mô lớn; trong khi Foil đã tự xây ảnh hưởng chính trị đủ để lựa chọn của cậu có thể làm thay đổi những gì vượt xa đời sống cá nhân. Sự khác biệt giữa hai người vì thế không còn chỉ nằm ở cách nghĩ hay cách sống, mà bắt đầu tạo ra những hệ quả thật sự trong cùng một hệ thống.
 
 Các xung đột của Part III dần đẩy Minh và Foil về hai hướng khác nhau. Minh vẫn tìm một phương án có thể giữ mọi thứ trong phạm vi giải được; Foil đi tới một lựa chọn mà cậu chấp nhận trả giá bằng chính mạng sống. Cái chết của Foil là điểm cuối của chuỗi nguyên nhân đó, không phải toàn bộ nội dung của AMYGDALA.
 
