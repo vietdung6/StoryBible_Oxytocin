@@ -305,9 +305,15 @@ Cái chết của Foil làm thay đổi sâu sắc thế cân bằng INT/Core. I
 
 FOIL đi lại hành trình của Foil trong main story từ góc nhìn của chính cậu.
 
-Những hành động từng chỉ được nhìn từ phía Minh bắt đầu có nội tâm, động cơ và bối cảnh riêng. Hình tượng Foil mà người khác nhìn thấy không còn là toàn bộ con người cậu; nhiều lựa chọn tưởng như tùy hứng, nhẹ tênh hoặc khó hiểu hóa ra gắn với những giá trị và tổn thương sâu hơn.
+Foil sinh ra trong gia tộc Levi, một gia tộc giàu có và từng tồn tại như một khối quyền lực thực sự tại Laccovia. Khi Foil khoảng 12 tuổi, cha mẹ cậu bị bắt và gia tộc Levi bị thanh trừng về mặt chính trị. Foil khi đó đang sống ở nước ngoài, rồi trở về Laccovia mà không biết đầy đủ chuyện gì đã xảy ra với gia đình mình.
 
-Ngoại truyện này đi xuyên các giai đoạn Foil đã xuất hiện trong main trilogy, đồng thời mở thêm phần quá khứ cần thiết để hiểu cậu trước khi câu chuyện tiến tới PAST.
+Cha mẹ Foil từng đứng ở tầng cao của đời sống khoa học và chính trị, nhưng Foil không bước vào chính trị bằng cách đơn giản kế thừa vị thế của họ. Từ cuối cấp ba qua những năm đại học, cậu tự xây quan hệ, lòng tin, khả năng tiếp cận và ảnh hưởng của riêng mình. Tài sản cùng cái tên Levi có thể mở cửa, nhưng không tự tạo ra người đi theo Foil.
+
+Đến khoảng 22 tuổi, Foil đã là một political actor thực sự, có khả năng làm thay đổi những outcome vượt xa phạm vi trường học hay đời sống cá nhân. Con đường đó cuối cùng đưa cậu tới một lựa chọn chính trị mà chính cậu quyết định theo đuổi, kể cả khi cái giá là mạng sống.
+
+Những hành động từng chỉ được nhìn từ phía Minh bắt đầu có nội tâm, động cơ và bối cảnh riêng. Hình tượng Foil mà người khác nhìn thấy không còn là toàn bộ con người cậu; nhiều lựa chọn tưởng như tùy hứng, nhẹ tênh hoặc khó hiểu hóa ra gắn với hệ giá trị, quá khứ gia đình và con đường chính trị mà cậu tự chọn.
+
+FOIL đi xuyên các giai đoạn Foil đã xuất hiện trong main trilogy và làm rõ phần đời độc lập của cậu ngoài Minh. Nó cũng mở phần quá khứ cần thiết trước khi PAST nối sâu hơn gia đình Levi, lịch sử Laccovia và những nguyên nhân mà ngay cả Foil lúc còn sống cũng chưa biết hết.
 
 ### PAST
 
