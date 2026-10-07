@@ -4,11 +4,10 @@
 
 - Tên đầy đủ: **Fatio Ozias Isaac Levi**
 - Biệt danh: **Foil**
-- Chữ cái đầu: **F.O.I.L.**
 - Giới tính: Nam
 - Sinh ngày **06/06**
 - Có gốc Ashkenazi; mẹ là người Laccovian.
-- Tóc vàng.
+- Ngoại hình sáng, tóc vàng.
 - Xuất thân từ gia tộc Levi, cực kỳ giàu.
 - Hài hước, phóng khoáng, thông minh, khó nắm bắt.
 - IQ Concept: khoảng **190**
