@@ -40,12 +40,13 @@ Từ sau khi Ngoại mất, INT dần trở thành trạng thái chi phối ph�
 
 INT không phải một nhân cách phản diện và không tồn tại độc lập với Minh.
 
-## Quá khứ
+## Quá khứ (Timeline)
 
-- Cha bạo hành Minh và mẹ.
-- Mẹ mất khi Minh khoảng 7 tuổi.
-- Sau đó Minh sống với Ngoại.
-- Ngoại mất khi Minh khoảng 12 tuổi.
+- Cha bạo hành Minh và mẹ từ khi còn nhỏ.
+- Nhân cách INT hình thành.
+- Mẹ mất khi Minh khoảng 7 tuổi do bệnh về thần kinh.
+- Sau đó Minh sống với Ngoại. Cha Minh kết hôn với người khác.
+- Ngoại mất khi Minh khoảng 12 tuổi. (Cùng ngày cha mẹ Foil bị bắt).
 - Sau mốc này, INT dần chi phối phần lớn thời gian.
 
 ## Năng lực
