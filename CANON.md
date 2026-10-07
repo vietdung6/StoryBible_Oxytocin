@@ -43,7 +43,7 @@ File này lưu các thiết lập đã chốt của toàn series, kể cả nh�
 7. **Part IV — LIMBIC**
    - Arc: **TBA**
 
-**PAST phải được đọc trước LIMBIC.**
+Thứ tự đọc phần mở rộng: **FOIL → PAST → LIMBIC**.
 
 ## Bản sắc tác phẩm
 
@@ -189,11 +189,13 @@ Chức năng:
 
 > **Minh lần đầu mô hình hóa chính mình.**
 
-LIMBIC có thể đi sâu hơn vào giai đoạn từ khoảng 22 đến 42 tuổi, tổ chức, quá khứ và các cơ chế thần kinh mang tính speculative.
+LIMBIC đi qua quãng đời từ khoảng 22 đến 42 tuổi, khi quá khứ, Organization và cơ chế INT/Core dần hội tụ vào chính Minh.
 
-**PAST phải được đọc trước LIMBIC.** Part IV được xây trên những nguyên nhân, mối nối lịch sử và phần quá khứ đã được PAST làm rõ, nên PAST là phần chuẩn bị trực tiếp cho LIMBIC.
+Những mối nối lịch sử cần cho LIMBIC đã được mở ra trong PAST. Vì vậy thứ tự giữa hai phần là:
 
-Part IV không được biến kết thúc của AMYGDALA thành một ending chưa hoàn thành.
+**PAST → LIMBIC**
+
+AMYGDALA vẫn là kết thúc trọn vẹn của main trilogy; LIMBIC mở một tầng câu chuyện khác thay vì nối tiếp một cái kết còn dang dở.
 
 ---
 
@@ -211,17 +213,15 @@ Trục cốt lõi:
 
 ### PAST
 
-Đi sâu vào quá khứ của Minh, Foil, gia đình và tổ chức.
+Đi sâu vào quá khứ của Minh, Foil, gia đình và Organization.
 
 Chức năng:
 
 > **Nối lại những mảnh nguyên nhân đã tồn tại trước câu chuyện chính.**
 
-PAST được phép thay đổi cách hiểu về những sự kiện cũ nhưng không được phủ nhận những gì thực sự đã xảy ra.
+PAST nối các sự kiện cũ bằng những nguyên nhân và mối liên hệ trước đó chưa được nhìn thấy đầy đủ. Những gì được hé lộ ở đây làm thay đổi cách hiểu về quá khứ mà không thay đổi bản thân sự kiện đã xảy ra.
 
-PAST là **phần tiền đề bắt buộc cho LIMBIC**. Thứ tự đọc giữa hai phần là:
-
-**PAST → LIMBIC**
+PAST là cầu nối trực tiếp sang LIMBIC.
 
 ---
 
