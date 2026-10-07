@@ -6,14 +6,14 @@ File này lưu những thiết lập đã chốt của toàn bộ truyện, kể
 
 ## Cách gọi cấu trúc
 
-- **Part 00 — ZEROTH AXIOM**: phần mở đầu độc lập.
+- **Part 00 — THE ZEROTH AXIOM**: phần mở đầu độc lập.
 - **Main trilogy**: Part I — SIXTEEN, Part II — NETWORK, Part III — AMYGDALA.
 - **Phần mở rộng**: FOIL, PAST và Part IV — LIMBIC.
 - **Phase**: nhãn dùng để nhóm nhiều Arc trong thiết kế tổng thể; không phải một tầng thư mục hay đơn vị bản thảo.
 
 ## Mục lục đọc
 
-1. **Part 00 — ZEROTH AXIOM**
+1. **Part 00 — THE ZEROTH AXIOM**
    - Arc 00 — **Zeroth Axiom**
 
 2. **Part I — SIXTEEN**
@@ -149,11 +149,11 @@ Trong main trilogy, Tổ chức không phải đối thủ cuối cùng của to
 
 ## Tóm tắt nội dung theo từng phần
 
-### Part 00 — ZEROTH AXIOM
+### Part 00 — THE ZEROTH AXIOM
 
 Câu chuyện mở ở Minh khi đã 42 tuổi, rồi quay về Minh năm 16 tuổi, ngay trước khi bước vào cấp ba.
 
-Ở giai đoạn này, Minh đã có thói quen quan sát, dự đoán và ghi nhận quy luật trong hành vi người khác từ nhiều năm trước. ZEROTH AXIOM là lúc cậu bắt đầu đi thêm một bước: không chỉ nhìn xem con người sẽ làm gì, mà chủ động thay đổi điều kiện để xem lựa chọn của họ thay đổi ra sao.
+Ở giai đoạn này, Minh đã có thói quen quan sát, dự đoán và ghi nhận quy luật trong hành vi người khác từ nhiều năm trước. THE ZEROTH AXIOM là lúc cậu bắt đầu đi thêm một bước: không chỉ nhìn xem con người sẽ làm gì, mà chủ động thay đổi điều kiện để xem lựa chọn của họ thay đổi ra sao.
 
 Những thử nghiệm nhỏ trong đời sống thường ngày dần hình thành thành một phương pháp. Part 00 kết thúc ngay ngưỡng Minh bước vào Lacovia High, với tiên đề đầu tiên:
 
