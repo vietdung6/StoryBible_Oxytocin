@@ -2,7 +2,7 @@
 
 Đây là story bible chính của OXYTOCIN.
 
-File này được phép chứa **spoiler toàn bộ series**, bao gồm tên gọi chính thức, danh tính, quan hệ, cơ chế ẩn, nguyên nhân, kết cục và những sự thật chỉ được tiết lộ rất muộn trong truyện, miễn là chúng đã được chốt.
+File này lưu các thiết lập đã chốt của toàn series, kể cả những thông tin chưa được tiết lộ trong truyện.
 
 ## Bản sắc tác phẩm
 
