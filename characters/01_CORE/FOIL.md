@@ -43,6 +43,12 @@ Foil giỏi ứng biến, chuyển hướng sự chú ý, tạo bất định v�
 
 Foil có kiến thức rộng ở nhiều lĩnh vực, nhưng hiếm khi dùng thành tích học tập làm thước đo năng lực. Điểm số công khai thường thấp vì cậu không coi trọng hệ đánh giá đủ để tối ưu cho nó.
 
+## Động lực
+
+Foil muốn được tự chọn mình sẽ sống vì điều gì, thay vì để quá khứ, gia tộc hay hoàn cảnh quyết định thay.
+
+Khi đã coi một người, một mối quan hệ hoặc một mục tiêu là đáng giá, Foil có xu hướng theo nó đến cùng, kể cả khi lựa chọn đó không phải phương án an toàn hay tối ưu nhất.
+
 ## Thế giới quan
 
 Foil nghiêng về **chủ nghĩa hư vô tích cực**.
