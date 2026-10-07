@@ -46,7 +46,7 @@ Thứ tự đọc phần mở rộng: **FOIL → PAST → LIMBIC**.
 
 ## Bản sắc tác phẩm
 
-**OXYTOCIN** là truyện giật gân tâm lý, trưởng thành tăm tối và đấu trí xoay quanh **Vũ Nhật Minh**.
+**OXYTOCIN** là psychological thriller / dark coming-of-age / mindgame xoay quanh **Vũ Nhật Minh**.
 
 Minh nhìn con người như những hệ thống có thể quan sát, mô hình hóa, dự đoán và tác động. Từ năm 16 tuổi, cách nhìn đó dần trở thành phương pháp cậu dùng để xử lý con người, quan hệ và những hệ thống lớn hơn quanh mình.
 
@@ -181,7 +181,7 @@ Bộ ba phần chính kết thúc trọn vẹn tại AMYGDALA và trở lại kh
 
 ### Part IV — LIMBIC
 
-Phần mở rộng sau bộ ba phần chính.
+Phần mở rộng sau main trilogy.
 
 Chức năng:
 
@@ -193,7 +193,7 @@ Những mối nối lịch sử cần cho LIMBIC đã được mở ra trong PAS
 
 **PAST → LIMBIC**
 
-AMYGDALA vẫn là kết thúc trọn vẹn của bộ ba phần chính; LIMBIC mở thêm một tầng câu chuyện khác thay vì nối tiếp một cái kết còn dang dở.
+AMYGDALA vẫn là kết thúc trọn vẹn của main trilogy; LIMBIC mở thêm một tầng câu chuyện khác thay vì nối tiếp một cái kết còn dang dở.
 
 ---
 
@@ -203,7 +203,7 @@ AMYGDALA vẫn là kết thúc trọn vẹn của bộ ba phần chính; LIMBIC 
 
 Đi theo hành trình của Foil từ góc nhìn của chính cậu.
 
-FOIL mở thêm quá khứ, động cơ và những phần của truyện chính mà Minh không thể thấy hoặc không thể hiểu đầy đủ.
+FOIL mở thêm quá khứ, động cơ và những phần của main story mà Minh không thể thấy hoặc không thể hiểu đầy đủ.
 
 Trục cốt lõi:
 
@@ -243,7 +243,7 @@ Tổ chức không đơn giản là thế lực ác đứng sau mọi thứ.
 
 Nó có mục tiêu, logic và những con người riêng; những việc nó làm có thể tạo ra hậu quả nghiêm trọng mà không cần biến nó thành một âm mưu toàn năng.
 
-Trong bộ ba phần chính, Tổ chức không phải đối thủ cuối cùng của toàn bộ câu chuyện.
+Trong main trilogy, Tổ chức không phải đối thủ cuối cùng của toàn bộ câu chuyện.
 
 ---
 
@@ -258,7 +258,7 @@ Thông tin xuất hiện về sau có thể:
 
 Nhưng những gì đã thực sự xảy ra không thay đổi theo ý tưởng mới. Một sự kiện có thể được hiểu lại, nhưng không bị âm thầm viết lại.
 
-Những chi tiết đời thường cũng không mặc nhiên trở thành dấu hiệu báo trước chỉ vì về sau chúng có thể được nối với một ý nghĩa khác.
+Những chi tiết đời thường cũng không mặc nhiên trở thành foreshadowing chỉ vì về sau chúng có thể được nối với một ý nghĩa khác.
 
 Hiểu biết của nhân vật luôn bị giới hạn bởi những gì họ đã biết, đã thấy hoặc có đủ cơ sở để suy ra ở thời điểm đó.
 
@@ -266,13 +266,13 @@ Hiểu biết của nhân vật luôn bị giới hạn bởi những gì họ �
 
 ## Quan hệ Minh–Foil
 
-Minh và Foil là quan hệ và đối trọng trung tâm kéo dài xuyên bộ ba phần chính.
+Minh và Foil là quan hệ và đối trọng trung tâm kéo dài xuyên main trilogy.
 
 Trong gần bảy năm, Foil dần trở thành một phần không thể tách khỏi đời Minh. Giữa họ đồng thời tồn tại tình bạn, cạnh tranh, sự cuốn hút lẫn nhau, ảnh hưởng hai chiều, gắn bó và mức độ thấu hiểu gần như tri kỷ.
 
 Foil thách thức **cách Minh sống**, không chỉ trí thông minh hay phương pháp của Minh.
 
-Minh không nhận ra đầy đủ trọng lượng của mối quan hệ này cho tới khi chứng kiến Foil chết. Khi đó, Minh mới hiểu rằng mình yêu Foil sâu sắc theo nghĩa **không lãng mạn**.
+Minh không nhận ra đầy đủ trọng lượng của mối quan hệ này cho tới khi chứng kiến Foil chết. Khi đó, Minh mới hiểu rằng mình yêu Foil sâu sắc theo nghĩa **platonic / không lãng mạn**.
 
 Sự nhận ra ấy không tạo ra tình cảm từ con số 0 và cũng không xóa những lớp quan hệ đã tồn tại trước đó. Nó chỉ khiến Minh lần đầu nhìn thấy toàn bộ thứ đã tích lũy giữa hai người.
 
