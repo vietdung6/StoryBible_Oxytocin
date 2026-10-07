@@ -186,11 +186,11 @@ FOIL đi lại hành trình của Foil trong main story từ góc nhìn của ch
 
 Foil sinh ra trong gia tộc Levi, một gia tộc giàu có và từng tồn tại như một khối quyền lực thực sự tại Laccovia. Khi Foil khoảng 12 tuổi, cha mẹ cậu bị bắt và gia tộc Levi bị thanh trừng về mặt chính trị. Foil khi đó đang sống ở nước ngoài, rồi trở về Laccovia mà không biết đầy đủ chuyện gì đã xảy ra với gia đình mình.
 
-Cha mẹ Foil từng đứng ở tầng cao của đời sống khoa học và chính trị, nhưng Foil không bước vào chính trị bằng cách đơn giản kế thừa vị thế của họ. Từ cuối cấp ba qua những năm đại học, cậu tự xây quan hệ, lòng tin, khả năng tiếp cận và ảnh hưởng của riêng mình. Tài sản cùng cái tên Levi có thể mở cửa, nhưng không tự tạo ra người đi theo Foil.
+Gia tộc Levi từng đứng trong tầng quyền lực của Laccovia, nơi khoa học, tiền bạc và chính trị chạm vào nhau. Sau cuộc thanh trừng, Foil chỉ còn lại cái tên Levi, khối tài sản khổng lồ và một quá khứ mà chính cậu cũng không biết hết. Quyền lực cũ của gia đình không còn nguyên vẹn để cậu kế thừa.
 
-Đến khoảng 22 tuổi, Foil đã là một political actor thực sự, có khả năng làm thay đổi những outcome vượt xa phạm vi trường học hay đời sống cá nhân. Con đường đó cuối cùng đưa cậu tới một lựa chọn chính trị mà chính cậu quyết định theo đuổi, kể cả khi cái giá là mạng sống.
+Từ cuối cấp ba đến những năm đại học, Foil tự dựng một mạng lưới của riêng mình. Cậu kết nối người, tạo uy tín, bước vào những nơi trước đó chỉ cái họ Levi mới có thể mở cửa, rồi dần khiến ảnh hưởng của mình tồn tại độc lập với gia đình đã mất.
 
-Những hành động từng chỉ được nhìn từ phía Minh bắt đầu có nội tâm, động cơ và bối cảnh riêng. Hình tượng Foil mà người khác nhìn thấy không còn là toàn bộ con người cậu; nhiều lựa chọn tưởng như tùy hứng, nhẹ tênh hoặc khó hiểu hóa ra gắn với hệ giá trị, quá khứ gia đình và con đường chính trị mà cậu tự chọn.
+Đến khoảng 22 tuổi, Foil đã đủ sức chen tay vào những quyết định chính trị thật sự của Laccovia. Cậu không còn đứng ngoài hệ thống nữa mà trở thành một phần có thể làm lệch hướng nó. Chính ở đó, Foil đi tới lựa chọn cuối cùng: theo đuổi một mục tiêu chính trị mà cậu tin là đáng để đổi bằng mạng sống của mình.
 
 FOIL đi xuyên các giai đoạn Foil đã xuất hiện trong main trilogy và làm rõ phần đời độc lập của cậu ngoài Minh. Nó cũng mở phần quá khứ cần thiết trước khi PAST nối sâu hơn gia đình Levi, lịch sử Laccovia và những nguyên nhân mà ngay cả Foil lúc còn sống cũng chưa biết hết.
 
