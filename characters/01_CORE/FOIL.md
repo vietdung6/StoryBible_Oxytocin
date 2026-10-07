@@ -19,7 +19,11 @@ Foil thường xuất hiện với hình ảnh cởi mở, vui tính, tinh ngh�
 
 Phần tính cách gốc của Foil gần **INFP**.
 
-Foil sống nội tâm hơn vẻ ngoài, có hệ giá trị cá nhân mạnh và gắn bó rất sâu với những người hoặc điều mình thật sự coi trọng. Phần hướng ngoại, hài hước và khó đoán chủ yếu thuộc cách Foil thể hiện ra ngoài, không phải toàn bộ con người bên trong.
+Foil sống nội tâm hơn vẻ ngoài, có hệ giá trị cá nhân mạnh và gắn bó rất sâu với những người hoặc điều mình thật sự coi trọng.
+
+Mặt nạ xã hội của Foil mang màu **ENFP**: hoạt ngôn hơn, nhiều năng lượng hơn, hài hước, thân thiện và dễ kéo người khác vào nhịp của mình. Đây là cách Foil thể hiện ra ngoài, không phải toàn bộ con người bên trong.
+
+Khi không cần duy trì hình tượng xã hội, Foil yên hơn rõ rệt, ít có nhu cầu lấp khoảng im lặng và giữ phần cảm xúc sâu của mình kín hơn.
 
 Foil không có nhu cầu sửa mọi hiểu lầm về mình. Cậu có thể để người khác nghĩ mình ngốc, lười hoặc thiếu nghiêm túc nếu điều đó không ảnh hưởng đến thứ cậu quan tâm.
 
