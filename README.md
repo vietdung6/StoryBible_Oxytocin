@@ -15,6 +15,7 @@ Sau khi một **Arc** hoàn chỉnh, toàn bộ Arc mới được đọc lại 
 .
 ├─ README.md
 ├─ CURRENT.md
+├─ HISTORY.md
 ├─ CANON.md
 ├─ STYLE.md
 │
@@ -99,11 +100,15 @@ Tài liệu nghiên cứu phục vụ quá trình viết.
 
 ### `CURRENT.md`
 
-Ghi vị trí đang viết và bước tiếp theo.
+Trạng thái hiện tại của dự án: phần nào đã xong, đang viết ở đâu và ưu tiên tiếp theo.
+
+### `HISTORY.md`
+
+Nhật ký theo ngày về những thay đổi và công việc đã thực hiện.
 
 ### `CANON.md`
 
-Thiết lập cấp toàn series.
+Story bible và thiết lập của series.
 
 ### `STYLE.md`
 
