@@ -40,12 +40,9 @@ INT và Core cùng thuộc về Minh, dùng chung ký ức tự truyện nhưng 
 
 Core là phần tính cách gốc của Minh, gần INFP hơn trong thiết kế hậu trường.
 
-Core:
-- nhạy cảm;
-- giàu cảm xúc;
-- dễ bị tổn thương hơn;
-- phản ứng theo trực giác và giá trị cá nhân nhiều hơn INT;
-- giữ phần con người mà INT luôn cố bảo vệ.
+Nếu INT luôn tìm cách đứng ngoài một tình huống để hiểu và kiểm soát nó, Core lại sống trực tiếp bên trong những gì mình cảm thấy. Core dễ bị tác động bởi con người hơn, nhưng cũng vì vậy mà có khả năng gắn bó rất sâu, đặt giá trị vào một người hay một mối quan hệ mà không cần biến nó thành bài toán phải giải.
+
+Core không yếu hơn INT và cũng không phải phần “cảm tính” tồn tại để đối lập với lý trí. Đây là Minh trước khi nhu cầu tự bảo vệ biến việc giảm bất định thành cách sống chủ đạo.
 
 Core không phải “Minh thật” theo nghĩa INT là giả. Cả hai đều là Minh.
 
@@ -79,59 +76,31 @@ Mẹ mất khi Minh khoảng 7 tuổi. Sau đó Minh sống với Ngoại.
 
 Khoảng năm 12 tuổi, Ngoại mất. Từ đây INT dần trở thành trạng thái chi phối Minh trong phần lớn thời gian.
 
-## Cách Minh suy nghĩ
+## Năng lực
 
-Minh có xu hướng biến hành vi thành một bài toán nhân quả.
+Điểm mạnh lớn nhất của Minh không nằm ở việc “quan sát tinh” hay biết nhiều kiến thức, mà ở khả năng **biến một tình huống hỗn độn thành một mô hình có cấu trúc**.
 
-Cậu thường đi qua một chuỗi:
+Minh có thể tách một vấn đề thành những biến quan trọng, tìm quan hệ nhân quả, nhận ra phần nào chỉ là nhiễu, dựng giả thuyết rồi tìm cách kiểm tra nó. Khi dự đoán sai, phản xạ tự nhiên của cậu không phải bảo vệ cái tôi mà là sửa mô hình và thử lại.
 
-**quan sát → phân loại → so sánh → tìm biến → loại nhiễu → dựng giả thuyết → kiểm tra → cập nhật mô hình**
+Khả năng này khiến Minh đặc biệt mạnh trong những bài toán kéo dài. Cậu có thể tích lũy dữ kiện qua thời gian, nhìn nhiều bước xa hơn hiện tại và tìm ra những điểm mà chỉ cần thay đổi một điều kiện cũng có thể làm cả hệ thống chuyển hướng.
 
-Minh đặc biệt mạnh ở việc hỏi:
-- điều gì thực sự gây ra hành vi này?
-- biến nào đang bị bỏ sót?
-- đâu là tương quan, đâu là nguyên nhân?
-- nếu thay đổi một điều kiện thì kết quả sẽ đổi thế nào?
-- bằng chứng hiện tại đủ mạnh đến đâu?
+Cùng một cách tư duy đó được mở rộng xuyên main trilogy: từ một con người, sang quan hệ giữa nhiều người, rồi tới mạng lưới và những hệ thống lớn hơn.
 
-Minh có kiến thức rộng về khoa học thần kinh nhận thức, tâm lý học, sinh học, thống kê, toán, vật lý, máy tính, triết học và các lĩnh vực liên quan.
+Minh có nền kiến thức rất rộng, nhưng kiến thức chỉ là vật liệu. Thứ thật sự định nghĩa trí tuệ của cậu là khả năng **mô hình hóa, kiểm chứng và cập nhật**.
 
-Kiến thức rộng không có nghĩa Minh thành thạo thực hành ở mọi lĩnh vực.
+So với Foil, Minh mạnh hơn ở những bài toán cần cấu trúc dài hạn, chuẩn bị, tích lũy và xây mô hình. Foil mạnh hơn ở khoảnh khắc tức thời, trực giác xã hội và ứng biến trong bất định.
 
-## Thế mạnh
+## Giới hạn
 
-Minh nổi bật ở:
+Giới hạn lớn nhất của Minh nằm ngay trong thứ khiến cậu mạnh: cậu có xu hướng tin rằng một vấn đề sẽ trở nên kiểm soát được nếu mô hình đủ tốt.
 
-- quan sát có hệ thống;
-- suy luận nhân quả;
-- nhận ra yếu tố gây nhiễu;
-- thiết kế và điều chỉnh thí nghiệm;
-- cập nhật mô hình sau khi sai;
-- tư duy dài hạn;
-- kiên trì;
-- tư duy hệ thống;
-- giữ nhiều biến trong cùng một bài toán;
-- chịu được việc một giả thuyết mình tin bị thực tế bác bỏ.
+Nhưng hiểu được một hệ thống không đồng nghĩa với việc hệ thống đó sẽ ngoan ngoãn đi theo dự đoán. Con người thay đổi, nhiều tác nhân tác động lẫn nhau, và chính việc Minh can thiệp cũng có thể tạo thêm biến mới.
 
-Minh mạnh nhất khi có đủ thời gian để hiểu cấu trúc của vấn đề.
+Vì vậy, Minh dễ đi quá xa từ **“ta hiểu cơ chế này”** sang **“ta có thể điều khiển kết quả của nó”**.
 
-So với Foil, Minh thường vượt trội hơn ở **mô hình dài hạn, quan hệ nhân quả, kỷ luật phân tích và khả năng xây hệ thống**.
+Một giới hạn khác nằm ở chính bản thân Minh. Cậu có thể phân tích cảm xúc của mình rất rõ mà vẫn không thực sự đối diện với nó. Những thứ không giải được bằng mô hình thường không biến mất; chúng chỉ bị đẩy ra khỏi phần Minh đang dùng để ra quyết định.
 
-## Điểm mù
-
-Điểm mù quan trọng của Minh là **lọc relevance quá sớm**.
-
-Minh có thể nhìn thấy một dữ kiện, nhớ nó, nhưng nếu dữ kiện đó chưa khớp với mô hình hiện tại, cậu dễ xếp nó thành noise và ngừng dành trọng lượng cho nó.
-
-Vì vậy Minh có thể sai không phải do thiếu thông tin, mà do đánh giá sai **thông tin nào đáng được giữ lại trong mô hình**.
-
-Cậu cũng có xu hướng:
-- đánh giá quá cao giá trị của một mô hình nếu nó từng dự đoán đúng nhiều lần;
-- xem bất định như một vấn đề cần được giảm thay vì một trạng thái đôi khi phải sống cùng;
-- dễ chuyển từ quan sát sang can thiệp khi tin rằng mình đã hiểu đủ;
-- xử lý cảm xúc của chính mình như dữ liệu lâu hơn mức có lợi.
-
-Foil đặc biệt nguy hiểm với Minh vì Foil hoạt động rất tốt trong chính những vùng Minh khó chịu nhất: bất định, ứng biến và những quyết định không chịu nằm yên trong một mô hình dài hạn.
+Minh không có một điểm mù cố định duy nhất. Mỗi giai đoạn của truyện có thể làm lộ ra một giới hạn khác nhau của cùng một phương pháp sống.
 
 ## Thế giới quan
 
@@ -247,7 +216,7 @@ Không biến Minh thành:
 - người khinh thường tất cả những người kém thông minh hơn;
 - nhân vật luôn đúng vì tác giả cần cậu thắng.
 
-Minh có thể sai, và những lần sai quan trọng nhất thường đến từ **mô hình thiếu biến**, **lọc sai relevance**, hoặc **đánh giá quá cao khả năng kiểm soát của mình**.
+Minh có thể sai, và những lần sai quan trọng nhất nên xuất phát từ giới hạn của mô hình, những biến cậu chưa hiểu hoặc việc cậu đánh giá quá cao khả năng kiểm soát của mình.
 
 Sự thông minh của Minh nên hiện ra trong quá trình cậu quan sát, suy luận, thử, thất bại và sửa mô hình; không phải bằng lời kể rằng cậu thiên tài.
 
