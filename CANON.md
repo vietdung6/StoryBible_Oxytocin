@@ -6,8 +6,9 @@ File này lưu những thiết lập đã chốt của toàn bộ truyện, kể
 
 ## Cách gọi cấu trúc
 
+- **Part 00 — ZEROTH AXIOM**: phần mở đầu độc lập.
 - **Main trilogy**: Part I — SIXTEEN, Part II — NETWORK, Part III — AMYGDALA.
-- **Phần mở rộng**: Part 00 — ZEROTH AXIOM, FOIL, PAST và Part IV — LIMBIC.
+- **Phần mở rộng**: FOIL, PAST và Part IV — LIMBIC.
 
 ## Mục lục đọc
 
@@ -47,7 +48,7 @@ File này lưu những thiết lập đã chốt của toàn bộ truyện, kể
 7. **Part IV — LIMBIC**
    - Arc: **TBA**
 
-Thứ tự đọc phần mở rộng: **ZEROTH AXIOM → FOIL → PAST → LIMBIC**.
+Thứ tự đọc phần mở rộng: **FOIL → PAST → LIMBIC**.
 
 ## Bản sắc tác phẩm
 
