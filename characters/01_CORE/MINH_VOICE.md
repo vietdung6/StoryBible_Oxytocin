@@ -15,7 +15,6 @@
 - Với người lớn, Minh giữ phép lịch sự nhưng không lạm dụng `vâng / dạ / ạ`.
 - Khi chủ ngữ đã rõ, ưu tiên bỏ `cháu / em / tôi` thay vì lặp lại.
 - Cách xưng hô thay đổi theo quan hệ và ngữ cảnh, không dùng một mẫu cố định cho tất cả.
-- Với Ngọc, Minh không đổi sang cách xưng `tui` chỉ vì Ngọc dùng `tui`.
 
 ## Biểu hiện
 
