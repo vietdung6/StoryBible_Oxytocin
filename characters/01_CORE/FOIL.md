@@ -43,11 +43,11 @@ Foil giỏi ứng biến, chuyển hướng sự chú ý, tạo bất định v�
 
 Foil có kiến thức rộng ở nhiều lĩnh vực, nhưng hiếm khi dùng thành tích học tập làm thước đo năng lực. Điểm số công khai thường thấp vì cậu không coi trọng hệ đánh giá đủ để tối ưu cho nó.
 
-## Động lực
+## Điểm mù
 
-Foil muốn được tự chọn mình sẽ sống vì điều gì, thay vì để quá khứ, gia tộc hay hoàn cảnh quyết định thay.
+Foil có xu hướng đánh giá thấp sức nặng của hệ thống và những cấu trúc tồn tại lâu hơn một tình huống trước mắt.
 
-Khi đã coi một người, một mối quan hệ hoặc một mục tiêu là đáng giá, Foil có xu hướng theo nó đến cùng, kể cả khi lựa chọn đó không phải phương án an toàn hay tối ưu nhất.
+Cậu tin mạnh vào khả năng lựa chọn và ứng biến của con người, nên đôi khi xem nhẹ quán tính của thiết chế, luật lệ, quyền lực và những hệ quả tích lũy theo thời gian.
 
 ## Thế giới quan
 
@@ -56,3 +56,9 @@ Foil nghiêng về **chủ nghĩa hư vô tích cực**.
 Không tin thế giới có sẵn một ý nghĩa khách quan, nhưng vẫn tin con người có thể tự chọn điều đáng giá và tạo ý nghĩa bằng hành động, quan hệ và cam kết của chính mình.
 
 Foil nghiêng mạnh về **ý chí tự do** và chấp nhận bất định như một phần của đời sống thay vì xem nó là thứ phải loại bỏ.
+
+## Động lực
+
+Foil muốn được tự chọn mình sẽ sống vì điều gì, thay vì để quá khứ, gia tộc hay hoàn cảnh quyết định thay.
+
+Khi đã coi một người, một mối quan hệ hoặc một mục tiêu là đáng giá, Foil có xu hướng theo nó đến cùng, kể cả khi lựa chọn đó không phải phương án an toàn hay tối ưu nhất.
