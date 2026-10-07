@@ -92,15 +92,9 @@ Các câu hỏi này đi qua cốt truyện, lựa chọn và hệ quả của n
 
 Nhân vật chính trung tâm của OXYTOCIN.
 
-Minh không bắt đầu từ tham vọng kiểm soát người khác. Cậu bắt đầu từ nhu cầu khiến thế giới bớt bất định. Từ nhỏ, Minh đã học cách để ý giọng nói, ánh mắt, tư thế, nhịp bước và những thay đổi rất nhỏ trong hành vi người khác, bởi đôi khi đoán được chuyện sắp xảy ra đồng nghĩa với việc có thêm một chút an toàn.
+Minh có nhu cầu rất mạnh với việc giảm bất định. Cậu quan sát con người như những hệ thống có thể phân tích, dự đoán và tác động, rồi dần mở rộng cách nhìn đó từ cá nhân sang mạng lưới, thiết chế và cuối cùng là chính mình.
 
-Theo thời gian, thói quen đó trở thành cách Minh nhìn con người. Cậu quan sát, tách biến, tìm quan hệ nhân quả, dựng giả thuyết rồi sửa lại mô hình khi thực tế không khớp. Minh không chỉ muốn biết người khác đang nghĩ gì; cậu muốn hiểu **điều gì khiến họ đi đến lựa chọn đó**, và nếu thay đổi điều kiện thì lựa chọn ấy sẽ đổi đến đâu.
-
-Bên ngoài, Minh thường im lặng, bình tĩnh và khó đọc. Bên trong lại là một hệ thống hoạt động gần như không ngừng. INT là phần đẩy cách sống ấy đi xa nhất: ưu tiên dự đoán, ổn định và kiểm soát để bảo vệ Core, phần tính cách gốc mềm hơn, giàu cảm xúc hơn và dễ bị tổn thương hơn Minh thường để lộ.
-
-Điểm mạnh lớn nhất của Minh cũng là thứ dần kéo cậu sang vùng tối. Càng hiểu cách con người phản ứng trước điều kiện, cậu càng dễ xem việc thay đổi những điều kiện ấy như một bước tiếp theo tự nhiên. Từ một thiếu niên chỉ muốn giảm bất định, Minh dần trở thành người sẵn sàng can thiệp vào con người và hệ thống quanh mình nếu tin rằng mô hình của mình đủ đúng.
-
-Nhưng Minh không phải một thiên tài toàn tri. Mô hình của cậu luôn có sai số, điểm mù và những thứ không thể thu gọn thành biến số. Toàn bộ main trilogy là quá trình Minh mở rộng phạm vi mình cố hiểu — từ một con người, đến mạng lưới, rồi tới những thứ gần cậu nhất nhưng cũng khó mô hình hóa nhất: Foil, tình cảm của chính mình và cuối cùng là bản thân Minh.
+INT đẩy Minh về phía kiểm soát, ổn định và lý trí; Core giữ phần tính cách gốc mềm hơn, giàu cảm xúc hơn. Càng đi xa, Minh càng trở nên khó phân định về đạo đức, nhưng chưa bao giờ là một người có thể hiểu hay kiểm soát mọi thứ.
 
 ### Fatio Ozias Isaac Levi — Foil
 
