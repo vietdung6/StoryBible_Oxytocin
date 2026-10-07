@@ -69,7 +69,7 @@ Khoảng từ 7 đến 12 tuổi, Core vẫn xuất hiện khá nhiều và INT 
 
 Sau khi Ngoại mất khoảng năm Minh 12 tuổi, INT dần trở thành trạng thái chi phối phần lớn thời gian.
 
-Đến tuổi 16, phần lớn Minh mà người khác gặp là INT.
+Trong main trilogy, phần lớn Minh mà người khác gặp là INT.
 
 ## Quá khứ
 
@@ -135,7 +135,7 @@ Foil đặc biệt nguy hiểm với Minh vì Foil hoạt động rất tốt tr
 
 ## Thế giới quan
 
-Ở tuổi 16, Minh nghiêng mạnh về **chủ nghĩa hư vô tiêu cực**.
+Minh nghiêng mạnh về **chủ nghĩa hư vô tiêu cực**.
 
 Một câu cô đọng cách INT nhìn cảm xúc:
 
@@ -188,7 +188,7 @@ Gần cuối Arc 4, Minh đẩy điều kiện về phía một cuộc chia tay 
 
 Nhiều năm sau cái chết của Foil, Minh và Ngọc cuối cùng kết hôn. Cuộc gặp lại và hôn nhân về sau không phải một manipulation experiment mới.
 
-## Hành trình qua series
+## Hành trình trong main trilogy
 
 ### Part 00 — THE ZEROTH AXIOM
 
@@ -219,12 +219,6 @@ Sau cái chết của Foil, INT suy yếu mạnh.
 Cuối cùng INT nhận ra việc bảo vệ tuyệt đối đã biến thành sống thay Core và tự nguyện trả quyền điều khiển chủ yếu lại cho Core.
 
 Core không quay về như một con người trắng xóa. Vì ký ức được dùng chung, toàn bộ kinh nghiệm và kỹ năng Minh tích lũy vẫn còn đó.
-
-### Part IV — LIMBIC
-
-Minh lần đầu lấy chính bản thân mình làm đối tượng của mô hình.
-
-Quá khứ, INT/Core và Tổ chức trở thành những phần của cùng một bài toán mà Minh không thể tiếp tục đứng ngoài để quan sát.
 
 ## Giọng nói và biểu hiện
 
@@ -264,6 +258,6 @@ Bên trong, cậu vận hành gần như một cỗ máy.
 ## Chưa chốt
 
 - Tên gọi lâm sàng chính xác của cơ chế INT/Core.
-- Trạng thái cân bằng INT/Core cụ thể của Minh ở tuổi 42.
+- Trạng thái cân bằng INT/Core của Minh về sau.
 - Cơ chế chính xác nối quá khứ gia đình Minh với Tổ chức.
-- Một số chi tiết nghề nghiệp và vị thế của Giáo sư Minh tại LUCN ở tuổi 42.
+- Một số chi tiết nghề nghiệp và vị thế của Giáo sư Minh tại LUCN.
