@@ -71,8 +71,3 @@ Không xem tình yêu, sự gắn bó hay cảm xúc là những thứ nằm ngo
 Động lực cốt lõi: **giảm bất định**.
 
 Quan sát, mô hình hóa, dự đoán và can thiệp là các phương pháp Minh dùng để biến hành vi con người thành thứ có thể hiểu và xử lý.
-
-## Chưa chốt
-
-- Tên gọi lâm sàng chính xác của cơ chế INT/Core.
-- Trạng thái cân bằng INT/Core của Minh về sau.
