@@ -4,6 +4,8 @@ Nhật ký phát triển OXYTOCIN theo ngày.
 
 ## 2026-10-08
 
+- Tạo sẵn `READING_ORDER.md`; mục lục hiện vẫn nằm trong `CANON.md`. Chốt Arc 17 của NETWORK là **LUCN** và dùng `...` cho các phần còn chưa chốt hết Arc.
+
 - Giữ phần tóm tắt nội dung trong `CANON.md` ở cấp Part; bỏ ví dụ Arc cụ thể khi nội dung chưa đủ dài.
 
 - Thêm mục lục đọc vào `CANON.md`, gồm thứ tự các Part/Spin-off và tên Arc đã chốt.
