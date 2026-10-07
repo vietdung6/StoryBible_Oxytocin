@@ -1,9 +1,8 @@
 # OXYTOCIN — Canon
 
-Đây là story bible chính của OXYTOCIN.
+Đây là hồ sơ thiết lập chính của OXYTOCIN.
 
-File này lưu các thiết lập đã chốt của toàn series, kể cả những thông tin chưa được tiết lộ trong truyện.
-
+File này lưu những thiết lập đã chốt của toàn bộ truyện, kể cả những thông tin chưa được tiết lộ trong truyện.
 
 ## Mục lục đọc
 
@@ -34,10 +33,10 @@ File này lưu các thiết lập đã chốt của toàn series, kể cả nh�
 4. **Part III — AMYGDALA**
    - Arc: **TBA**
 
-5. **Spin-off I — FOIL**
+5. **Ngoại truyện I — FOIL**
    - Arc: **TBA**
 
-6. **Spin-off II — PAST**
+6. **Ngoại truyện II — PAST**
    - Arc: **TBA**
 
 7. **Part IV — LIMBIC**
@@ -47,16 +46,15 @@ Thứ tự đọc phần mở rộng: **FOIL → PAST → LIMBIC**.
 
 ## Bản sắc tác phẩm
 
-**OXYTOCIN** là psychological thriller / dark coming-of-age / mindgame xoay quanh **Vũ Nhật Minh**.
+**OXYTOCIN** là truyện giật gân tâm lý, trưởng thành tăm tối và đấu trí xoay quanh **Vũ Nhật Minh**.
 
 Minh nhìn con người như những hệ thống có thể quan sát, mô hình hóa, dự đoán và tác động. Từ năm 16 tuổi, cách nhìn đó dần trở thành phương pháp cậu dùng để xử lý con người, quan hệ và những hệ thống lớn hơn quanh mình.
 
-Trục vận hành xuyên series:
+Trục vận hành xuyên suốt:
 
 **quan sát → mô hình hóa → dự đoán → can thiệp → hệ quả**
 
-OXYTOCIN theo dõi cả sức mạnh lẫn giới hạn của phương pháp đó khi đối tượng Minh cố hiểu ngày càng phức tạp, từ một cá nhân đến mạng lưới xã hội và cuối cùng là chính bản thân cậu.
-
+Càng đi xa, đối tượng Minh cố hiểu càng phức tạp: từ một cá nhân, đến mạng lưới xã hội, rồi cuối cùng là chính bản thân cậu.
 
 ---
 
@@ -78,7 +76,7 @@ Các trục dài hạn:
 - **mô hình ↔ con người thật**
 - **hư vô ↔ ý nghĩa tự tạo**
 
-Những câu hỏi này phải được thể hiện qua cốt truyện, lựa chọn và hệ quả, không bằng các bài giảng triết học.
+Các câu hỏi này đi qua cốt truyện, lựa chọn và hệ quả của nhân vật, thay vì được phát biểu thành những bài giảng triết học.
 
 ---
 
@@ -86,37 +84,37 @@ Những câu hỏi này phải được thể hiện qua cốt truyện, lựa c
 
 ### Vũ Nhật Minh
 
-Protagonist trung tâm của OXYTOCIN.
+Nhân vật chính trung tâm của OXYTOCIN.
 
 Minh có xu hướng nhìn con người như những hệ thống có thể quan sát, phân tích và tác động. Theo thời gian, phạm vi mô hình của cậu mở rộng từ cá nhân sang nhóm, mạng lưới, thiết chế và cuối cùng là chính bản thân mình.
 
-Minh có thể trở thành morally gray protagonist hoặc villain protagonist ở những giai đoạn khác nhau, nhưng không được viết thành một thiên tài toàn tri có thể điều khiển mọi người.
+Ở những giai đoạn khác nhau, Minh có thể trở thành một nhân vật chính ngày càng khó phân định về đạo đức, thậm chí mang dáng dấp phản diện. Nhưng Minh không phải một thiên tài toàn tri có thể điều khiển mọi người.
 
 ### Fatio Ozias Isaac Levi — Foil
 
-Deuteragonist và đối trọng lớn nhất của Minh.
+Nhân vật chính thứ hai và đối trọng lớn nhất của Minh.
 
 Foil không tồn tại để chứng minh Minh đúng hay sai. Cậu có mục tiêu, năng lực, lựa chọn và hệ giá trị riêng.
 
-Foil có thể vượt Minh ở những lĩnh vực nhất định, nhìn ra blind spot của Minh và trở thành người mà mô hình của Minh không thể hoàn toàn bao phủ.
+Foil có thể vượt Minh ở những lĩnh vực nhất định, nhìn ra những điểm mù của Minh và trở thành người mà mô hình của Minh không thể hoàn toàn bao phủ.
 
-Quan hệ Minh–Foil là một trong các trục cảm xúc quan trọng nhất của series và không bị ép vào một nhãn đơn giản.
+Quan hệ Minh–Foil là một trong những trục cảm xúc quan trọng nhất của toàn bộ truyện.
 
 ---
 
-## Kiến trúc series
+## Kiến trúc toàn truyện
 
 ### Part 00 — ZEROTH AXIOM
 
 Phần mở đầu trước Part I.
 
-Đây là giai đoạn Minh bắt đầu biến quan sát thành phương pháp và chủ động thay đổi điều kiện để xem hành vi thay đổi như thế nào.
+Đây là giai đoạn Minh bắt đầu biến việc quan sát thành một phương pháp và chủ động thay đổi điều kiện để xem hành vi thay đổi như thế nào.
 
 Điểm kết thúc tư tưởng:
 
 > **Tiên đề 0: Không có lựa chọn nào bắt đầu từ chính nó.**
 
-ZEROTH AXIOM phải đứng được như một phần mở đầu riêng nhưng không bắt buộc để hiểu Part I.
+ZEROTH AXIOM đứng được như một phần mở đầu riêng, nhưng không phải điều kiện bắt buộc để hiểu Part I.
 
 ---
 
@@ -126,7 +124,7 @@ Ba năm cấp ba của Minh, bắt đầu khi Minh 16 tuổi.
 
 Part I có **16 Arc**.
 
-Khung 16 Arc sử dụng 16 kiểu MBTI như một thiết kế hậu trường cho 16 nhân vật nữ trọng tâm. MBTI không phải sự thật sinh học của thế giới truyện và không được dùng như một hệ thống giải thích con người tuyệt đối.
+Khung 16 Arc sử dụng 16 kiểu MBTI như một cấu trúc hậu trường cho 16 nhân vật nữ trọng tâm. MBTI không phải sự thật sinh học của thế giới truyện và không phải hệ thống tuyệt đối để giải thích con người.
 
 Chức năng của Part I:
 
@@ -134,9 +132,9 @@ Chức năng của Part I:
 
 Minh đi từ quan sát và dự đoán sang can thiệp có chủ ý.
 
-Động lực xuyên phần là giảm bất định trong hành vi con người.
+Động lực xuyên suốt của phần này là giảm sự bất định trong hành vi con người.
 
-Kết thúc Part I phải đẩy Minh tới giới hạn của việc xem từng cá nhân như đơn vị phân tích độc lập, mở đường cho NETWORK.
+Cuối Part I, Minh chạm tới giới hạn của việc xem từng cá nhân như một đơn vị phân tích độc lập. Từ đó, NETWORK mở rộng đối tượng của cậu sang những hệ thống do nhiều con người tạo nên.
 
 ---
 
@@ -153,13 +151,13 @@ Quy mô mở từ cá nhân sang:
 - nhóm;
 - mạng lưới;
 - thiết chế;
-- incentive;
+- cấu trúc lợi ích;
 - thông tin không đầy đủ;
-- feedback loop.
+- các vòng phản hồi.
 
-Các phương pháp từng hiệu quả ở cấp cá nhân bắt đầu gặp giới hạn khi được áp dụng lên hệ thống lớn.
+Những phương pháp từng hiệu quả ở cấp cá nhân bắt đầu lộ giới hạn khi được áp dụng lên hệ thống lớn.
 
-Minh trở thành villain protagonist rõ hơn trong giai đoạn này.
+Ở giai đoạn này, Minh tiến gần hơn tới vai trò một nhân vật chính mang tính phản diện.
 
 ---
 
@@ -173,39 +171,39 @@ Chức năng:
 
 Trọng tâm là Minh, Foil, tình yêu, mất mát và cảm xúc của chính Minh.
 
-Foil chết như hệ quả của lựa chọn và con đường riêng của Foil, không chỉ để tạo động lực phát triển cho Minh.
+Foil chết như hệ quả của lựa chọn và con đường riêng của cậu, không chỉ để tạo động lực phát triển cho Minh.
 
 Sau cái chết của Foil, thế cân bằng giữa INT và Core thay đổi sâu sắc.
 
-Main trilogy kết thúc trọn vẹn tại AMYGDALA và quay lại khung Giáo sư Minh ở tuổi 42.
+Bộ ba phần chính kết thúc trọn vẹn tại AMYGDALA và trở lại khung Giáo sư Minh ở tuổi 42.
 
 ---
 
 ### Part IV — LIMBIC
 
-Phần mở rộng sau main trilogy.
+Phần mở rộng sau bộ ba phần chính.
 
 Chức năng:
 
 > **Minh lần đầu mô hình hóa chính mình.**
 
-LIMBIC đi qua quãng đời từ khoảng 22 đến 42 tuổi, khi quá khứ, Organization và cơ chế INT/Core dần hội tụ vào chính Minh.
+LIMBIC đi qua quãng đời từ khoảng 22 đến 42 tuổi, khi quá khứ, Tổ chức và cơ chế INT/Core dần hội tụ vào chính Minh.
 
 Những mối nối lịch sử cần cho LIMBIC đã được mở ra trong PAST. Vì vậy thứ tự giữa hai phần là:
 
 **PAST → LIMBIC**
 
-AMYGDALA vẫn là kết thúc trọn vẹn của main trilogy; LIMBIC mở một tầng câu chuyện khác thay vì nối tiếp một cái kết còn dang dở.
+AMYGDALA vẫn là kết thúc trọn vẹn của bộ ba phần chính; LIMBIC mở thêm một tầng câu chuyện khác thay vì nối tiếp một cái kết còn dang dở.
 
 ---
 
-## Spin-off
+## Ngoại truyện
 
 ### FOIL
 
 Đi theo hành trình của Foil từ góc nhìn của chính cậu.
 
-FOIL có thể mở thêm quá khứ, động cơ và những phần của main story mà Minh không thể thấy hoặc hiểu đầy đủ.
+FOIL mở thêm quá khứ, động cơ và những phần của truyện chính mà Minh không thể thấy hoặc không thể hiểu đầy đủ.
 
 Trục cốt lõi:
 
@@ -213,7 +211,7 @@ Trục cốt lõi:
 
 ### PAST
 
-Đi sâu vào quá khứ của Minh, Foil, gia đình và Organization.
+Đi sâu vào quá khứ của Minh, Foil, gia đình và Tổ chức.
 
 Chức năng:
 
@@ -229,11 +227,11 @@ PAST là cầu nối trực tiếp sang LIMBIC.
 
 INT và Core là một cơ chế hư cấu trung tâm của Minh.
 
-Hai trạng thái/bản thể có kiến trúc **chia sẻ ký ức chung**, nhưng cách xử lý, phản ứng và quyền kiểm soát có thể khác nhau.
+Hai trạng thái/bản thể dùng chung một kho ký ức, nhưng có thể khác nhau trong cách xử lý, phản ứng và quyền kiểm soát.
 
-Đây là speculative neuroscience của OXYTOCIN, không phải mô tả y khoa về DID ngoài đời.
+Đây là một yếu tố thần kinh học giả tưởng của OXYTOCIN, không phải mô tả y khoa về DID ngoài đời.
 
-INT không phải “Minh thật” còn Core không phải “Minh giả”, hoặc ngược lại. Cả hai đều thuộc kiến trúc của cùng một con người.
+INT không phải “Minh thật” còn Core không phải “Minh giả”, hoặc ngược lại. Cả hai đều thuộc về cùng một con người.
 
 ---
 
@@ -243,42 +241,39 @@ Một tổ chức thần kinh học cấp cao có liên hệ sâu với quá kh�
 
 Tổ chức không đơn giản là thế lực ác đứng sau mọi thứ.
 
-Nó có mục tiêu, logic và con người riêng; có thể gây ra hậu quả nghiêm trọng mà không cần được viết như một conspiracy toàn năng.
+Nó có mục tiêu, logic và những con người riêng; những việc nó làm có thể tạo ra hậu quả nghiêm trọng mà không cần biến nó thành một âm mưu toàn năng.
 
-Trong main trilogy, tổ chức không phải final antagonist tối hậu.
+Trong bộ ba phần chính, Tổ chức không phải đối thủ cuối cùng của toàn bộ câu chuyện.
 
 ---
 
 ## Giới hạn của việc viết lại quá khứ
 
-Thông tin xuất hiện về sau được phép:
+Thông tin xuất hiện về sau có thể:
 
 - bổ sung nguyên nhân;
 - làm rõ bối cảnh;
 - thay đổi cách độc giả hiểu một sự kiện;
-- payoff một chi tiết đã được cài từ trước.
+- hoàn tất một chi tiết đã được cài từ trước.
 
-Nhưng không được tùy tiện:
+Nhưng những gì đã thực sự xảy ra không thay đổi theo ý tưởng mới. Một sự kiện có thể được hiểu lại, nhưng không bị âm thầm viết lại.
 
-- phủ nhận sự kiện đã xảy ra;
-- đổi kết quả cũ để phục vụ ý tưởng mới;
-- biến mọi chi tiết đời thường thành foreshadowing;
-- cho nhân vật biết những điều họ chưa có cách biết.
+Những chi tiết đời thường cũng không mặc nhiên trở thành dấu hiệu báo trước chỉ vì về sau chúng có thể được nối với một ý nghĩa khác.
 
-Sự kiện có thể được **tái diễn giải**, nhưng không bị âm thầm viết lại.
+Hiểu biết của nhân vật luôn bị giới hạn bởi những gì họ đã biết, đã thấy hoặc có đủ cơ sở để suy ra ở thời điểm đó.
 
 ---
 
 ## Quan hệ Minh–Foil
 
-Minh và Foil là **quan hệ / đối trọng trung tâm dài hạn của main trilogy**.
+Minh và Foil là quan hệ và đối trọng trung tâm kéo dài xuyên bộ ba phần chính.
 
-Trong gần bảy năm, Foil dần trở thành một phần không thể tách khỏi đời Minh. Quan hệ giữa họ đồng thời chứa tình bạn, cạnh tranh, sự cuốn hút lẫn nhau, ảnh hưởng hai chiều, gắn bó và mức độ thấu hiểu gần như tri kỷ.
+Trong gần bảy năm, Foil dần trở thành một phần không thể tách khỏi đời Minh. Giữa họ đồng thời tồn tại tình bạn, cạnh tranh, sự cuốn hút lẫn nhau, ảnh hưởng hai chiều, gắn bó và mức độ thấu hiểu gần như tri kỷ.
 
 Foil thách thức **cách Minh sống**, không chỉ trí thông minh hay phương pháp của Minh.
 
-Minh không nhận ra đầy đủ trọng lượng của mối quan hệ này cho tới khi chứng kiến Foil chết. Khi đó, Minh mới hiểu rằng mình yêu Foil sâu sắc theo nghĩa **platonic / không lãng mạn**.
+Minh không nhận ra đầy đủ trọng lượng của mối quan hệ này cho tới khi chứng kiến Foil chết. Khi đó, Minh mới hiểu rằng mình yêu Foil sâu sắc theo nghĩa **không lãng mạn**.
 
 Sự nhận ra ấy không tạo ra tình cảm từ con số 0 và cũng không xóa những lớp quan hệ đã tồn tại trước đó. Nó chỉ khiến Minh lần đầu nhìn thấy toàn bộ thứ đã tích lũy giữa hai người.
 
-Main story không dùng confession cuối đời, thư sau khi chết hay một đoạn giải thích duy nhất để định nghĩa sạch quan hệ này.
+Truyện chính không dùng một lời thú nhận trước khi chết, một bức thư để lại hay một đoạn giải thích duy nhất để định nghĩa sạch quan hệ này.
