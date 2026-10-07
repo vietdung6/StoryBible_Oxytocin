@@ -253,20 +253,81 @@ Trong main trilogy, Tổ chức không phải đối thủ cuối cùng của to
 
 ---
 
-## Giới hạn của việc viết lại quá khứ
+## Tóm tắt nội dung theo từng phần
 
-Thông tin xuất hiện về sau có thể:
+### Part 00 — ZEROTH AXIOM
 
-- bổ sung nguyên nhân;
-- làm rõ bối cảnh;
-- thay đổi cách độc giả hiểu một sự kiện;
-- hoàn tất một chi tiết đã được cài từ trước.
+Câu chuyện mở ở Minh khi đã 42 tuổi, rồi quay về Minh năm 16 tuổi, ngay trước khi bước vào cấp ba.
 
-Nhưng những gì đã thực sự xảy ra không thay đổi theo ý tưởng mới. Một sự kiện có thể được hiểu lại, nhưng không bị âm thầm viết lại.
+Ở giai đoạn này, Minh đã có thói quen quan sát, dự đoán và ghi nhận quy luật trong hành vi người khác từ nhiều năm trước. ZEROTH AXIOM là lúc cậu bắt đầu đi thêm một bước: không chỉ nhìn xem con người sẽ làm gì, mà chủ động thay đổi điều kiện để xem lựa chọn của họ thay đổi ra sao.
 
-Những chi tiết đời thường cũng không mặc nhiên trở thành foreshadowing chỉ vì về sau chúng có thể được nối với một ý nghĩa khác.
+Những thử nghiệm nhỏ trong đời sống thường ngày dần hình thành thành một phương pháp. Part 00 kết thúc ngay ngưỡng Minh bước vào Lacovia High, với tiên đề đầu tiên:
 
-Hiểu biết của nhân vật luôn bị giới hạn bởi những gì họ đã biết, đã thấy hoặc có đủ cơ sở để suy ra ở thời điểm đó.
+> **Không có lựa chọn nào bắt đầu từ chính nó.**
+
+### Part I — SIXTEEN
+
+SIXTEEN đi qua ba năm cấp ba của Minh, từ năm 16 tuổi, gồm 16 Arc xoay quanh 16 nhân vật nữ khác nhau.
+
+Mỗi Arc đặt Minh trước một kiểu người, một quan hệ và một dạng bất định mới. Cậu quan sát, thử mô hình, can thiệp, sai, sửa và ngày càng giỏi trong việc biến hành vi con người thành thứ có thể phân tích.
+
+Arc đầu tiên bắt đầu với Trần Xuân Ngọc. Từ một mục tiêu đơn giản là khiến Ngọc chú ý đến mình, Minh bắt đầu chủ động sắp đặt điều kiện trong một quan hệ thật. Ngọc dần trở thành bạn gái bí mật của Minh, trong khi chính Minh vẫn không hoàn toàn tách được đâu là tính toán, đâu là sự gắn bó đã nảy sinh ngoài dự kiến.
+
+Foil xuất hiện trong giai đoạn cấp ba và dần trở thành đối trọng quan trọng nhất của Minh. Khác với những người Minh có thể quan sát trong một phạm vi tương đối rõ, Foil liên tục tạo ra những biến số mà Minh không xử lý gọn được.
+
+Qua ba năm, phương pháp của Minh ngày càng mạnh và cũng ngày càng tối hơn. Cuối SIXTEEN, một thất bại lớn khiến Minh không kết luận rằng con người không thể mô hình hóa. Cậu kết luận rằng **một cá nhân là đơn vị quá nhỏ**.
+
+Từ đó, câu chuyện chuyển sang NETWORK.
+
+### Part II — NETWORK
+
+Minh bước vào những năm đầu đại học tại LUCN.
+
+Đối tượng của cậu không còn chỉ là từng con người riêng lẻ. Minh bắt đầu nhìn vào nhóm, mạng lưới, thiết chế, cấu trúc lợi ích, dòng thông tin và những vòng phản hồi giữa nhiều người.
+
+Những kỹ thuật từng hiệu quả ở cấp cá nhân bắt đầu sinh ra những hệ quả khó lường khi được đẩy lên quy mô lớn. Minh cũng đi xa hơn về mặt đạo đức: thay vì chỉ thử hiểu hệ thống, cậu ngày càng sẵn sàng tác động vào nó để tạo ra kết quả mình muốn.
+
+Song song với Minh, Foil tự xây ảnh hưởng và vị thế của riêng mình. Hai người không còn chỉ là hai học sinh thông minh đối đầu trong những tình huống nhỏ; lựa chọn của họ bắt đầu chạm tới những cấu trúc xã hội và chính trị lớn hơn.
+
+NETWORK đưa Minh từ mô hình con người sang mô hình hệ thống, đồng thời chuẩn bị cho xung đột cuối cùng giữa Minh và Foil trong AMYGDALA.
+
+### Part III — AMYGDALA
+
+Khoảng năm 22 tuổi, quan hệ Minh–Foil đi tới điểm cuối.
+
+Foil lúc này đã trở thành một người có ảnh hưởng thật sự và bước vào một lựa chọn chính trị có hậu quả vượt xa phạm vi đời sống cá nhân. Cậu chọn hy sinh vì mục đích của chính mình trước khi Minh kịp triển khai một phương án khác có thể giải quyết tình thế mà Foil không cần chết.
+
+Minh chứng kiến Foil chết mà không hiểu hết toàn bộ nguyên nhân ngay lúc đó.
+
+Sau gần bảy năm Foil tồn tại trong đời mình, cái chết ấy khiến Minh lần đầu nhìn thấy đầy đủ trọng lượng của mối quan hệ giữa hai người. Minh nhận ra tình yêu sâu sắc dành cho Foil theo nghĩa platonic, khi người đó đã không còn ở đó nữa.
+
+Cái chết của Foil làm thay đổi sâu sắc thế cân bằng INT/Core. INT dần mất vị trí chi phối tuyệt đối, và hành trình của main trilogy khép lại khi câu chuyện trở về Giáo sư Minh ở tuổi 42.
+
+### FOIL
+
+FOIL đi lại hành trình của Foil trong main story từ góc nhìn của chính cậu.
+
+Những hành động từng chỉ được nhìn từ phía Minh bắt đầu có nội tâm, động cơ và bối cảnh riêng. Hình tượng Foil mà người khác nhìn thấy không còn là toàn bộ con người cậu; nhiều lựa chọn tưởng như tùy hứng, nhẹ tênh hoặc khó hiểu hóa ra gắn với những giá trị và tổn thương sâu hơn.
+
+Ngoại truyện này đi xuyên các giai đoạn Foil đã xuất hiện trong main trilogy, đồng thời mở thêm phần quá khứ cần thiết để hiểu cậu trước khi câu chuyện tiến tới PAST.
+
+### PAST
+
+PAST quay xa hơn về quá khứ của Minh, Foil, gia đình hai người và Tổ chức.
+
+Những biến cố từng xuất hiện rời rạc trong main story bắt đầu nối với nhau: tuổi thơ của Minh, sự hình thành INT/Core, gia đình Levi, những biến cố xảy ra quanh thời điểm Minh và Foil còn nhỏ, cùng những mối liên hệ sâu hơn với Tổ chức.
+
+PAST không đi tiếp từ cái kết của AMYGDALA. Nó quay ngược lại để lộ ra hệ nguyên nhân đã tồn tại từ trước khi câu chuyện chính bắt đầu.
+
+Khi những mảnh này được nối lại, nền tảng cho LIMBIC mới hoàn chỉnh.
+
+### Part IV — LIMBIC
+
+LIMBIC trở lại Minh sau AMYGDALA và đi qua quãng đời từ khoảng 22 đến 42 tuổi.
+
+Sau khi dành phần lớn cuộc đời để mô hình hóa người khác và những hệ thống bên ngoài, Minh quay phương pháp đó vào chính mình. Quá khứ đã được mở ra trong PAST, cơ chế INT/Core và Tổ chức cùng hội tụ thành một câu hỏi mới: Minh thực sự là ai khi chính hệ thống mà cậu dùng để hiểu thế giới cũng là một phần của vấn đề?
+
+LIMBIC mở rộng mạnh hơn sang speculative neuroscience và đưa Tổ chức trở thành một trục lớn của câu chuyện. Đây không phải phần nối tiếp một cái kết dang dở của AMYGDALA, mà là câu chuyện về Minh sau khi main trilogy đã hoàn tất.
 
 ---
 
