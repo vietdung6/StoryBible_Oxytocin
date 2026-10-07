@@ -2,7 +2,7 @@
 
 ## Trạng thái hiện tại
 
-### Part 00 — ZEROTH AXIOM
+### Part 00 — THE ZEROTH AXIOM
 
 - Đã hoàn thành 3 Ep đầu:
   - Ep00 — CONSTANT
