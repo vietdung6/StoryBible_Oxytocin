@@ -73,26 +73,11 @@ Sau khi Ngoại mất khoảng năm Minh 12 tuổi, INT dần trở thành trạ
 
 ## Quá khứ
 
-Minh lớn lên trong một gia đình bất ổn và có bạo lực.
+Minh lớn lên trong một gia đình có bạo lực. Cha bạo hành cả Minh lẫn mẹ; việc phải liên tục đoán trạng thái của người khác từ nhỏ dần hình thành ở Minh thói quen quan sát và dự đoán hành vi.
 
-Cha Minh bạo hành cả Minh lẫn mẹ. Từ rất sớm, Minh học cách đọc:
-- giọng nói;
-- tiếng bước chân;
-- tư thế;
-- nét mặt;
-- mức độ căng thẳng;
-- tâm trạng;
-- dấu hiệu cho thấy một tình huống sắp trở nên nguy hiểm.
+Mẹ mất khi Minh khoảng 7 tuổi. Sau đó Minh sống với Ngoại.
 
-Ban đầu đây không phải kỹ năng “phân tích con người” theo nghĩa học thuật. Nó là một cách sinh tồn.
-
-Cha Minh có liên hệ với Tổ chức ở mức một nhân viên bình thường, không phải nhân vật nòng cốt. Bất cứ tác động nào từ môi trường công việc cũng không xóa trách nhiệm cá nhân của ông trong việc bạo hành gia đình.
-
-Mẹ Minh suy sụp sau một thời gian dài và mất khi Minh khoảng 7 tuổi.
-
-Sau đó Minh sống với Ngoại.
-
-Khoảng năm 12 tuổi, Ngoại mất. Đây là mốc khiến thế cân bằng giữa Core và INT thay đổi mạnh: INT dần giữ quyền kiểm soát gần như thường trực trong những năm thiếu niên sau đó.
+Khoảng năm 12 tuổi, Ngoại mất. Từ đây INT dần trở thành trạng thái chi phối Minh trong phần lớn thời gian.
 
 ## Cách Minh suy nghĩ
 
