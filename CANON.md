@@ -223,10 +223,16 @@ Sự kiện có thể được **tái diễn giải**, nhưng không bị âm th
 
 ---
 
-## Nguyên tắc cảm xúc
+## Quan hệ Minh–Foil
 
-OXYTOCIN không yêu cầu mọi quan hệ phải được gọi tên chính xác.
+Minh và Foil là **quan hệ / đối trọng trung tâm dài hạn của main trilogy**.
 
-Một tình cảm có thể được chứng minh bằng hành động, lựa chọn, ưu tiên, hy sinh và mất mát trước khi nhân vật có thể hoặc muốn đặt tên cho nó.
+Trong gần bảy năm, Foil dần trở thành một phần không thể tách khỏi đời Minh. Quan hệ giữa họ đồng thời chứa tình bạn, cạnh tranh, sự cuốn hút lẫn nhau, ảnh hưởng hai chiều, gắn bó và mức độ thấu hiểu gần như tri kỷ.
 
-Đặc biệt, quan hệ Minh–Foil không bị giản lược thành một nhãn chỉ để làm nó dễ giải thích.
+Foil thách thức **cách Minh sống**, không chỉ trí thông minh hay phương pháp của Minh.
+
+Minh không nhận ra đầy đủ trọng lượng của mối quan hệ này cho tới khi chứng kiến Foil chết. Khi đó, Minh mới hiểu rằng mình yêu Foil sâu sắc theo nghĩa **platonic / không lãng mạn**.
+
+Sự nhận ra ấy không tạo ra tình cảm từ con số 0 và cũng không xóa những lớp quan hệ đã tồn tại trước đó. Nó chỉ khiến Minh lần đầu nhìn thấy toàn bộ thứ đã tích lũy giữa hai người.
+
+Main story không dùng confession cuối đời, thư sau khi chết hay một đoạn giải thích duy nhất để định nghĩa sạch quan hệ này.
