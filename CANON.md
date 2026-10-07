@@ -271,8 +271,6 @@ SIXTEEN đi qua ba năm cấp ba của Minh, từ năm 16 tuổi, gồm 16 Arc x
 
 Mỗi Arc đặt Minh trước một kiểu người, một quan hệ và một dạng bất định mới. Cậu quan sát, thử mô hình, can thiệp, sai, sửa và ngày càng giỏi trong việc biến hành vi con người thành thứ có thể phân tích.
 
-Arc đầu tiên bắt đầu với Trần Xuân Ngọc. Từ một mục tiêu đơn giản là khiến Ngọc chú ý đến mình, Minh bắt đầu chủ động sắp đặt điều kiện trong một quan hệ thật. Ngọc dần trở thành bạn gái bí mật của Minh, trong khi chính Minh vẫn không hoàn toàn tách được đâu là tính toán, đâu là sự gắn bó đã nảy sinh ngoài dự kiến.
-
 Foil xuất hiện trong giai đoạn cấp ba và dần trở thành đối trọng quan trọng nhất của Minh. Khác với những người Minh có thể quan sát trong một phạm vi tương đối rõ, Foil liên tục tạo ra những biến số mà Minh không xử lý gọn được.
 
 Qua ba năm, phương pháp của Minh ngày càng mạnh và cũng ngày càng tối hơn. Cuối SIXTEEN, một thất bại lớn khiến Minh không kết luận rằng con người không thể mô hình hóa. Cậu kết luận rằng **một cá nhân là đơn vị quá nhỏ**.
