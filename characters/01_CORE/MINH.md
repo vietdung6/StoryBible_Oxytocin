@@ -26,11 +26,11 @@ Minh không bắt đầu như một kẻ muốn kiểm soát người khác. Th�
 
 Bề ngoài Minh ít nói, bình tĩnh, kín cảm xúc và thường không chủ động tìm sự chú ý.
 
-Cậu không kém giao tiếp xã hội. Khi cần, Minh có thể tỏ ra ấm áp, ngây thơ, hài hước, vụng về, yếu đuối, chân thành hoặc kém thông minh hơn thực tế. Khác biệt của Minh không nằm ở việc cậu cư xử như robot, mà nằm ở cách cậu xử lý thông tin phía sau những biểu hiện rất bình thường.
+Cậu không kém giao tiếp xã hội. Khi cần, Minh có thể cư xử "bình thường" hơn để đạt mục đích. Khác biệt của Minh không nằm ở việc cậu cư xử như robot, mà nằm ở cách cậu xử lý thông tin phía sau những biểu hiện rất bình thường.
 
 Minh quan sát nhiều hơn nói. Cậu có xu hướng chú ý những thay đổi nhỏ trong hành vi, so sánh chúng với những gì đã biết rồi tự xây một lời giải thích trong đầu.
 
-Ở phần tính cách gốc, Core của Minh mềm hơn rất nhiều so với hình ảnh Minh tuổi 16. Core nhạy cảm, giàu tình cảm, sống nội tâm và có thể gắn bó rất sâu với những người mình thật sự coi trọng.
+Ở phần tính cách gốc - Core nhạy cảm, giàu tình cảm, sống nội tâm và có thể gắn bó rất sâu với những người mình thật sự coi trọng.
 
 ## INT / Core
 
