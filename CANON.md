@@ -4,6 +4,47 @@
 
 File này lưu các thiết lập đã chốt của toàn series, kể cả những thông tin chưa được tiết lộ trong truyện.
 
+
+## Mục lục đọc
+
+1. **Part 00 — ZEROTH AXIOM**
+   - Arc 00 — **Zeroth Axiom**
+
+2. **Part I — SIXTEEN**
+   - Arc 01 — **Spotlight**
+   - Arc 02 — **Dare**
+   - Arc 03 — **Fault**
+   - Arc 04 — **Frame**
+   - Arc 05 — **TBA**
+   - Arc 06 — **TBA**
+   - Arc 07 — **TBA**
+   - Arc 08 — **TBA**
+   - Arc 09 — **TBA**
+   - Arc 10 — **Theory**
+   - Arc 11 — **TBA**
+   - Arc 12 — **Empire**
+   - Arc 13 — **TBA**
+   - Arc 14 — **Soul**
+   - Arc 15 — **TBA**
+   - Arc 16 — **Mirror**
+
+3. **Part II — NETWORK**
+   - Arc: **TBA**
+
+4. **Part III — AMYGDALA**
+   - Arc: **TBA**
+
+5. **Spin-off I — FOIL**
+   - Arc: **TBA**
+
+6. **Spin-off II — PAST**
+   - Arc: **TBA**
+
+7. **Part IV — LIMBIC**
+   - Arc: **TBA**
+
+**PAST phải được đọc trước LIMBIC.**
+
 ## Bản sắc tác phẩm
 
 **OXYTOCIN** là psychological thriller / dark coming-of-age / mindgame xoay quanh **Vũ Nhật Minh**.
