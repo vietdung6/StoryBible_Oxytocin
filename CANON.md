@@ -196,13 +196,19 @@ FOIL đi xuyên các giai đoạn Foil đã xuất hiện trong main trilogy và
 
 ### PAST
 
-PAST quay xa hơn về quá khứ của Minh, Foil, gia đình hai người và Tổ chức.
+PAST quay về thời điểm trước khi Minh và Foil trở thành hai con người mà main story cho thấy.
 
-Những biến cố từng xuất hiện rời rạc trong main story bắt đầu nối với nhau: tuổi thơ của Minh, sự hình thành INT/Core, gia đình Levi, những biến cố xảy ra quanh thời điểm Minh và Foil còn nhỏ, cùng những mối liên hệ sâu hơn với Tổ chức.
+Ở phần tính cách gốc, **Core của Minh và Foil gần như cùng một kiểu người**: nhạy cảm, giàu tình cảm, dễ gắn bó và đều có một đời sống nội tâm sâu hơn rất nhiều so với vẻ ngoài sau này. Cả hai cũng lớn lên qua những biến cố đủ mạnh để buộc họ phải tìm một cách sống sót.
 
-PAST không đi tiếp từ cái kết của AMYGDALA. Nó quay ngược lại để lộ ra hệ nguyên nhân đã tồn tại từ trước khi câu chuyện chính bắt đầu.
+Từ cùng một điểm xuất phát, hai người đi theo hai hướng gần như đối nghịch.
 
-Khi những mảnh này được nối lại, nền tảng cho LIMBIC mới hoàn chỉnh.
+Minh dần xây đời mình quanh việc giảm bất định. INT hình thành như một cách bảo vệ Core, rồi quan sát, dự đoán và kiểm soát trở thành phương thức Minh dùng để giữ thế giới trong phạm vi có thể hiểu được.
+
+Foil lại đi theo hướng ngược lại. Cậu học cách sống ngay trong bất định, giữ niềm tin vào tự do lựa chọn và dựng nên một con người có thể cười, ứng biến và bước tiếp dù không biết chắc chuyện gì sẽ xảy ra.
+
+PAST đặt hai đường đời ấy cạnh nhau. Nó cho thấy Minh và Foil không đối lập vì vốn sinh ra đã khác nhau, mà vì **hai người rất giống nhau đã chọn hai cách khác nhau để trả lời cùng một thế giới**.
+
+Song song với đó là quá khứ của gia đình Minh, gia tộc Levi và Tổ chức — những mối nối mà cả hai từng sống bên trong nhưng chưa bao giờ nhìn thấy toàn bộ. Khi phần quá khứ này khép lại, nền tảng của LIMBIC mới thực sự lộ ra.
 
 ### Part IV — LIMBIC
 
