@@ -98,13 +98,13 @@ Minh có xu hướng nhìn con người như những hệ thống có thể quan
 
 ### Fatio Ozias Isaac Levi — Foil
 
-Nhân vật chính thứ hai và đối trọng lớn nhất của Minh.
+Nhân vật chính thứ hai của OXYTOCIN và đối trọng lớn nhất của Minh.
 
-Foil không tồn tại để chứng minh Minh đúng hay sai. Cậu có mục tiêu, năng lực, lựa chọn và hệ giá trị riêng.
+Nếu Minh luôn muốn giảm bất định, Foil lại là kiểu người có thể sống rất tốt ngay bên trong nó. Cậu cực kỳ thông minh, giỏi ứng biến, nhạy với con người và có khả năng xoay chuyển tình huống mà không cần chuẩn bị mọi thứ từ trước. Ở những nơi Minh mạnh vì mô hình, Foil mạnh vì đọc được khoảnh khắc.
 
-Foil có thể vượt Minh ở những lĩnh vực nhất định, nhìn ra những điểm mù của Minh và trở thành người mà mô hình của Minh không thể hoàn toàn bao phủ.
+Bề ngoài Foil nhẹ tênh, hài hước và gần như không coi trọng bất cứ hệ thống nào đủ để chịu khuất phục trước nó. Nhưng phía sau đó là một hệ giá trị rất cứng, một quá khứ chính trị nặng nề và xu hướng tự chọn điều mình cho là đáng giá rồi theo nó đến cùng.
 
-Quan hệ Minh–Foil là một trong những trục cảm xúc quan trọng nhất của toàn bộ truyện.
+Chính vì vậy, Foil không chỉ là người Minh khó dự đoán. Cậu là một cách sống đối lập với Minh: ít kiểm soát hơn, nhiều tự do hơn, và sẵn sàng chấp nhận những thứ Minh luôn muốn loại khỏi phương trình.
 
 ---
 
