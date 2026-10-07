@@ -9,6 +9,7 @@ File này lưu những thiết lập đã chốt của toàn bộ truyện, kể
 - **Part 00 — ZEROTH AXIOM**: phần mở đầu độc lập.
 - **Main trilogy**: Part I — SIXTEEN, Part II — NETWORK, Part III — AMYGDALA.
 - **Phần mở rộng**: FOIL, PAST và Part IV — LIMBIC.
+- **Phase**: nhóm nhiều Arc thuộc cùng một giai đoạn bên trong Part.
 
 ## Mục lục đọc
 
@@ -16,25 +17,33 @@ File này lưu những thiết lập đã chốt của toàn bộ truyện, kể
    - Arc 00 — **Zeroth Axiom**
 
 2. **Part I — SIXTEEN**
+
+   **Phase 1 — SP**
    - Arc 01 — **Spotlight** — ESFP
    - Arc 02 — **Dare** — ESTP
    - Arc 03 — **Fault** — ISTP
    - Arc 04 — **Frame** — ISFP
+
+   **Phase 2 — SJ**
    - Arc 05 — **TBA** — ESFJ
    - Arc 06 — **TBA** — ISFJ
    - Arc 07 — **TBA** — ISTJ
    - Arc 08 — **TBA** — ESTJ
+
+   **Phase 3 — NT**
    - Arc 09 — **TBA** — ENTP
    - Arc 10 — **Theory** — INTP
    - Arc 11 — **TBA** — INTJ
    - Arc 12 — **Empire** — ENTJ
+
+   **Phase 4 — NF**
    - Arc 13 — **TBA** — ENFP
    - Arc 14 — **Soul** — INFP
    - Arc 15 — **TBA** — ENFJ
    - Arc 16 — **Mirror** — INFJ
 
 3. **Part II — NETWORK**
-   - Arc 17 — **LUCN**
+   - Arc 17 — **TBA**
 
    ...
 
