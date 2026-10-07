@@ -151,6 +151,8 @@ Chức năng:
 
 LIMBIC có thể đi sâu hơn vào giai đoạn từ khoảng 22 đến 42 tuổi, tổ chức, quá khứ và các cơ chế thần kinh mang tính speculative.
 
+**PAST phải được đọc trước LIMBIC.** Part IV được xây trên những nguyên nhân, mối nối lịch sử và phần quá khứ đã được PAST làm rõ, nên PAST là phần chuẩn bị trực tiếp cho LIMBIC.
+
 Part IV không được biến kết thúc của AMYGDALA thành một ending chưa hoàn thành.
 
 ---
@@ -176,6 +178,10 @@ Chức năng:
 > **Nối lại những mảnh nguyên nhân đã tồn tại trước câu chuyện chính.**
 
 PAST được phép thay đổi cách hiểu về những sự kiện cũ nhưng không được phủ nhận những gì thực sự đã xảy ra.
+
+PAST là **phần tiền đề bắt buộc cho LIMBIC**. Thứ tự đọc giữa hai phần là:
+
+**PAST → LIMBIC**
 
 ---
 
