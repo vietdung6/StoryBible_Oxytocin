@@ -17,9 +17,9 @@
 
 Foil thường xuất hiện với hình ảnh cởi mở, vui tính, tinh nghịch và gần như không quá nghiêm túc với bất cứ thứ gì.
 
-Foil có concept tính cách **ENTP**.
+Phần tính cách gốc của Foil gần **INFP**.
 
-Cậu thích thử giới hạn của tình huống, xoay góc nhìn, bẻ hướng cuộc trò chuyện và tạo ra những khả năng mới ngay trong lúc mọi thứ đang diễn ra. Sự hài hước, tinh nghịch và khó đoán là một phần tự nhiên trong cách Foil tương tác với thế giới, không phải một lớp tính cách giả.
+Foil sống nội tâm hơn vẻ ngoài, có hệ giá trị cá nhân mạnh và gắn bó rất sâu với những người hoặc điều mình thật sự coi trọng. Phần hướng ngoại, hài hước và khó đoán chủ yếu thuộc cách Foil thể hiện ra ngoài, không phải toàn bộ con người bên trong.
 
 Foil không có nhu cầu sửa mọi hiểu lầm về mình. Cậu có thể để người khác nghĩ mình ngốc, lười hoặc thiếu nghiêm túc nếu điều đó không ảnh hưởng đến thứ cậu quan tâm.
 
