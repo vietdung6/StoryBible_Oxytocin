@@ -59,6 +59,12 @@ Thế mạnh của Minh nằm ở việc xây một mô hình đủ rõ để d�
 
 Minh có kiến thức rộng ở nhiều lĩnh vực và thường kết nối chúng thành một khung phân tích chung thay vì sử dụng từng mảng kiến thức riêng lẻ.
 
+## Điểm mù
+
+Minh có xu hướng tin quá mức rằng con người và hệ thống luôn có một cấu trúc đủ rõ để có thể mô hình hóa.
+
+Khi một kết quả không khớp dự đoán, phản xạ của Minh thường là tìm thêm biến, sửa mô hình hoặc tăng mức kiểm soát thay vì đặt câu hỏi liệu chính cách tiếp cận đó có giới hạn.
+
 ## Thế giới quan
 
 Minh nghiêng về **chủ nghĩa hư vô tiêu cực**.
