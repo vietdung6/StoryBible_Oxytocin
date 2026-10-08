@@ -83,7 +83,7 @@ Thí sinh không được bước qua vạch đỏ, chạm hoặc di chuyển �
 
 **Câu hỏi:** Ban tổ chức đưa ra **16 đáp án có thể xảy ra**, trong đó chỉ có một đáp án đúng. Mỗi đội được hỏi tối đa **4 câu**, và câu trả lời chỉ có thể là **có** hoặc **không**. Hãy xác định đáp án đúng trong số 16 lựa chọn.
 
-**Dữ kiện:** Ba tình nguyện viên phụ trách trạm trò chuyện tự nhiên như những người đã quen thân. Thực ra họ được ban tổ chức yêu cầu giả vờ thân thiết. Trong lúc trò chuyện, họ cũng vô tình để lộ một thông tin có thể giúp loại bớt những lựa chọn của câu đố.
+**Dữ kiện:** Ba tình nguyện viên phụ trách trạm trò chuyện tự nhiên như những người đã quen thân. Thực ra họ được ban tổ chức yêu cầu giả vờ thân thiết. Ban tổ chức cố tình cài một manh mối vào cuộc trò chuyện của ba tình nguyện viên để giúp thu hẹp các đáp án của câu đố.
 
 **Trả lời:** Minh và Phương tập trung đặt câu hỏi để tìm đáp án. Long bắt chuyện với các tình nguyện viên, Ngọc tham gia và chú ý đến cả những câu nói ngoài đề bài. Ngọc nhận ra thông tin có ích mà Minh bỏ qua, đồng thời phát hiện ba người kia đang diễn. Cô đưa thông tin cho Minh để cậu thu hẹp các khả năng.
 
