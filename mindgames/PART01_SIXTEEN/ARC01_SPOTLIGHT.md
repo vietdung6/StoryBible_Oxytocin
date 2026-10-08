@@ -15,7 +15,7 @@ Cuộc thi có **5 trạm**. Bốn trạm đầu vừa dẫn đội đến đị
 | 5 | 25 | 25 |
 | **Tổng** | **100 điểm thường, tối đa 107 nếu có thưởng** | **101** |
 
-Đội Minh về nhất **101–100**, hơn đội nhì đúng một điểm. Ở trạm 2, Ngọc khiến đội mất thời gian và hụt 6 điểm; sang trạm 4, chính cô giúp đội giành đủ 7 điểm thưởng. Hai đội nhanh hơn ở trạm 2 lần lượt về nhì và ba chung cuộc.
+Đội Minh giành hạng nhất với **101 điểm**, hơn đội xếp thứ hai (**100 điểm**) đúng **1 điểm**. Ở trạm 2, Ngọc khiến đội mất thời gian và hụt 6 điểm; sang trạm 4, chính cô giúp đội giành đủ 7 điểm thưởng. Hai đội nhanh hơn ở trạm 2 lần lượt về nhì và ba chung cuộc.
 
 ## Đường đi dưới mưa
 
