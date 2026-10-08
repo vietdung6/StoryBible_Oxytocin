@@ -35,30 +35,57 @@ Cuộc thi có **5 trạm**. Qua mỗi trạm trong bốn trạm đầu, đội 
 
 ## Trạm 2 — Truyền tin
 
-**Câu hỏi:** Ba học sinh X, Y và Z mỗi người thích đúng một môn trong ba môn **Vật lý, Văn, Hóa**, đồng thời tham gia đúng một câu lạc bộ trong ba câu lạc bộ **Cờ vua, Bóng rổ, Nhiếp ảnh**. Không ai trùng môn yêu thích hoặc câu lạc bộ với người khác. Hãy tìm môn học và câu lạc bộ của từng người.
+**Câu hỏi:** Bốn học sinh **Dũng, Nhân, Thảo và Huy** mỗi người thích một môn khác nhau trong các môn **Toán, Văn, Vật lý, Hóa**, đồng thời tham gia một câu lạc bộ khác nhau trong các câu lạc bộ **Cờ vua, Bóng rổ, Âm nhạc, Nhiếp ảnh**. Hãy xác định môn học và câu lạc bộ của từng người.
 
-Đội bị chia thành hai cặp ở hai vị trí xa nhau. Mỗi cặp chỉ nhận một phần đề:
+Đội bị tách làm hai cặp. Mỗi cặp chỉ nhận ba dữ kiện:
 
-**Minh và Ngọc nhận:**
-1. X không thích Vật lý.
-2. Y tham gia câu lạc bộ Cờ vua.
-3. Người tham gia câu lạc bộ Bóng rổ thích môn Văn.
+**Minh – Ngọc:**
+1. Huy không tham gia câu lạc bộ Âm nhạc.
+2. Thảo tham gia câu lạc bộ Bóng rổ.
+3. Người thích môn Văn tham gia câu lạc bộ Cờ vua.
 
-**Phương và Long nhận:**
-1. Người thích Vật lý không tham gia câu lạc bộ Cờ vua.
-2. Z thích Vật lý.
-3. X tham gia câu lạc bộ Bóng rổ.
+**Phương – Long:**
+1. Nhân thích môn Văn.
+2. Dũng không thích môn Toán.
+3. Người thích môn Hóa tham gia câu lạc bộ Nhiếp ảnh.
 
-**Luật:** Ban đầu hai cặp không nhìn thấy nhau. Ban tổ chức cho họ nói chuyện trong vài giây để thống nhất cách truyền tin, nhưng không đủ thời gian đọc toàn bộ đề. Sau đó hai cặp chỉ có thể nhìn nhau từ xa, không nghe tiếng và phải trao đổi dữ kiện bằng cử chỉ. Cuối cùng, hai cặp giải độc lập và nộp đáp án.
+**Luật thi:**
+
+1. Hai cặp được đưa đến hai khu vực rất xa, ban đầu không thể nhìn thấy hoặc liên lạc với nhau. Mỗi cặp có **1–2 phút** đọc đề và tự suy luận từ ba dữ kiện đang giữ.
+2. Ban tổ chức mở kết nối âm thanh qua micro hoặc điện thoại trong **vài giây**. Hai cặp chỉ đủ thời gian thống nhất cách ra dấu, không đủ để đọc hết dữ kiện cho nhau.
+3. Ngắt kết nối âm thanh. Mỗi cặp có thêm **1–2 phút** để chuẩn bị cách biểu đạt các dữ kiện bằng cử chỉ.
+4. Hai cặp được đưa đến vị trí **nhìn thấy nhau từ xa nhưng không nghe được tiếng nhau**. Chỉ được truyền thông tin bằng hình thể. **Cả hai phía đều phải gửi dữ kiện**, không chỉ một phía ra dấu cho phía còn lại. Gửi xong lượt của mình mới yêu cầu phía kia truyền lại.
+5. Khi trao đổi kết thúc, hai cặp lại tách ra và **tự giải độc lập**. Khi cả hai phía báo đã tìm được kết quả, ban tổ chức nhận và đối chiếu đáp án. Các đội được xếp hạng theo thời gian hoàn thành.
+
+**Cách Long thống nhất để truyền tin:** Mỗi dữ kiện được diễn đạt qua ba nhịp: **đối tượng thứ nhất → quan hệ → đối tượng thứ hai**.
+
+- Chạm **đầu**: tên người; chạm **ngực**: môn học; chạm **bụng**: câu lạc bộ.
+- Giơ số ngón tay để chỉ vị trí trong danh sách đã cho trên phiếu.
+- Giơ ngón cái **lên** là khẳng định; ngón cái **xuống** là phủ định.
+
+Ví dụ, “Huy không tham gia câu lạc bộ Âm nhạc” được truyền bằng: **đầu, 4 ngón → ngón cái xuống → bụng, 3 ngón**. “Người thích Văn tham gia câu lạc bộ Cờ vua” là: **ngực, 2 ngón → ngón cái lên → bụng, 1 ngón**.
 
 **Trả lời:**
-- **X:** Văn — Bóng rổ.
-- **Y:** Hóa — Cờ vua.
-- **Z:** Vật lý — Nhiếp ảnh.
 
-Long nghĩ ra cách dùng cử chỉ để truyền dữ kiện. Ngọc hiểu nhầm một cử chỉ thành ý nghĩa nằm ngoài quy ước nên đội phải kiểm tra lại, mất thêm thời gian.
+| Học sinh | Môn yêu thích | Câu lạc bộ |
+| --- | --- | --- |
+| Dũng | Vật lý | Âm nhạc |
+| Nhân | Văn | Cờ vua |
+| Thảo | Toán | Bóng rổ |
+| Huy | Hóa | Nhiếp ảnh |
 
-**Điểm:** 19/25, thuộc ba đội giải nhanh nhất. **Mảnh mã:** `UJL`.
+Trong lúc truyền tin, Ngọc gán thêm ý nghĩa ngoài quy ước cho một cử chỉ mơ hồ. Cả đội phải kiểm tra lại nên chậm hơn hai đội khác.
+
+**Cách tính điểm theo thứ hạng thời gian:**
+
+| Hạng | Điểm |
+| --- | ---: |
+| 1 | 25 |
+| 2 | 22 |
+| 3 | 19 |
+| 4–10 | 16 |
+
+**Kết quả:** Đội Minh về **thứ ba về thời gian**, được **19/25 điểm**. **Mảnh mã:** `UJL`.
 
 ## Trạm 3 — Khúc xạ
 
