@@ -93,22 +93,24 @@ Thí sinh không được bước qua vạch đỏ, chạm hoặc di chuyển �
 
 ## Trạm 5 — Giải mã cuối cùng
 
-**Câu hỏi:** Sau bốn trạm, đội có bốn mảnh mã theo đúng thứ tự nhận được:
+**Câu hỏi:** Đội nhận được bốn mảnh mã theo thứ tự:
 
 1. `UVEBU`
 2. `UJL`
 3. `IGTNINOS`
 4. `JIGFI`
 
-Trường được thành lập năm **1968**. Hãy dùng bốn chữ số của năm thành lập và cách dịch vị trí trong bảng chữ cái để tìm thông điệp được giấu trong bốn mảnh mã.
+**Gợi ý:** “Từ nơi bắt đầu.”
 
-**Trả lời:** Lần lượt dịch lùi các chữ cái của mỗi mảnh mã theo bốn số **1, 9, 6, 8**:
+**Mẫu:** `LACOVIA —1→ MBDPWJB`
+
+**Trả lời:** “Nơi bắt đầu” là **cổng trường**, nơi có ghi năm thành lập **1968**. Nhìn mẫu, Minh nhận ra mỗi chữ cái được dịch tiến một vị trí trong bảng chữ cái. Bốn chữ số 1, 9, 6, 8 tương ứng với bốn mảnh mã; muốn đọc mã thì dịch lùi số bước tương ứng:
 
 - `UVEBU` lùi 1 → `TUDAT`
 - `UJL` lùi 9 → `LAC`
 - `IGTNINOS` lùi 6 → `CANHCHIM`
 - `JIGFI` lùi 8 → `BAYXA`
 
-Ghép lại thành câu: **TỪ ĐẤT LẠC, CÁNH CHIM BAY XA.**
+Ghép lại: **TỪ ĐẤT LẠC, CÁNH CHIM BAY XA.**
 
 **Điểm:** 25. Đội Minh hoàn thành cuộc thi và giành hạng nhất.
