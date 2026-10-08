@@ -25,7 +25,7 @@ Cuộc thi có **5 trạm**. Qua mỗi trạm trong bốn trạm đầu, đội 
 
 ## Trạm 1 — Mã địa điểm
 
-**Câu hỏi:** Trên phiếu ghi `T14 → C06 → H08`. Hãy xác định ba địa điểm tương ứng với các mã này và đi đến đó theo đúng thứ tự.
+**Câu hỏi:** `T14 → C06 → H08`
 
 **Dữ kiện:** Trong buổi tham quan trường, học sinh đã nhìn thấy các biển ghi giờ mở cửa: Thư viện — `T14`; Căng-tin — `C06`; Hội trường — `H08`.
 
