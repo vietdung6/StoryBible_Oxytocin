@@ -1,5 +1,22 @@
 # Arc01 — SPOTLIGHT
 
+## Cuộc thi định hướng đầu năm
+
+Khối 10 có **10 lớp**, mỗi lớp cử một đội bốn người. Đội lớp Minh gồm **Minh, Ngọc, Phương và Long**.
+
+Cuộc thi có **5 trạm**. Bốn trạm đầu vừa dẫn đội đến địa điểm tiếp theo, vừa cho một mảnh mã. Trạm cuối dùng cả bốn mảnh mã để giải câu đố chung.
+
+| Trạm | Điểm tối đa | Điểm đội Minh |
+| --- | ---: | ---: |
+| 1 | 15 | 15 |
+| 2 | 25 | 19 |
+| 3 | 20 | 20 |
+| 4 | 15 | 22 (gồm 7 điểm thưởng) |
+| 5 | 25 | 25 |
+| **Tổng** | **100 điểm thường, tối đa 107 nếu có thưởng** | **101** |
+
+Đội Minh về nhất **101–100**, hơn đội nhì đúng một điểm. Ở trạm 2, Ngọc khiến đội mất thời gian và hụt 6 điểm; sang trạm 4, chính cô giúp đội giành đủ 7 điểm thưởng. Hai đội nhanh hơn ở trạm 2 lần lượt về nhì và ba chung cuộc.
+
 ## Đường đi dưới mưa
 
 **Câu hỏi:** Từ lớp học ở đầu dãy A đến phòng Hóa ở đầu đối diện dãy C, đi thế nào cho nhanh nhất?
