@@ -1,11 +1,13 @@
-# Trần Xuân Ngọc
+# Nguyễn Xuân Ngọc
 
 ## Thông tin cơ bản
 
-- Tên đầy đủ: **Trần Xuân Ngọc**
-- Tên Nga: **Snezhana**
+- Tên đầy đủ: **Nguyễn Xuân Ngọc**
+- Tên Nga: **Snezhna**
+- Ý nghĩa tên: **Ngọc của Mùa Xuân → Tuyết**
 - Giới tính: Nữ
-- Nga–Laccovian / Việt–Laccovian
+- Bố: người Laccovia
+- Mẹ: người Nga
 - Concept tính cách: **ESFP**
 - Nổi bật, hoạt bát, nhiều năng lượng, dễ tạo chú ý.
 

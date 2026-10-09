@@ -2,6 +2,13 @@
 
 Nhật ký phát triển OXYTOCIN theo ngày.
 
+## 2026-10-09
+
+- Đổi tên Ngọc từ **Trần Xuân Ngọc** thành **Nguyễn Xuân Ngọc**; tên Nga từ **Snezhana** thành **Snezhna**.
+- Lưu ý nghĩa tên: **Ngọc của Mùa Xuân → Tuyết**.
+- Chốt bố là người Laccovia, mẹ là người Nga.
+
+
 ## 2026-10-08
 
 - Viết hồ sơ nhân vật `characters/01_CORE/MINH.md` cho Vũ Nhật Minh.
