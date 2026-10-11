@@ -4,6 +4,7 @@
 
 - Tên đầy đủ: **Nguyễn Ngọc Uyên Phương**
 - Giới tính: Nữ
+- Sinh ngày **17/12**
 - Người Laccovian
 - Concept tính cách: **INFJ**
 - Điềm tĩnh, đáng tin, quan sát tốt, có khả năng tổ chức cao.

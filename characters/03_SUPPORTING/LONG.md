@@ -4,6 +4,7 @@
 
 - Tên đầy đủ: **Lý Thanh Long**
 - Giới tính: Nam
+- Sinh ngày **14/02**
 - Người Laccovian
 - Concept tính cách: **ESTP**
 - Thực tế, nhanh nhạy, dễ hòa vào tình huống.

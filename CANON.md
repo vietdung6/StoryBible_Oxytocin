@@ -20,7 +20,7 @@ File này lưu những thiết lập đã chốt của toàn bộ truyện, kể
 
    **Phase 1 — SP**
    - Arc 01 — **Spotlight** — ESFP
-   - Arc 02 — **Dare** — ESTP
+   - Arc 02 — **Dare** — ESTP — **Du Vi Vi**
    - Arc 03 — **Fault** — ISTP
    - Arc 04 — **Frame** — ISFP
 
@@ -38,7 +38,7 @@ File này lưu những thiết lập đã chốt của toàn bộ truyện, kể
 
    **Phase 4 — NF**
    - Arc 13 — **TBA** — ENFP
-   - Arc 14 — **Soul** — INFP
+   - Arc 14 — **Soul** — INFP — **Lạc Di Dương**
    - Arc 15 — **TBA** — ENFJ
    - Arc 16 — **Mirror** — INFJ
 
@@ -144,6 +144,12 @@ Tổ chức không đơn giản là thế lực ác đứng sau mọi thứ.
 Nó có mục tiêu, logic và những con người riêng; những việc nó làm có thể tạo ra hậu quả nghiêm trọng mà không cần biến nó thành một âm mưu toàn năng.
 
 Trong main trilogy, Tổ chức không phải đối thủ cuối cùng của toàn bộ câu chuyện.
+
+---
+
+## Gia tộc Lạc Di
+
+Lạc Di là một họ kép có nguồn gốc từ một nhánh người Lạc Việt cổ, thuộc những gia tộc lâu đời gắn với thời kỳ lập quốc Laccovia. Lịch sử cụ thể, quyền lực và quan hệ của gia tộc chưa được thiết lập.
 
 ---
 

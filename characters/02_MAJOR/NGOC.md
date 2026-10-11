@@ -3,7 +3,9 @@
 ## Thông tin cơ bản
 
 - Tên đầy đủ: **Nguyễn Xuân Ngọc**
-- Tên Nga: **Snezhna**
+- Tên Nga đầy đủ: **Snezhana Pavlovna Durova** (Снежана Павловна Дурова)
+- Phương án tên Việt khác (chưa sử dụng): **Durova Xuân Ngọc**
+- Sinh ngày **10/10**
 - Ý nghĩa tên: **Ngọc của Mùa Xuân → Tuyết**
 - Giới tính: Nữ
 - Bố: người Laccovia

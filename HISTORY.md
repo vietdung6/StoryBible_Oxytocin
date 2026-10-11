@@ -2,6 +2,14 @@
 
 Nhật ký phát triển OXYTOCIN theo ngày.
 
+## 2026-10-12
+
+- Bổ sung gia tộc Lạc Di: họ kép lâu đời, có nguồn gốc từ người Lạc Việt cổ thời lập quốc Laccovia.
+- Xác định Lạc Di Dương là nhân vật chính Arc 14 — Soul (INFP), Du Vi Vi là nhân vật chính Arc 02 — Dare (ESTP).
+- Cập nhật tên Nga của Nguyễn Xuân Ngọc thành **Snezhana Pavlovna Durova**; giữ **Nguyễn Xuân Ngọc** làm tên sử dụng chính, lưu hai Easter egg ngắn trong `continuity/SEEDS.md`.
+- Bổ sung ngày/tháng sinh của Ngọc, Phương, Dương, Vi Vi và Long; xác nhận ngày sinh có sẵn của Minh (04/01) và Foil (06/06).
+- Lưu riêng năm sinh 2010 và mốc bắt đầu lớp 10 đầu tháng 9/2025 vào `research/BACKSTAGE_CHRONOLOGY.md`; không đưa năm vào hồ sơ nhân vật.
+
 ## 2026-10-09
 
 - Đổi tên Ngọc từ **Trần Xuân Ngọc** thành **Nguyễn Xuân Ngọc**; tên Nga từ **Snezhana** thành **Snezhna**.
