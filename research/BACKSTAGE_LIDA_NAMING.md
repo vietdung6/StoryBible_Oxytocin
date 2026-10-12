@@ -1,6 +1,6 @@
 # Backstage — Tên gọi cờ LIDA
 
-> Ghi chú hậu trường dành cho tác giả OXYTOCIN. Phần này quản lý tên gọi và ý nghĩa tên, **không thay thế sách luật** tại `mindgames/LINH_DAN_LACCOVIA.md`.
+> Ghi chú hậu trường dành cho tác giả OXYTOCIN. Phần này quản lý tên gọi và ý nghĩa tên, **không thay thế sách luật** tại `world/LIDA.md`.
 
 ## Tên gọi đã chốt
 
@@ -27,4 +27,4 @@
 
 ## Tài liệu liên quan
 
-- `mindgames/LINH_DAN_LACCOVIA.md` — luật chơi hiện hành; tên file là tên kỹ thuật kế thừa từ giai đoạn thiết kế.
+- `world/LIDA.md` — luật chơi hiện hành của Cờ LIDA, là tài liệu gốc dùng để trích dẫn khi triển khai một màn đấu trí trong `mindgames/`.
