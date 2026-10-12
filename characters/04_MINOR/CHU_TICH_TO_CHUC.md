@@ -1,10 +1,11 @@
-# Chủ tịch Tổ chức
+# Richard Saunders Gazandel
 
 ## Thông tin cơ bản
 
 - Chức vụ: **Chủ tịch Tổ chức nghiên cứu công nghệ sinh học và thần kinh học**.
 - Phân loại nhân vật: **Cấp 4 — Minor**.
-- Tên riêng: Chưa xác lập.
+- Họ tên: **Richard Saunders Gazandel**.
+- Quốc tịch: **Mỹ**.
 
 ## Vai trò
 
@@ -12,4 +13,4 @@ Chủ tịch là một thành viên ban lãnh đạo Tổ chức, nhưng chỉ g
 
 ## Cảm hứng tên gọi
 
-Tên nhân vật đang được cân nhắc theo hướng lấy cảm hứng từ các nhà khoa học thần kinh **Michael S. Gazzaniga** và **Eric R. Kandel**. Chưa chốt tên cụ thể.
+Tên **Richard Saunders Gazandel** được lấy cảm hứng từ hai nhà khoa học thần kinh **Michael Saunders Gazzaniga** và **Eric Richard Kandel**.
