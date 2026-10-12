@@ -48,6 +48,7 @@ d) Nếu toàn bộ nguyên tố bị triệt tiêu thì kết quả là Hòa.
 2. Mỗi bên giữ quyền Công trong **8 lượt**, sau đó đổi Công–Thủ.
 3. Trong thời gian Công, người chơi đồng thời được tổ chức đội hình để chuẩn bị cho thời gian Thủ kế tiếp.
 4. Dân luôn công khai; Lính có thể gồm các thẻ đang ngửa và các thẻ đang úp.
+5. **Tạm hoãn và Ứng thủ diễn ra bổ sung ngay trong lượt Tuyên chiến**, không chiếm một lượt Công–Thủ mới trong chuỗi 8 lượt.
 
 ### 2/ Các cặp hành động
 
@@ -55,7 +56,7 @@ d) Nếu toàn bộ nguyên tố bị triệt tiêu thì kết quả là Hòa.
 |---|---|
 | Chuẩn bị | Chuẩn bị |
 | Tuyên chiến | Chuẩn bị |
-| Tạm hoãn | Ứng thủ |
+| Tạm hoãn (trong lượt Tuyên chiến) | Ứng thủ (tương ứng) |
 | Xuất chiến | Chiến |
 
 ### 3/ Chuẩn bị
@@ -78,21 +79,25 @@ b) Phải thông báo ô Dân bị tấn công. Lính Công đã chọn vẫn đ
 
 c) Bên Thủ thực hiện một lượt **Chuẩn bị** theo quy tắc thông thường.
 
-d) Không được Tuyên chiến ở lượt thứ 8. Sau khi đã Tuyên chiến, bên Công bắt buộc phải Xuất chiến.
+d) **Không được Tuyên chiến ở lượt thứ 8.** Một khi Tuyên chiến, bên Công phải giải quyết hết các lần Tạm hoãn (nếu có) ngay trong lượt Tuyên chiến và bắt buộc **Xuất chiến ở lượt Công kế tiếp**. Nếu Tuyên chiến ở lượt thứ 7, lượt thứ 8 phải Xuất chiến.
 
 e) Lính Công có thể được chọn từ bất kỳ ô Lính còn quân, không bắt buộc trùng số ô với Dân mục tiêu.
 
 ### 5/ Tạm hoãn và Ứng thủ
 
-a) Chỉ được Tạm hoãn sau khi đã Tuyên chiến và trước khi Xuất chiến.
+a) **Chỉ được Tạm hoãn trong chính lượt đã Tuyên chiến.** Không được Tạm hoãn ở lượt thứ 8, kể cả khi đã Tuyên chiến từ lượt thứ 7.
 
 b) Mỗi lần Tạm hoãn, bên Công được thay tối đa **2 thẻ** của đúng Lính đã chọn khi Tuyên chiến; không được thay Dân hoặc chuyển sang Lính khác.
 
 c) Mỗi lần bên Công Tạm hoãn, bên Thủ được **Ứng thủ**: thay tối đa **2 thẻ** của đúng Lính bảo vệ Dân đang bị Tuyên chiến. Không được thay quân ở vị trí khác.
 
-d) Bên Công được Tạm hoãn tối đa **3 lần** cho một lần Tuyên chiến.
+d) Bên Công có quyền Tạm hoãn tối đa **3 lần cho mỗi lần Tuyên chiến**. Ba lần này phải được sử dụng (hoặc từ bỏ) **ngay trong lượt Tuyên chiến**, không được để dành sang lượt khác.
 
-e) Dù có Tạm hoãn hay không, bên Công vẫn phải Xuất chiến sau khi Tuyên chiến.
+e) Sau mỗi lần Tạm hoãn–Ứng thủ, bên Công có thể Tạm hoãn tiếp nếu còn quyền, hoặc kết thúc giai đoạn Tạm hoãn. Khi đã dùng hết 3 lần, giai đoạn này tự động kết thúc.
+
+f) **Sau khi kết thúc giai đoạn Tạm hoãn, hành động Công ở lượt kế tiếp bắt buộc là Xuất chiến** với Lính đã chọn và Dân đã tuyên bố. Không được chen Chuẩn bị, Tuyên chiến mới hoặc một lần Tạm hoãn khác. Không dùng Tạm hoãn cũng phải Xuất chiến ở lượt kế tiếp.
+
+g) **Ở lượt thứ 8, không được Tuyên chiến và không được Tạm hoãn.** Nếu lượt thứ 7 đã Tuyên chiến, lượt thứ 8 phải Xuất chiến.
 
 ### 6/ Xuất chiến và Chiến
 
@@ -149,47 +154,484 @@ c) Chỉ lấy trong kho dự trữ, không lấy các thẻ đang đặt trên 
 
 Người chơi thắng khi **tiêu diệt đủ 4 Dân** đối phương hoặc khi đối phương **đầu hàng**.
 
-## V/ Bảng tra cứu nhanh cơ bản
+## V/ Bảng tra cứu nguyên tố
 
-Bảng này chỉ dùng để xác định kết quả hai quân theo nguyên tố. Các luật về Chuẩn bị, Tuyên chiến, Xuất chiến và tổn thất vẫn áp dụng bình thường.
+Bảng này dùng để xác định thắng, thua hoặc hòa giữa **hai quân có 4 thẻ nguyên tố**. Không thay thế các quy định về Xuất chiến và xử lý quân bị loại.
 
-**Ký hiệu:** A, B, C, D, E là các nguyên tố khác nhau. Chữ lặp biểu thị các thẻ cùng loại. Kết quả được đọc theo quân **bên trái** dấu `:`.
+### 1/ Cách tra và ký hiệu
 
-### 1/ Bảy họ thế đấu
+a) **A, B, C, D, E** là các nguyên tố khác nhau. Chữ lặp là những thẻ cùng nguyên tố. Ví dụ: `AAAB` gồm 3 thẻ giống nhau và 1 thẻ khác.
 
-| Họ | Dạng quân | Cách xác định kết quả |
+b) Dấu `:` phân cách hai quân. **Thắng / Thua** trong bảng luôn là kết quả của quân **bên trái**.
+
+c) Tìm dạng quân trong bảng. Có thể tra trực tiếp khi hai quân không trùng nguyên tố, hoặc triệt tiêu các nguyên tố chung trước rồi tra dạng còn lại.
+
+d) Nếu không có dạng phù hợp, tính theo quy tắc so sánh hai quân tại mục III.
+
+**Quy ước hình dạng:**
+
+| Ký hiệu | Cách gọi |
+|---|---|
+| `AA` | Đôi: 2 thẻ cùng loại |
+| `AAA` | Tam: 3 thẻ cùng loại |
+| `AB` | Khối hai: 2 loại khác nhau |
+| `ABC` | Khối ba: 3 loại khác nhau |
+| `AAB` | Khối đơn đôi: 1 thẻ đơn và 1 đôi |
+
+### 2/ Bảng nhận dạng 8 họ
+
+| Họ | Dạng quân áp dụng | Tra theo |
 |---|---|---|
-| **I. Đồng cấp** | `A:B`, `AA:BB`, `AAA:BBB`, `AAAA:BBBB`, `AAAA:BBBC`, `AAAB:CCCD` | Với 4 dạng đầu, xét A đấu B; `AAAA:BBBC` xét A đấu B; `AAAB:CCCD` xét A đấu C. |
-| **II. Đôi – Khối hai** | `AA:BC`, `AAAA:BBCC`, `AABB:CCDE` | `AA:BC` và `AAAA:BBCC`: xét A với B, C. `AABB:CCDE`: xét A, B với C. Thắng cả hai thì thắng; chia đều thì hòa; thua cả hai thì thua. |
-| **III. Khối hai – Khối hai** | `AB:CD`, `AABB:CCDD` | Gọi E là nguyên tố thứ năm không xuất hiện. E thắng cả A, B thì bên trái thắng; E thua cả A, B thì bên trái thua; một thắng một thua thì hòa. |
-| **IV. Tam – Khối đơn đôi** | `AAA:BBC` | Xét A đấu B. |
-| **V. Tam – Khối ba** | `AAA:BCD` | Gọi E là nguyên tố thứ năm. E thắng A thì bên trái thắng; A thắng E thì bên trái thua. |
-| **VI. Khối đơn đôi – Khối đơn đôi** | `AAB:CCD` | Thông thường xét A đấu C. Ngoại lệ được ghi ở mục 2. |
-| **VII. Khối đơn đôi – Khối ba** | `AAB:CDE` | Xét B đấu A: B thắng A thì bên trái thắng; A thắng B thì bên trái thua. |
+| **I. Đồng cấp** | `A:B`, `AA:BB`, `AAA:BBB`, `AAAA:BBBB`, `AAAA:BBBC`, `AAAB:CCCD` | Hai nguyên tố chính |
+| **II. Đôi – Khối hai** | `AA:BC`, `AAAA:BBCC`, `AABB:CCDE` | Một nguyên tố so với hai nguyên tố |
+| **III. Khối hai – Khối hai** | `AB:CD`, `AABB:CCDD` | Nguyên tố thứ năm không xuất hiện |
+| **IV. Tam – Khối đơn đôi** | `AAA:BBC` | A đấu B |
+| **V. Tam – Khối ba** | `AAA:BCD` | Nguyên tố thứ năm đấu A |
+| **VI. Khối đơn đôi – Khối đơn đôi** | `AAB:CCD` | A đấu C; có ngoại lệ |
+| **VII. Khối đơn đôi – Khối ba** | `AAB:CDE` | B đấu A |
+| **VIII. Trường hợp đặc biệt** | `AAAA:BCDE`, `AAAA:BBCD`, `AAAB:CCDD`, `AAAB:CCDE` | Tra riêng bốn dạng đặc biệt ở mục V.4 |
 
-### 2/ Ngoại lệ Khối đơn đôi – Khối đơn đôi
+### 3/ Quy tắc và ví dụ từng họ
 
-Với `AAB:CCD`, trước hết lấy kết quả **A đấu C**.
+#### I. Đồng cấp
 
-Chỉ **đảo ngược kết quả** khi cả ba cặp `A:D`, `B:C` và `B:D` đều có kết quả ngược với `A:C`. Những trường hợp còn lại giữ nguyên kết quả A đấu C.
+**Dạng:** `A:B`, `AA:BB`, `AAA:BBB`, `AAAA:BBBB`, `AAAA:BBBC`, `AAAB:CCCD`.
 
-### 3/ Thế luôn hòa
+**Cách tra:**
+- `A:B`, `AA:BB`, `AAA:BBB`, `AAAA:BBBB`, `AAAA:BBBC`: xét **A đấu B**.
+- `AAAB:CCCD`: xét **A đấu C**.
+- Nguyên tố được xét thắng thì quân bên trái thắng; ngược lại thì thua.
 
-`AAAA:BCDE` **luôn hòa** khi B, C, D, E là đủ bốn nguyên tố khác A.
+**Ví dụ 1:** `Kim Kim Kim Kim : Mộc Mộc Mộc Mộc` → Kim thắng Mộc → **bên trái thắng**.
 
-### 4/ Những thế tính theo luật gốc
+**Ví dụ 2:** `Kim Kim Kim Thủy : Thổ Thổ Thổ Hỏa` là dạng `AAAB:CCCD`. Kim thắng Thổ → **bên trái thắng**.
 
-Ba dạng dưới đây không thuộc bảng tra cứu cơ bản:
+#### II. Đôi – Khối hai
 
-- `AAAA:BBCD`
-- `AAAB:CCDD`
-- `AAAB:CCDE`
+**Dạng:** `AA:BC`, `AAAA:BBCC`, `AABB:CCDE`.
 
-Khi gặp một trong ba dạng này, thực hiện triệt tiêu nguyên tố chung (nếu có), sau đó so sánh chéo theo mục III.
+**Cách tra:**
+- `AA:BC`, `AAAA:BBCC`: xét A với B và C.
+- `AABB:CCDE`: xét A và B với C.
 
-### 5/ Áp dụng khi các quân có nguyên tố chung
+| Hai quan hệ cần xét | Kết quả bên trái |
+|---|---|
+| Thắng cả hai | **Thắng** |
+| Thắng một, thua một | **Hòa** |
+| Thua cả hai | **Thua** |
 
-Bảng ghi dạng nguyên tố **sau khi triệt tiêu** cũng được sử dụng như một cách tra cứu. Nếu không nhận ra dạng tra nhanh, người chơi dùng trực tiếp quy tắc so sánh tại mục III.
+**Ví dụ:** `Kim Kim Kim Thủy : Kim Thủy Mộc Thổ`.
+
+Triệt tiêu một Kim và một Thủy → `Kim Kim : Mộc Thổ` (`AA:BC`). Kim thắng Mộc và Thổ → **bên trái thắng**.
+
+**Ví dụ dạng mở rộng:** `Kim Kim Mộc Mộc : Thổ Thổ Thủy Hỏa` (`AABB:CCDE`). Kim và Mộc đều thắng Thổ → **bên trái thắng**.
+
+#### III. Khối hai – Khối hai
+
+**Dạng:** `AB:CD`, `AABB:CCDD`.
+
+**Cách tra:** Tìm **E**, nguyên tố thứ năm không xuất hiện trong hai quân.
+
+| E so với A và B | Kết quả bên trái |
+|---|---|
+| E thắng cả A và B | **Thắng** |
+| E thắng một, thua một | **Hòa** |
+| E thua cả A và B | **Thua** |
+
+**Ví dụ:** `Kim Kim Mộc Hỏa : Kim Hỏa Thổ Thủy`.
+
+Triệt tiêu một Kim và một Hỏa → `Kim Mộc : Thổ Thủy` (`AB:CD`). Nguyên tố không xuất hiện là **Hỏa**. Hỏa thắng Kim và Mộc → **bên trái thắng**.
+
+#### IV. Tam – Khối đơn đôi
+
+**Dạng:** `AAA:BBC`.
+
+**Cách tra:** Chỉ xét **A đấu B** (nguyên tố lặp hai lần ở quân bên phải).
+
+| Quan hệ | Kết quả bên trái |
+|---|---|
+| A thắng B | **Thắng** |
+| A thua B | **Thua** |
+
+**Ví dụ:** `Kim Kim Kim Thủy : Thủy Mộc Mộc Thổ`.
+
+Triệt tiêu Thủy → `Kim Kim Kim : Mộc Mộc Thổ`. Kim thắng Mộc → **bên trái thắng**.
+
+#### V. Tam – Khối ba
+
+**Dạng:** `AAA:BCD`.
+
+**Cách tra:** Gọi E là nguyên tố thứ năm không xuất hiện trong dạng sau triệt tiêu.
+
+| Quan hệ | Kết quả bên trái |
+|---|---|
+| **E thắng A** | **Thắng** |
+| **A thắng E** | **Thua** |
+
+**Ví dụ:** `Kim Kim Kim Hỏa : Mộc Thổ Thủy Hỏa`.
+
+Triệt tiêu Hỏa → `Kim Kim Kim : Mộc Thổ Thủy`. Nguyên tố còn thiếu là **Hỏa**. Hỏa thắng Kim → **bên trái thắng**.
+
+#### VI. Khối đơn đôi – Khối đơn đôi
+
+**Dạng:** `AAB:CCD`.
+
+**Cách tra:** Thông thường, kết quả **A đấu C** cũng là kết quả của hai quân.
+
+**Ngoại lệ:** Nếu cả ba cặp **A đấu D, B đấu C và B đấu D** đều ngược với kết quả A đấu C thì **đảo ngược kết quả**.
+
+| Điều kiện | Kết quả bên trái |
+|---|---|
+| Không có ngoại lệ | Theo A đấu C |
+| Đủ cả ba quan hệ ngược | Ngược với A đấu C |
+
+**Ví dụ thường:** `Kim Kim Mộc Hỏa : Thổ Thổ Thủy Hỏa`.
+
+Triệt tiêu Hỏa → `Kim Kim Mộc : Thổ Thổ Thủy`. Kim thắng Thổ; không có đủ ba điều kiện đảo → **bên trái thắng**.
+
+**Ví dụ ngoại lệ:** `Kim Kim Mộc Hỏa : Thủy Thủy Thổ Hỏa`.
+
+Triệt tiêu Hỏa → `Kim Kim Mộc : Thủy Thủy Thổ`.
+
+Kim thua Thủy, nhưng:
+- Kim **thắng** Thổ;
+- Mộc **thắng** Thủy;
+- Mộc **thắng** Thổ.
+
+Cả ba quan hệ đều ngược với Kim đấu Thủy. Kết quả được đảo: **bên trái thắng**.
+
+#### VII. Khối đơn đôi – Khối ba
+
+**Dạng:** `AAB:CDE`.
+
+**Cách tra:** So **B đấu A ngay trong quân bên trái**.
+
+| Quan hệ | Kết quả bên trái |
+|---|---|
+| B thắng A | **Thắng** |
+| A thắng B | **Thua** |
+
+**Ví dụ:** `Kim Kim Kim Thủy : Kim Mộc Thổ Hỏa`.
+
+Triệt tiêu một Kim → `Kim Kim Thủy : Mộc Thổ Hỏa`. Thủy thắng Kim → **bên trái thắng**.
+
+### 4/ Họ VIII — Trường hợp đặc biệt
+
+Họ VIII gồm **bốn dạng**: một dạng luôn hòa và ba dạng có quy tắc so sánh riêng. Tất cả đều được tra theo các mục dưới đây.
+
+| Dạng | Quy tắc tra nhanh |
+|---|---|
+| `AAAA:BCDE` | Luôn hòa |
+| `AAAA:BBCD` | Xét A với B và nguyên tố còn thiếu E |
+| `AAAB:CCDD` | Xét A với C, D; khi cần xét tiếp B với C, D |
+| `AAAB:CCDE` | Xét A với C và kiểm tra điều kiện hòa đặc biệt |
+
+#### a) Dạng luôn hòa: `AAAA:BCDE`
+
+**Dạng:** `AAAA:BCDE` với B, C, D, E là đủ bốn nguyên tố còn lại.
+
+**Kết quả: Luôn hòa.**
+
+**Ví dụ:** `Kim Kim Kim Kim : Mộc Thổ Thủy Hỏa` → **Hòa**.
+
+Ba dạng sau **cũng thuộc Họ VIII**, không phải một nhóm riêng ngoài tám họ. Mỗi bên có bốn thẻ và không có nguyên tố chung để triệt tiêu; các chữ A, B, C, D, E chỉ những nguyên tố khác nhau.
+
+#### b) Tứ – Đôi và hai đơn: `AAAA:BBCD`
+
+Tìm **E**, nguyên tố thứ năm không có trong hai quân.
+
+| Quan hệ | Kết quả bên trái |
+|---|---|
+| **A thắng B**, **E thắng A** | **Thắng** |
+| **B thắng A**, **A thắng E** | **Thua** |
+| A thắng cả B và E | **Hòa** |
+| A thua cả B và E | **Hòa** |
+
+Chỉ cần xét **B** (nguyên tố lặp đôi bên phải) và **E** (nguyên tố vắng mặt); không cần lần lượt so A với C, D.
+
+**Ví dụ:**
+
+| Quân bên trái | Quân bên phải | Kết quả |
+|---|---|---|
+| Kim – Kim – Kim – Kim | Mộc – Mộc – Thổ – Thủy | **Thắng** (12–4) |
+| Kim – Kim – Kim – Kim | Mộc – Mộc – Thủy – Hỏa | **Hòa** (8–8) |
+| Kim – Kim – Kim – Kim | Thủy – Thủy – Mộc – Hỏa | **Thua** (4–12) |
+
+Ở ví dụ thứ nhất, nguyên tố vắng mặt là **Hỏa**: Kim thắng Mộc nhưng thua Hỏa, nên quân Kim thắng.
+
+#### c) Tam và đơn – Hai đôi: `AAAB:CCDD`
+
+Trước hết xét **A với C và D**.
+
+| Quan hệ của A | Xử lý |
+|---|---|
+| A thắng cả C và D | **Thắng** |
+| A thua cả C và D | **Thua** |
+| A thắng một, thua một | Xét tiếp B với C và D |
+
+Khi A thắng một, thua một:
+
+| Quan hệ của B | Kết quả bên trái |
+|---|---|
+| B thắng cả C và D | **Thắng** |
+| B thua cả C và D | **Thua** |
+| B thắng một, thua một | **Hòa** |
+
+**Ví dụ:**
+
+| Quân bên trái | Quân bên phải | Kết quả |
+|---|---|---|
+| Kim – Kim – Kim – Mộc | Thổ – Thổ – Thủy – Thủy | **Thắng** (10–6) |
+| Kim – Kim – Kim – Mộc | Thổ – Thổ – Hỏa – Hỏa | **Hòa** (8–8) |
+| Kim – Kim – Kim – Hỏa | Thổ – Thổ – Thủy – Thủy | **Thua** (6–10) |
+
+Ở ví dụ thứ nhất, Kim thắng Thổ nhưng thua Thủy; xét tiếp Mộc thì Mộc thắng cả Thổ và Thủy, nên quân bên trái thắng.
+
+#### d) Tam và đơn – Đôi và hai đơn: `AAAB:CCDE`
+
+Trước hết xét **A đấu C**, trong đó C là **nguyên tố lặp đôi bên phải**.
+
+| Quan hệ | Kết quả bên trái |
+|---|---|
+| A thắng C, **không** đồng thời có A thắng B và C thắng B | **Thắng** |
+| A thắng cả B và C, đồng thời C thắng B | **Hòa** |
+| C thắng A, **không** đồng thời có B thắng cả A và C | **Thua** |
+| B thắng cả A và C, đồng thời C thắng A | **Hòa** |
+
+**Ví dụ:**
+
+| Quân bên trái | Quân bên phải | Kết quả |
+|---|---|---|
+| Kim – Kim – Kim – Mộc | Thổ – Thổ – Thủy – Hỏa | **Thắng** (9–7) |
+| Kim – Kim – Kim – Thổ | Mộc – Mộc – Thủy – Hỏa | **Hòa** (8–8) |
+| Kim – Kim – Kim – Mộc | Thủy – Thủy – Thổ – Hỏa | **Thua** (6–10) |
+| Kim – Kim – Kim – Thủy | Hỏa – Hỏa – Mộc – Thổ | **Hòa** (8–8) |
+
+Ở ví dụ hòa thứ nhất, Kim thắng cả Mộc và Thổ, nhưng Mộc cũng thắng Thổ. Đây là trường hợp hòa đặc biệt dù **A thắng C**.
+
+Ở ví dụ hòa cuối cùng, Thủy thắng cả Kim và Hỏa, còn Hỏa thắng Kim. Đây là trường hợp hòa đặc biệt dù **C thắng A**.
+
+### 5/ Nguyên tắc sử dụng toàn bộ bảng
+
+a) Mỗi phép so sánh bắt đầu bằng việc **triệt tiêu các nguyên tố chung**. Sau đó đối chiếu phần còn lại với các dạng từ mục V.3 đến V.4.
+
+b) Kết quả ghi trong bảng luôn là **kết quả của quân bên trái**.
+
+c) Nếu không nhận diện được dạng tra nhanh, người chơi luôn có thể **so sánh chéo từng cặp nguyên tố** theo mục III. Phép so sánh gốc được ưu tiên khi cần đối chiếu kết quả.
+
+## VI/ Phụ lục — Kiểm tra từng ví dụ theo cách tính truyền thống
+
+Phần này kiểm tra **toàn bộ 21 ví dụ** ở mục V bằng đúng quy tắc mục III: **triệt tiêu nguyên tố chung trước**, sau đó **so sánh chéo mọi cặp nguyên tố còn lại**. Các thẻ có cùng nguyên tố được gộp thành phép nhân để khỏi phải viết lặp từng cặp.
+
+- **Điểm trái**: số cặp mà nguyên tố quân bên trái thắng nguyên tố quân bên phải.
+- **Điểm phải**: số cặp mà nguyên tố quân bên phải thắng nguyên tố quân bên trái.
+- Điểm trái lớn hơn là **Thắng**, bằng nhau là **Hòa**, nhỏ hơn là **Thua** (đều xét từ phía quân bên trái).
+
+### 1/ Danh mục các ví dụ được đối chiếu
+
+| Mã | Thuộc bảng | Điểm trái – Điểm phải | Kết quả |
+|---|---|---:|---|
+| I-1 | Đồng cấp — ví dụ 1 | 16–0 | **Thắng** |
+| I-2 | Đồng cấp — ví dụ 2 | 10–6 | **Thắng** |
+| II-1 | Đôi – Khối hai | 4–0 | **Thắng** |
+| II-2 | Đôi – Khối hai mở rộng | 10–6 | **Thắng** |
+| III-1 | Khối hai – Khối hai | 3–1 | **Thắng** |
+| IV-1 | Tam – Khối đơn đôi | 9–0 | **Thắng** |
+| V-1 | Tam – Khối ba | 6–3 | **Thắng** |
+| VI-1 | Khối đơn đôi – Khối đơn đôi (thường) | 7–2 | **Thắng** |
+| VI-2 | Khối đơn đôi – Khối đơn đôi (ngoại lệ) | 5–4 | **Thắng** |
+| VII-1 | Khối đơn đôi – Khối ba | 5–4 | **Thắng** |
+| VIII-1 | Họ VIII — Dạng luôn hòa | 8–8 | **Hòa** |
+| VIII-2 | AAAA:BBCD — thắng | 12–4 | **Thắng** |
+| VIII-3 | AAAA:BBCD — hòa | 8–8 | **Hòa** |
+| VIII-4 | AAAA:BBCD — thua | 4–12 | **Thua** |
+| VIII-5 | AAAB:CCDD — thắng | 10–6 | **Thắng** |
+| VIII-6 | AAAB:CCDD — hòa | 8–8 | **Hòa** |
+| VIII-7 | AAAB:CCDD — thua | 6–10 | **Thua** |
+| VIII-8 | AAAB:CCDE — thắng | 9–7 | **Thắng** |
+| VIII-9 | AAAB:CCDE — hòa 1 | 8–8 | **Hòa** |
+| VIII-10 | AAAB:CCDE — thua | 6–10 | **Thua** |
+| VIII-11 | AAAB:CCDE — hòa 2 | 8–8 | **Hòa** |
+
+### 2/ Đối chiếu chi tiết
+
+#### A. Các họ I–VII và dạng luôn hòa thuộc họ VIII
+
+**I-1. Đồng cấp — ví dụ 1.** `Kim×4 : Mộc×4`.
+
+Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×4 : Mộc×4`.
+
+- **Điểm trái:** Kim→Mộc (4×4=16) → **16**.
+- **Điểm phải:** không có cặp thắng → **0**.
+- **Kết quả: 16–0 → Thắng.**
+
+**I-2. Đồng cấp — ví dụ 2.** `Kim×3 + Thủy : Thổ×3 + Hỏa`.
+
+Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×3 + Thủy : Thổ×3 + Hỏa`.
+
+- **Điểm trái:** Kim→Thổ (3×3=9); Thủy→Hỏa (1×1=1) → **10**.
+- **Điểm phải:** Thổ→Thủy (3×1=3); Hỏa→Kim (1×3=3) → **6**.
+- **Kết quả: 10–6 → Thắng.**
+
+**II-1. Đôi – Khối hai.** `Kim×3 + Thủy : Kim + Mộc + Thổ + Thủy`.
+
+Triệt tiêu: **Kim, Thủy**. Còn lại `Kim×2 : Mộc + Thổ`.
+
+- **Điểm trái:** Kim→Mộc (2×1=2); Kim→Thổ (2×1=2) → **4**.
+- **Điểm phải:** không có cặp thắng → **0**.
+- **Kết quả: 4–0 → Thắng.**
+
+**II-2. Đôi – Khối hai mở rộng.** `Kim×2 + Mộc×2 : Thổ×2 + Thủy + Hỏa`.
+
+Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×2 + Mộc×2 : Thổ×2 + Thủy + Hỏa`.
+
+- **Điểm trái:** Kim→Thổ (2×2=4); Mộc→Thổ (2×2=4); Mộc→Thủy (2×1=2) → **10**.
+- **Điểm phải:** Thủy→Kim (1×2=2); Hỏa→Kim (1×2=2); Hỏa→Mộc (1×2=2) → **6**.
+- **Kết quả: 10–6 → Thắng.**
+
+**III-1. Khối hai – Khối hai.** `Kim×2 + Mộc + Hỏa : Kim + Thổ + Thủy + Hỏa`.
+
+Triệt tiêu: **Kim, Hỏa**. Còn lại `Kim + Mộc : Thổ + Thủy`.
+
+- **Điểm trái:** Kim→Thổ (1×1=1); Mộc→Thổ (1×1=1); Mộc→Thủy (1×1=1) → **3**.
+- **Điểm phải:** Thủy→Kim (1×1=1) → **1**.
+- **Kết quả: 3–1 → Thắng.**
+
+**IV-1. Tam – Khối đơn đôi.** `Kim×3 + Thủy : Mộc×2 + Thổ + Thủy`.
+
+Triệt tiêu: **Thủy**. Còn lại `Kim×3 : Mộc×2 + Thổ`.
+
+- **Điểm trái:** Kim→Mộc (3×2=6); Kim→Thổ (3×1=3) → **9**.
+- **Điểm phải:** không có cặp thắng → **0**.
+- **Kết quả: 9–0 → Thắng.**
+
+**V-1. Tam – Khối ba.** `Kim×3 + Hỏa : Mộc + Thổ + Thủy + Hỏa`.
+
+Triệt tiêu: **Hỏa**. Còn lại `Kim×3 : Mộc + Thổ + Thủy`.
+
+- **Điểm trái:** Kim→Mộc (3×1=3); Kim→Thổ (3×1=3) → **6**.
+- **Điểm phải:** Thủy→Kim (1×3=3) → **3**.
+- **Kết quả: 6–3 → Thắng.**
+
+**VI-1. Khối đơn đôi – Khối đơn đôi (thường).** `Kim×2 + Mộc + Hỏa : Thổ×2 + Thủy + Hỏa`.
+
+Triệt tiêu: **Hỏa**. Còn lại `Kim×2 + Mộc : Thổ×2 + Thủy`.
+
+- **Điểm trái:** Kim→Thổ (2×2=4); Mộc→Thổ (1×2=2); Mộc→Thủy (1×1=1) → **7**.
+- **Điểm phải:** Thủy→Kim (1×2=2) → **2**.
+- **Kết quả: 7–2 → Thắng.**
+
+**VI-2. Khối đơn đôi – Khối đơn đôi (ngoại lệ).** `Kim×2 + Mộc + Hỏa : Thổ + Thủy×2 + Hỏa`.
+
+Triệt tiêu: **Hỏa**. Còn lại `Kim×2 + Mộc : Thổ + Thủy×2`.
+
+- **Điểm trái:** Kim→Thổ (2×1=2); Mộc→Thổ (1×1=1); Mộc→Thủy (1×2=2) → **5**.
+- **Điểm phải:** Thủy→Kim (2×2=4) → **4**.
+- **Kết quả: 5–4 → Thắng.**
+
+**VII-1. Khối đơn đôi – Khối ba.** `Kim×3 + Thủy : Kim + Mộc + Thổ + Hỏa`.
+
+Triệt tiêu: **Kim**. Còn lại `Kim×2 + Thủy : Mộc + Thổ + Hỏa`.
+
+- **Điểm trái:** Kim→Mộc (2×1=2); Kim→Thổ (2×1=2); Thủy→Hỏa (1×1=1) → **5**.
+- **Điểm phải:** Mộc→Thủy (1×1=1); Thổ→Thủy (1×1=1); Hỏa→Kim (1×2=2) → **4**.
+- **Kết quả: 5–4 → Thắng.**
+
+**VIII-1. Họ VIII — Dạng luôn hòa.** `Kim×4 : Mộc + Thổ + Thủy + Hỏa`.
+
+Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×4 : Mộc + Thổ + Thủy + Hỏa`.
+
+- **Điểm trái:** Kim→Mộc (4×1=4); Kim→Thổ (4×1=4) → **8**.
+- **Điểm phải:** Thủy→Kim (1×4=4); Hỏa→Kim (1×4=4) → **8**.
+- **Kết quả: 8–8 → Hòa.**
+
+
+#### B. Ba dạng còn lại thuộc họ VIII
+
+**VIII-2. AAAA:BBCD — thắng.** `Kim×4 : Mộc×2 + Thổ + Thủy`.
+
+Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×4 : Mộc×2 + Thổ + Thủy`.
+
+- **Điểm trái:** Kim→Mộc (4×2=8); Kim→Thổ (4×1=4) → **12**.
+- **Điểm phải:** Thủy→Kim (1×4=4) → **4**.
+- **Kết quả: 12–4 → Thắng.**
+
+**VIII-3. AAAA:BBCD — hòa.** `Kim×4 : Mộc×2 + Thủy + Hỏa`.
+
+Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×4 : Mộc×2 + Thủy + Hỏa`.
+
+- **Điểm trái:** Kim→Mộc (4×2=8) → **8**.
+- **Điểm phải:** Thủy→Kim (1×4=4); Hỏa→Kim (1×4=4) → **8**.
+- **Kết quả: 8–8 → Hòa.**
+
+**VIII-4. AAAA:BBCD — thua.** `Kim×4 : Mộc + Thủy×2 + Hỏa`.
+
+Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×4 : Mộc + Thủy×2 + Hỏa`.
+
+- **Điểm trái:** Kim→Mộc (4×1=4) → **4**.
+- **Điểm phải:** Thủy→Kim (2×4=8); Hỏa→Kim (1×4=4) → **12**.
+- **Kết quả: 4–12 → Thua.**
+
+**VIII-5. AAAB:CCDD — thắng.** `Kim×3 + Mộc : Thổ×2 + Thủy×2`.
+
+Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×3 + Mộc : Thổ×2 + Thủy×2`.
+
+- **Điểm trái:** Kim→Thổ (3×2=6); Mộc→Thổ (1×2=2); Mộc→Thủy (1×2=2) → **10**.
+- **Điểm phải:** Thủy→Kim (2×3=6) → **6**.
+- **Kết quả: 10–6 → Thắng.**
+
+**VIII-6. AAAB:CCDD — hòa.** `Kim×3 + Mộc : Thổ×2 + Hỏa×2`.
+
+Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×3 + Mộc : Thổ×2 + Hỏa×2`.
+
+- **Điểm trái:** Kim→Thổ (3×2=6); Mộc→Thổ (1×2=2) → **8**.
+- **Điểm phải:** Hỏa→Kim (2×3=6); Hỏa→Mộc (2×1=2) → **8**.
+- **Kết quả: 8–8 → Hòa.**
+
+**VIII-7. AAAB:CCDD — thua.** `Kim×3 + Hỏa : Thổ×2 + Thủy×2`.
+
+Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×3 + Hỏa : Thổ×2 + Thủy×2`.
+
+- **Điểm trái:** Kim→Thổ (3×2=6) → **6**.
+- **Điểm phải:** Thổ→Hỏa (2×1=2); Thủy→Kim (2×3=6); Thủy→Hỏa (2×1=2) → **10**.
+- **Kết quả: 6–10 → Thua.**
+
+**VIII-8. AAAB:CCDE — thắng.** `Kim×3 + Mộc : Thổ×2 + Thủy + Hỏa`.
+
+Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×3 + Mộc : Thổ×2 + Thủy + Hỏa`.
+
+- **Điểm trái:** Kim→Thổ (3×2=6); Mộc→Thổ (1×2=2); Mộc→Thủy (1×1=1) → **9**.
+- **Điểm phải:** Thủy→Kim (1×3=3); Hỏa→Kim (1×3=3); Hỏa→Mộc (1×1=1) → **7**.
+- **Kết quả: 9–7 → Thắng.**
+
+**VIII-9. AAAB:CCDE — hòa 1.** `Kim×3 + Thổ : Mộc×2 + Thủy + Hỏa`.
+
+Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×3 + Thổ : Mộc×2 + Thủy + Hỏa`.
+
+- **Điểm trái:** Kim→Mộc (3×2=6); Thổ→Thủy (1×1=1); Thổ→Hỏa (1×1=1) → **8**.
+- **Điểm phải:** Mộc→Thổ (2×1=2); Thủy→Kim (1×3=3); Hỏa→Kim (1×3=3) → **8**.
+- **Kết quả: 8–8 → Hòa.**
+
+**VIII-10. AAAB:CCDE — thua.** `Kim×3 + Mộc : Thổ + Thủy×2 + Hỏa`.
+
+Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×3 + Mộc : Thổ + Thủy×2 + Hỏa`.
+
+- **Điểm trái:** Kim→Thổ (3×1=3); Mộc→Thổ (1×1=1); Mộc→Thủy (1×2=2) → **6**.
+- **Điểm phải:** Thủy→Kim (2×3=6); Hỏa→Kim (1×3=3); Hỏa→Mộc (1×1=1) → **10**.
+- **Kết quả: 6–10 → Thua.**
+
+**VIII-11. AAAB:CCDE — hòa 2.** `Kim×3 + Thủy : Mộc + Thổ + Hỏa×2`.
+
+Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×3 + Thủy : Mộc + Thổ + Hỏa×2`.
+
+- **Điểm trái:** Kim→Mộc (3×1=3); Kim→Thổ (3×1=3); Thủy→Hỏa (1×2=2) → **8**.
+- **Điểm phải:** Mộc→Thủy (1×1=1); Thổ→Thủy (1×1=1); Hỏa→Kim (2×3=6) → **8**.
+- **Kết quả: 8–8 → Hòa.**
+
+### 3/ Quy tắc kiểm tra khi có tranh chấp
+
+Trong mọi trường hợp, kể cả khi bảng tra cứu nhanh cho kết quả khác với phép tính thủ công, hai người chơi đối chiếu lại bằng thứ tự sau: **(1) triệt tiêu giao; (2) liệt kê tất cả cặp nguyên tố còn lại; (3) đếm số cặp thắng của từng bên; (4) so sánh hai tổng** theo mục III. Đây là quy tắc dùng để quyết định kết quả.
+
 
 ---
 
