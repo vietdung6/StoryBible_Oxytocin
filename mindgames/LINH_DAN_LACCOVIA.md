@@ -63,7 +63,7 @@ d) Nếu toàn bộ nguyên tố bị triệt tiêu thì kết quả là Hòa.
 
 ### 3/ Chuẩn bị
 
-a) Mỗi lần Chuẩn bị được **điều chỉnh tối đa 2 thẻ nguyên tố** theo quy tắc riêng của Lính và Dân. Khi điều chỉnh Dân, chỉ được hoán đổi các thẻ Dân đang có giữa các ô Dân còn tồn tại; **không được sử dụng thẻ trong kho**. Một lần hoán đổi hai thẻ giữa hai Dân được tính là điều chỉnh 2 thẻ.
+a) Trong **một lượt Chuẩn bị**, người chơi được điều chỉnh **tối đa 2 thẻ Lính và tối đa 2 thẻ Dân**, tính theo **hai giới hạn riêng biệt** (tổng cộng tối đa **4 thẻ** nếu được phép điều chỉnh cả hai loại). Có thể thực hiện cả hai trong cùng một lượt Chuẩn bị; không phải chọn chỉ Lính hoặc chỉ Dân. Khi điều chỉnh Dân, chỉ được hoán đổi các thẻ Dân đang có giữa các ô Dân còn tồn tại; **không được sử dụng thẻ trong kho**. Một lần hoán đổi hai thẻ giữa hai Dân được tính là điều chỉnh 2 thẻ Dân.
 
 b) Người đang Công được Chuẩn bị cả Lính và Dân của mình.
 
@@ -71,7 +71,7 @@ c) Người đang Thủ **không được thay nguyên tố Dân** trong toàn b
 
 d) **Nguồn thay thẻ:** Đối với **Dân**, chỉ được hoán đổi thẻ thuộc nguồn Dân giữa các Dân còn tồn tại; không được bổ sung hoặc thay thẻ Dân bằng kho Lính. Đối với **Lính**, mọi thẻ đặt vào hoặc thay mới phải lấy từ kho Lính; thẻ Lính thay ra được trả về chính kho này. **Không chuyển thẻ trực tiếp giữa Dân và Lính, hoặc giữa hai Lính.** Thẻ Dân bị tiêu diệt được loại vĩnh viễn và không được bù lại.
 
-e) Khi một Lính Thủ đã bị tiêu diệt, người chơi được dùng **một lượt Chuẩn bị** để đặt đủ **4 thẻ nguyên tố lấy từ kho Lính** vào đúng ô Lính đã mất. Đây là ngoại lệ của giới hạn 2 thẻ, chỉ áp dụng cho việc tái lập Lính Thủ bị tiêu diệt.
+e) Khi một Lính Thủ đã bị tiêu diệt, người chơi được dùng **một lượt Chuẩn bị** để đặt đủ **4 thẻ nguyên tố lấy từ kho Lính** vào đúng ô Lính đã mất. Đây là ngoại lệ của **giới hạn 2 thẻ Lính**, chỉ áp dụng cho việc tái lập Lính Thủ bị tiêu diệt.
 
 ### 4/ Tuyên chiến
 
@@ -91,7 +91,7 @@ a) **Tạm hoãn chỉ được thực hiện sau khi đã Tuyên chiến và tr
 
 b) Mỗi lần Tạm hoãn, bên Công được thay tối đa **2 thẻ** của đúng Lính đã chọn khi Tuyên chiến; không được thay Dân hoặc chuyển sang Lính khác.
 
-c) Mỗi lần bên Công Tạm hoãn, bên Thủ được **Ứng thủ**: thay tối đa **2 thẻ** của đúng Lính bảo vệ Dân đang bị Tuyên chiến. Không được thay quân ở vị trí khác.
+c) Mỗi lần bên Công Tạm hoãn, bên Thủ được **Ứng thủ**: thay tối đa **2 thẻ** của đúng Lính bảo vệ Dân đang bị Tuyên chiến. Không được thay quân ở vị trí khác. **Nếu Dân mục tiêu không có Lính bảo vệ, bên Thủ không được Ứng thủ.**
 
 d) Bên Công được Tạm hoãn tối đa **3 lần cho mỗi lần Tuyên chiến**, nếu số lượt còn lại cho phép. Không được để dành quyền Tạm hoãn sang một lần Tuyên chiến khác.
 
