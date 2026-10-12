@@ -151,45 +151,183 @@ Người chơi thắng khi **tiêu diệt đủ 4 Dân** đối phương hoặc 
 
 ## V/ Bảng tra cứu nhanh cơ bản
 
-Bảng này chỉ dùng để xác định kết quả hai quân theo nguyên tố. Các luật về Chuẩn bị, Tuyên chiến, Xuất chiến và tổn thất vẫn áp dụng bình thường.
+Bảng này dùng để xác định thắng, thua hoặc hòa giữa **hai quân có 4 thẻ nguyên tố**. Không thay thế các quy định về Xuất chiến và xử lý quân bị loại.
 
-**Ký hiệu:** A, B, C, D, E là các nguyên tố khác nhau. Chữ lặp biểu thị các thẻ cùng loại. Kết quả được đọc theo quân **bên trái** dấu `:`.
+### 1/ Cách tra và ký hiệu
 
-### 1/ Bảy họ thế đấu
+a) **A, B, C, D, E** là các nguyên tố khác nhau. Chữ lặp là những thẻ cùng nguyên tố. Ví dụ: `AAAB` gồm 3 thẻ giống nhau và 1 thẻ khác.
 
-| Họ | Dạng quân | Cách xác định kết quả |
+b) Dấu `:` phân cách hai quân. **Thắng / Thua** trong bảng luôn là kết quả của quân **bên trái**.
+
+c) Tìm dạng quân trong bảng. Có thể tra trực tiếp khi hai quân không trùng nguyên tố, hoặc triệt tiêu các nguyên tố chung trước rồi tra dạng còn lại.
+
+d) Nếu không có dạng phù hợp, tính theo quy tắc so sánh hai quân tại mục III.
+
+**Quy ước hình dạng:**
+
+| Ký hiệu | Cách gọi |
+|---|---|
+| `AA` | Đôi: 2 thẻ cùng loại |
+| `AAA` | Tam: 3 thẻ cùng loại |
+| `AB` | Khối hai: 2 loại khác nhau |
+| `ABC` | Khối ba: 3 loại khác nhau |
+| `AAB` | Khối đơn đôi: 1 thẻ đơn và 1 đôi |
+
+### 2/ Bảng nhận dạng 7 họ
+
+| Họ | Dạng quân áp dụng | Tra theo |
 |---|---|---|
-| **I. Đồng cấp** | `A:B`, `AA:BB`, `AAA:BBB`, `AAAA:BBBB`, `AAAA:BBBC`, `AAAB:CCCD` | Với 4 dạng đầu, xét A đấu B; `AAAA:BBBC` xét A đấu B; `AAAB:CCCD` xét A đấu C. |
-| **II. Đôi – Khối hai** | `AA:BC`, `AAAA:BBCC`, `AABB:CCDE` | `AA:BC` và `AAAA:BBCC`: xét A với B, C. `AABB:CCDE`: xét A, B với C. Thắng cả hai thì thắng; chia đều thì hòa; thua cả hai thì thua. |
-| **III. Khối hai – Khối hai** | `AB:CD`, `AABB:CCDD` | Gọi E là nguyên tố thứ năm không xuất hiện. E thắng cả A, B thì bên trái thắng; E thua cả A, B thì bên trái thua; một thắng một thua thì hòa. |
-| **IV. Tam – Khối đơn đôi** | `AAA:BBC` | Xét A đấu B. |
-| **V. Tam – Khối ba** | `AAA:BCD` | Gọi E là nguyên tố thứ năm. E thắng A thì bên trái thắng; A thắng E thì bên trái thua. |
-| **VI. Khối đơn đôi – Khối đơn đôi** | `AAB:CCD` | Thông thường xét A đấu C. Ngoại lệ được ghi ở mục 2. |
-| **VII. Khối đơn đôi – Khối ba** | `AAB:CDE` | Xét B đấu A: B thắng A thì bên trái thắng; A thắng B thì bên trái thua. |
+| **I. Đồng cấp** | `A:B`, `AA:BB`, `AAA:BBB`, `AAAA:BBBB`, `AAAA:BBBC`, `AAAB:CCCD` | Hai nguyên tố chính |
+| **II. Đôi – Khối hai** | `AA:BC`, `AAAA:BBCC`, `AABB:CCDE` | Một nguyên tố so với hai nguyên tố |
+| **III. Khối hai – Khối hai** | `AB:CD`, `AABB:CCDD` | Nguyên tố thứ năm không xuất hiện |
+| **IV. Tam – Khối đơn đôi** | `AAA:BBC` | A đấu B |
+| **V. Tam – Khối ba** | `AAA:BCD` | Nguyên tố thứ năm đấu A |
+| **VI. Khối đơn đôi – Khối đơn đôi** | `AAB:CCD` | A đấu C; có ngoại lệ |
+| **VII. Khối đơn đôi – Khối ba** | `AAB:CDE` | B đấu A |
 
-### 2/ Ngoại lệ Khối đơn đôi – Khối đơn đôi
+### 3/ Quy tắc và ví dụ từng họ
 
-Với `AAB:CCD`, trước hết lấy kết quả **A đấu C**.
+#### I. Đồng cấp
 
-Chỉ **đảo ngược kết quả** khi cả ba cặp `A:D`, `B:C` và `B:D` đều có kết quả ngược với `A:C`. Những trường hợp còn lại giữ nguyên kết quả A đấu C.
+**Dạng:** `A:B`, `AA:BB`, `AAA:BBB`, `AAAA:BBBB`, `AAAA:BBBC`, `AAAB:CCCD`.
 
-### 3/ Thế luôn hòa
+**Cách tra:**
+- `A:B`, `AA:BB`, `AAA:BBB`, `AAAA:BBBB`, `AAAA:BBBC`: xét **A đấu B**.
+- `AAAB:CCCD`: xét **A đấu C**.
+- Nguyên tố được xét thắng thì quân bên trái thắng; ngược lại thì thua.
 
-`AAAA:BCDE` **luôn hòa** khi B, C, D, E là đủ bốn nguyên tố khác A.
+**Ví dụ 1:** `Kim Kim Kim Kim : Mộc Mộc Mộc Mộc` → Kim thắng Mộc → **bên trái thắng**.
 
-### 4/ Những thế tính theo luật gốc
+**Ví dụ 2:** `Kim Kim Kim Thủy : Thổ Thổ Thổ Hỏa` là dạng `AAAB:CCCD`. Kim thắng Thổ → **bên trái thắng**.
 
-Ba dạng dưới đây không thuộc bảng tra cứu cơ bản:
+#### II. Đôi – Khối hai
 
-- `AAAA:BBCD`
-- `AAAB:CCDD`
-- `AAAB:CCDE`
+**Dạng:** `AA:BC`, `AAAA:BBCC`, `AABB:CCDE`.
 
-Khi gặp một trong ba dạng này, thực hiện triệt tiêu nguyên tố chung (nếu có), sau đó so sánh chéo theo mục III.
+**Cách tra:**
+- `AA:BC`, `AAAA:BBCC`: xét A với B và C.
+- `AABB:CCDE`: xét A và B với C.
 
-### 5/ Áp dụng khi các quân có nguyên tố chung
+| Hai quan hệ cần xét | Kết quả bên trái |
+|---|---|
+| Thắng cả hai | **Thắng** |
+| Thắng một, thua một | **Hòa** |
+| Thua cả hai | **Thua** |
 
-Bảng ghi dạng nguyên tố **sau khi triệt tiêu** cũng được sử dụng như một cách tra cứu. Nếu không nhận ra dạng tra nhanh, người chơi dùng trực tiếp quy tắc so sánh tại mục III.
+**Ví dụ:** `Kim Kim Kim Thủy : Kim Thủy Mộc Thổ`.
+
+Triệt tiêu một Kim và một Thủy → `Kim Kim : Mộc Thổ` (`AA:BC`). Kim thắng Mộc và Thổ → **bên trái thắng**.
+
+**Ví dụ dạng mở rộng:** `Kim Kim Mộc Mộc : Thổ Thổ Thủy Hỏa` (`AABB:CCDE`). Kim và Mộc đều thắng Thổ → **bên trái thắng**.
+
+#### III. Khối hai – Khối hai
+
+**Dạng:** `AB:CD`, `AABB:CCDD`.
+
+**Cách tra:** Tìm **E**, nguyên tố thứ năm không xuất hiện trong hai quân.
+
+| E so với A và B | Kết quả bên trái |
+|---|---|
+| E thắng cả A và B | **Thắng** |
+| E thắng một, thua một | **Hòa** |
+| E thua cả A và B | **Thua** |
+
+**Ví dụ:** `Kim Kim Mộc Hỏa : Kim Hỏa Thổ Thủy`.
+
+Triệt tiêu một Kim và một Hỏa → `Kim Mộc : Thổ Thủy` (`AB:CD`). Nguyên tố không xuất hiện là **Hỏa**. Hỏa thắng Kim và Mộc → **bên trái thắng**.
+
+#### IV. Tam – Khối đơn đôi
+
+**Dạng:** `AAA:BBC`.
+
+**Cách tra:** Chỉ xét **A đấu B** (nguyên tố lặp hai lần ở quân bên phải).
+
+| Quan hệ | Kết quả bên trái |
+|---|---|
+| A thắng B | **Thắng** |
+| A thua B | **Thua** |
+
+**Ví dụ:** `Kim Kim Kim Thủy : Thủy Mộc Mộc Thổ`.
+
+Triệt tiêu Thủy → `Kim Kim Kim : Mộc Mộc Thổ`. Kim thắng Mộc → **bên trái thắng**.
+
+#### V. Tam – Khối ba
+
+**Dạng:** `AAA:BCD`.
+
+**Cách tra:** Gọi E là nguyên tố thứ năm không xuất hiện trong dạng sau triệt tiêu.
+
+| Quan hệ | Kết quả bên trái |
+|---|---|
+| **E thắng A** | **Thắng** |
+| **A thắng E** | **Thua** |
+
+**Ví dụ:** `Kim Kim Kim Hỏa : Mộc Thổ Thủy Hỏa`.
+
+Triệt tiêu Hỏa → `Kim Kim Kim : Mộc Thổ Thủy`. Nguyên tố còn thiếu là **Hỏa**. Hỏa thắng Kim → **bên trái thắng**.
+
+#### VI. Khối đơn đôi – Khối đơn đôi
+
+**Dạng:** `AAB:CCD`.
+
+**Cách tra:** Thông thường, kết quả **A đấu C** cũng là kết quả của hai quân.
+
+**Ngoại lệ:** Nếu cả ba cặp **A đấu D, B đấu C và B đấu D** đều ngược với kết quả A đấu C thì **đảo ngược kết quả**.
+
+| Điều kiện | Kết quả bên trái |
+|---|---|
+| Không có ngoại lệ | Theo A đấu C |
+| Đủ cả ba quan hệ ngược | Ngược với A đấu C |
+
+**Ví dụ thường:** `Kim Kim Mộc Hỏa : Thổ Thổ Thủy Hỏa`.
+
+Triệt tiêu Hỏa → `Kim Kim Mộc : Thổ Thổ Thủy`. Kim thắng Thổ; không có đủ ba điều kiện đảo → **bên trái thắng**.
+
+**Ví dụ ngoại lệ:** `Kim Kim Mộc Hỏa : Thủy Thủy Thổ Hỏa`.
+
+Triệt tiêu Hỏa → `Kim Kim Mộc : Thủy Thủy Thổ`.
+
+Kim thua Thủy, nhưng:
+- Kim **thắng** Thổ;
+- Mộc **thắng** Thủy;
+- Mộc **thắng** Thổ.
+
+Cả ba quan hệ đều ngược với Kim đấu Thủy. Kết quả được đảo: **bên trái thắng**.
+
+#### VII. Khối đơn đôi – Khối ba
+
+**Dạng:** `AAB:CDE`.
+
+**Cách tra:** So **B đấu A ngay trong quân bên trái**.
+
+| Quan hệ | Kết quả bên trái |
+|---|---|
+| B thắng A | **Thắng** |
+| A thắng B | **Thua** |
+
+**Ví dụ:** `Kim Kim Kim Thủy : Kim Mộc Thổ Hỏa`.
+
+Triệt tiêu một Kim → `Kim Kim Thủy : Mộc Thổ Hỏa`. Thủy thắng Kim → **bên trái thắng**.
+
+### 4/ Thế luôn hòa
+
+**Dạng:** `AAAA:BCDE` với B, C, D, E là đủ bốn nguyên tố còn lại.
+
+**Kết quả: Luôn hòa.**
+
+**Ví dụ:** `Kim Kim Kim Kim : Mộc Thổ Thủy Hỏa` → **Hòa**.
+
+### 5/ Những thế tính theo luật gốc
+
+Ba dạng sau **không thuộc bảng tra cơ bản**:
+
+| Dạng | Cách xử lý |
+|---|---|
+| `AAAA:BBCD` | Tính theo mục III |
+| `AAAB:CCDD` | Tính theo mục III |
+| `AAAB:CCDE` | Tính theo mục III |
+
+Nếu không nhận diện được một thế trong bảng, luôn có thể trở về **triệt tiêu nguyên tố chung và so sánh chéo** theo mục III.
 
 ---
 
