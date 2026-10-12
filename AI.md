@@ -32,17 +32,43 @@
 
 **Một sự thật — một nguồn gốc chính.** File khác chỉ dẫn link hoặc nhắc hệ quả cần thiết, tránh duy trì nhiều phiên bản dễ lệch nhau.
 
-## 4. Quy định tác giả sẽ bổ sung
+## 4. Nguyên tắc làm việc với tác giả
 
-> Viết các yêu cầu làm việc mới ở đây. Nếu yêu cầu mới mâu thuẫn quy định trước, xác định rõ quy định nào được thay thế. AI không tự điền nội dung vào phần này.
+- Tác giả có thể nhớ nhầm một chi tiết, hoặc mục tiêu và cách thực hiện đang bàn có thể mâu thuẫn về logic. Đối chiếu thông tin và chỉ ra điểm chưa khớp để cùng làm rõ; không quy lỗi cho tác giả hay tự suy diễn để lấp mâu thuẫn.
+- Không đồng ý chỉ để làm hài lòng tác giả. Ưu tiên sự thật, tính chính xác và logic; khi có căn cứ khác với nhận định của tác giả, cần nói rõ căn cứ và phần còn chưa chắc chắn.
+- `inbox/AI_WRITING_NOTES.md` là nơi tích lũy các lỗi AI đã gặp, nhận định về lỗi và cách sửa do **AI tự xác nhận**. Những nhận định ấy **chưa mặc nhiên được tác giả xác nhận** và không phải nguồn canon. Khi sử dụng phải đối chiếu với file gốc và quyết định của tác giả.
+- **Mặc định mọi ý đang trao đổi đều ở trạng thái đang bàn.** Không tự gắn nhãn «brainstorm» cho một ý, cũng không mặc định ý đó đã được duyệt hoặc trở thành canon. Việc bàn kỹ, AI đề xuất hay tác giả đưa ví dụ không tự đồng nghĩa với quyết định cuối cùng.
+- **Luôn xác nhận với tác giả trước khi thực hiện thay đổi theo yêu cầu**, đặc biệt trước khi ghi vào GitHub. Một lần xác nhận rõ ràng là đủ; không hỏi lại sau khi tác giả đã đồng ý. **Ngoại lệ:** lệnh `/end` được tự cập nhật `HISTORY.md` mà không cần xác nhận.
 
-- *(Chưa có quy định bổ sung.)*
+## 5. Lệnh làm việc
+
+### `/snyc` — Đồng bộ nội dung đã bàn lên GitHub
+
+1. Rà soát nội dung đã bàn và đối chiếu repository hiện tại.
+2. Nếu có điểm chưa rõ, chưa chốt, mâu thuẫn hoặc dễ hiểu theo nhiều cách, **hỏi lại tác giả trước**, không tự chọn một cách hiểu để ghi vào repo.
+3. Khi đã rõ, liệt kê chính xác những nội dung sẽ đồng bộ và những file dự kiến thay đổi; **hỏi một lần xác nhận**:
+   - `/Y`: đồng ý, bắt đầu đồng bộ lên GitHub.
+   - `/N`: chưa đúng; tiếp tục bàn hoặc sửa lại phạm vi/nội dung dự kiến.
+4. Sau `/Y`, thực hiện đúng phạm vi đã xác nhận, đọc lại file trên GitHub để kiểm tra và báo kết quả. Không tự đồng bộ các ý chưa được xác nhận.
+
+### `/end` — Kết thúc ngày làm việc
+
+1. Tóm tắt những thay đổi đã thực hiện trong ngày dựa trên công việc và lịch sử thực tế.
+2. **Tự cập nhật `HISTORY.md` ngay**, không cần xin xác nhận riêng.
+3. Kiểm tra lại những file khác có thể cần thay đổi để phản ánh công việc trong ngày; trình bày cụ thể nội dung dự kiến.
+4. Hỏi tác giả `/Y` để thực hiện những thay đổi khác đó, hoặc `/N` để bàn tiếp/chỉnh lại. Không tự sửa những file ấy trước khi được xác nhận.
+
+### `/start` — Bắt đầu phiên làm việc
+
+1. Tự đọc đầy đủ repository hiện tại, đặc biệt các file quản lý, thiết lập, bản viết, bản nháp, outline, mindgame, hồ sơ và ghi chú liên quan.
+2. Đối chiếu trạng thái thực tế, xác định phần đang làm, phần còn thiếu và những việc cần giải quyết.
+3. Đề xuất cho tác giả công việc nên làm trong phiên; chưa tự sửa file.
 
 ---
 
-## 5. Quy tắc viết truyện dành cho AI
+## 6. Quy tắc viết truyện dành cho AI
 
-Phần dưới lưu các ràng buộc từ `archive_oxytocin/docs/oxytocin/rules/WRITING_STYLE.md`, trước đây được chép vào `STYLE.md`. Đây là chỉ dẫn dành cho AI; `STYLE.md` mô tả phong cách văn xuôi của tác phẩm.
+Phần dưới giữ các ràng buộc từ `archive_oxytocin/docs/oxytocin/rules/WRITING_STYLE.md`, trước đây được chép vào `STYLE.md`. Đây là chỉ dẫn dành cho AI; `STYLE.md` hiện để trống cho tác giả tự viết.
 
 Đây là ràng buộc cách viết, không phải thiết lập truyện.
 
