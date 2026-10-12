@@ -14,7 +14,7 @@ Mỗi người điều khiển 4 Dân và các Lính bảo vệ. Mục tiêu là
 1. Mỗi bên nhận **60 thẻ nguyên tố**: 12 Kim, 12 Mộc, 12 Thổ, 12 Thủy và 12 Hỏa.
 2. Dùng bàn cờ Lính–Dân Laccovia, có 4 ô Dân và 4 vị trí Lính cho mỗi bên. Các vị trí được đánh số từ 1 đến 4. **Lính ở vị trí số nào thì mặc định bảo vệ ô Dân ở vị trí số đó.**
 3. Mỗi Dân gồm **4 thẻ nguyên tố** và phải đặt ngửa. Khi bắt đầu ván, người chơi chọn tổng cộng **16 thẻ nguyên tố** chia vào 4 ô Dân. **Tập 16 thẻ Dân ban đầu là cố định:** không được lấy thêm thẻ từ kho để bổ sung hoặc thay thế nguyên tố Dân. Trong thời gian được phép Chuẩn bị Dân, người chơi chỉ được **hoán đổi các thẻ thuộc tập Dân giữa những ô Dân còn tồn tại**; mỗi Dân vẫn phải có đúng 4 thẻ.
-4. Sau khi chia 16 thẻ cho Dân, người chơi còn **44 thẻ nguyên tố** dành cho Lính. Có thể đặt sẵn 4 thẻ vào từng ô Lính hoặc để dành thẻ trong kho, bổ sung Lính khi cần.
+4. Sau khi chia 16 thẻ cho Dân, người chơi còn **44 thẻ nguyên tố** dành cho Lính. Có thể đặt sẵn 4 thẻ vào từng ô Lính hoặc để dành thẻ trong kho, bổ sung Lính khi cần. **Một Lính hợp lệ phải có đúng 4 thẻ nguyên tố.** Ô Lính đang được bố trí nhưng chưa đủ 4 thẻ được xem là chưa có Lính hợp lệ: không được dùng ô đó để Xuất chiến hay bảo vệ Dân. Lính đã đủ 4 thẻ không được rút bớt thẻ mà không thay thế; nếu thay, phải giữ đủ 4 thẻ.
 5. Thẻ chưa đặt lên bàn được giữ trong kho nguyên tố của mỗi người.
 6. Hai bên tự thống nhất cách quyết định người Công trước; có thể chọn mỗi bên một quân 4 nguyên tố để đấu hoặc dùng cách khác.
 
@@ -75,7 +75,7 @@ e) Khi một Lính Thủ đã bị tiêu diệt, người chơi được dùng *
 
 a) Bên Công chọn một Dân đối phương làm mục tiêu (**Dân 1, 2, 3 hoặc 4**) và chọn luôn một Lính của mình để Xuất chiến.
 
-b) Phải thông báo ô Dân bị tấn công. Lính Công đã chọn vẫn được giữ bí mật.
+b) Khi Tuyên chiến, bên Công phải **công bố ô Dân bị tấn công và vị trí Lính Công được chọn**. Chỉ nguyên tố trên những thẻ Lính Công còn úp được giữ bí mật.
 
 c) Bên Thủ thực hiện một lượt **Chuẩn bị** theo quy tắc thông thường.
 
@@ -149,6 +149,8 @@ a) Úp các thẻ còn trong kho dự trữ của mình.
 b) Bên Thủ chỉ định 4 vị trí thẻ úp để lấy đi, không được xem trước nguyên tố.
 
 c) Chỉ lấy trong kho dự trữ, không lấy các thẻ đang đặt trên Lính hoặc Dân.
+
+d) **Nếu tại thời điểm chịu phạt, kho dự trữ có ít hơn 4 thẻ nguyên tố, người chơi đó thua ván ngay lập tức**, không thực hiện lấy thẻ phạt. Quy tắc này chỉ áp dụng khi cả 8 lượt Công không có lần Xuất chiến nào.
 
 ### 9/ Kết thúc ván
 
@@ -393,10 +395,8 @@ Trước hết xét **A đấu C**, trong đó C là **nguyên tố lặp đôi 
 
 | Quan hệ | Kết quả bên trái |
 |---|---|
-| A thắng C, **không** đồng thời có A thắng B và C thắng B | **Thắng** |
-| A thắng cả B và C, đồng thời C thắng B | **Hòa** |
-| C thắng A, **không** đồng thời có B thắng cả A và C | **Thua** |
-| B thắng cả A và C, đồng thời C thắng A | **Hòa** |
+| **A thắng C** | **Thắng**, trừ khi **A thắng B và C thắng B** thì **Hòa** |
+| **C thắng A** | **Thua**, trừ khi **B thắng cả A và C** thì **Hòa** |
 
 **Ví dụ:**
 
