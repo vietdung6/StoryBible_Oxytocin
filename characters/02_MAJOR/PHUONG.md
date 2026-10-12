@@ -11,7 +11,7 @@
 
 ## Gia đình
 
-Cha của Phương giữ chức **Phó chủ tịch Tổ chức nghiên cứu công nghệ sinh học và thần kinh học**. Ông giữ vai trò quan trọng trong những quyết định liên quan đến cốt truyện. Tên riêng chưa được xác lập.
+Cha của Phương giữ chức **Phó chủ tịch Tổ chức nghiên cứu công nghệ sinh học và thần kinh học**. Tên riêng chưa được xác lập.
 
 ## Tính cách
 
