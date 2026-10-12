@@ -189,7 +189,7 @@ d) Nếu không có dạng phù hợp, tính theo quy tắc so sánh hai quân t
 | **V. Tam – Khối ba** | `AAA:BCD` | Nguyên tố thứ năm đấu A |
 | **VI. Khối đơn đôi – Khối đơn đôi** | `AAB:CCD` | A đấu C; có ngoại lệ |
 | **VII. Khối đơn đôi – Khối ba** | `AAB:CDE` | B đấu A |
-| **VIII. Trường hợp đặc biệt — luôn hòa** | `AAAA:BCDE` | Luôn hòa khi B, C, D, E là bốn nguyên tố khác A |
+| **VIII. Trường hợp đặc biệt** | `AAAA:BCDE`, `AAAA:BBCD`, `AAAB:CCDD`, `AAAB:CCDE` | Tra riêng bốn dạng đặc biệt ở mục V.4 |
 
 ### 3/ Quy tắc và ví dụ từng họ
 
@@ -315,7 +315,18 @@ Cả ba quan hệ đều ngược với Kim đấu Thủy. Kết quả được 
 
 Triệt tiêu một Kim → `Kim Kim Thủy : Mộc Thổ Hỏa`. Thủy thắng Kim → **bên trái thắng**.
 
-### 4/ Họ VIII — Trường hợp đặc biệt: luôn hòa
+### 4/ Họ VIII — Trường hợp đặc biệt
+
+Họ VIII gồm **bốn dạng**: một dạng luôn hòa và ba dạng có quy tắc so sánh riêng. Tất cả đều được tra theo các mục dưới đây.
+
+| Dạng | Quy tắc tra nhanh |
+|---|---|
+| `AAAA:BCDE` | Luôn hòa |
+| `AAAA:BBCD` | Xét A với B và nguyên tố còn thiếu E |
+| `AAAB:CCDD` | Xét A với C, D; khi cần xét tiếp B với C, D |
+| `AAAB:CCDE` | Xét A với C và kiểm tra điều kiện hòa đặc biệt |
+
+#### a) Dạng luôn hòa: `AAAA:BCDE`
 
 **Dạng:** `AAAA:BCDE` với B, C, D, E là đủ bốn nguyên tố còn lại.
 
@@ -323,17 +334,9 @@ Triệt tiêu một Kim → `Kim Kim Thủy : Mộc Thổ Hỏa`. Thủy thắng
 
 **Ví dụ:** `Kim Kim Kim Kim : Mộc Thổ Thủy Hỏa` → **Hòa**.
 
-### 5/ Bảng tra cứu nâng cao: ba dạng còn lại
+Ba dạng sau **cũng thuộc Họ VIII**, không phải một nhóm riêng ngoài tám họ. Mỗi bên có bốn thẻ và không có nguyên tố chung để triệt tiêu; các chữ A, B, C, D, E chỉ những nguyên tố khác nhau.
 
-Ba dạng dưới đây có **bốn thẻ ở mỗi quân và không có nguyên tố chung để triệt tiêu**. Trong cả ba dạng, A, B, C, D, E biểu thị **năm nguyên tố khác nhau**, trừ khi nguyên tố thứ năm chỉ được nhắc đến để tra cứu.
-
-| Dạng | Điểm cần xét | Cách tra nhanh |
-|---|---|---|
-| **`AAAA:BBCD`** | A với B và nguyên tố còn thiếu E | So kết quả của A đấu B và A đấu E |
-| **`AAAB:CCDD`** | A với C, D; nếu cần, B với C, D | Ưu tiên kết quả của 3 thẻ A |
-| **`AAAB:CCDE`** | A với C; kiểm tra thêm A, B, C khi cần | Theo A đấu C, trừ trường hợp hòa đặc biệt |
-
-#### a) Tứ – Đôi và hai đơn: `AAAA:BBCD`
+#### b) Tứ – Đôi và hai đơn: `AAAA:BBCD`
 
 Tìm **E**, nguyên tố thứ năm không có trong hai quân.
 
@@ -356,7 +359,7 @@ Chỉ cần xét **B** (nguyên tố lặp đôi bên phải) và **E** (nguyên
 
 Ở ví dụ thứ nhất, nguyên tố vắng mặt là **Hỏa**: Kim thắng Mộc nhưng thua Hỏa, nên quân Kim thắng.
 
-#### b) Tam và đơn – Hai đôi: `AAAB:CCDD`
+#### c) Tam và đơn – Hai đôi: `AAAB:CCDD`
 
 Trước hết xét **A với C và D**.
 
@@ -384,7 +387,7 @@ Khi A thắng một, thua một:
 
 Ở ví dụ thứ nhất, Kim thắng Thổ nhưng thua Thủy; xét tiếp Mộc thì Mộc thắng cả Thổ và Thủy, nên quân bên trái thắng.
 
-#### c) Tam và đơn – Đôi và hai đơn: `AAAB:CCDE`
+#### d) Tam và đơn – Đôi và hai đơn: `AAAB:CCDE`
 
 Trước hết xét **A đấu C**, trong đó C là **nguyên tố lặp đôi bên phải**.
 
@@ -408,9 +411,9 @@ Trước hết xét **A đấu C**, trong đó C là **nguyên tố lặp đôi 
 
 Ở ví dụ hòa cuối cùng, Thủy thắng cả Kim và Hỏa, còn Hỏa thắng Kim. Đây là trường hợp hòa đặc biệt dù **C thắng A**.
 
-### 6/ Nguyên tắc sử dụng toàn bộ bảng
+### 5/ Nguyên tắc sử dụng toàn bộ bảng
 
-a) Mỗi phép so sánh bắt đầu bằng việc **triệt tiêu các nguyên tố chung**. Sau đó đối chiếu phần còn lại với các dạng từ mục V.3 đến V.5.
+a) Mỗi phép so sánh bắt đầu bằng việc **triệt tiêu các nguyên tố chung**. Sau đó đối chiếu phần còn lại với các dạng từ mục V.3 đến V.4.
 
 b) Kết quả ghi trong bảng luôn là **kết quả của quân bên trái**.
 
@@ -438,7 +441,7 @@ Phần này kiểm tra **toàn bộ 21 ví dụ** ở mục V bằng đúng quy 
 | VI-1 | Khối đơn đôi – Khối đơn đôi (thường) | 7–2 | **Thắng** |
 | VI-2 | Khối đơn đôi – Khối đơn đôi (ngoại lệ) | 5–4 | **Thắng** |
 | VII-1 | Khối đơn đôi – Khối ba | 5–4 | **Thắng** |
-| VIII-1 | Họ VIII — Trường hợp đặc biệt luôn hòa | 8–8 | **Hòa** |
+| VIII-1 | Họ VIII — Dạng luôn hòa | 8–8 | **Hòa** |
 | NC1-1 | AAAA:BBCD — thắng | 12–4 | **Thắng** |
 | NC1-2 | AAAA:BBCD — hòa | 8–8 | **Hòa** |
 | NC1-3 | AAAA:BBCD — thua | 4–12 | **Thua** |
@@ -452,7 +455,7 @@ Phần này kiểm tra **toàn bộ 21 ví dụ** ở mục V bằng đúng quy 
 
 ### 2/ Đối chiếu chi tiết
 
-#### A. Tám họ cơ bản (bao gồm trường hợp đặc biệt luôn hòa)
+#### A. Các họ I–VII và dạng luôn hòa thuộc họ VIII
 
 **I-1. Đồng cấp — ví dụ 1.** `Kim×4 : Mộc×4`.
 
@@ -534,7 +537,7 @@ Triệt tiêu: **Kim**. Còn lại `Kim×2 + Thủy : Mộc + Thổ + Hỏa`.
 - **Điểm phải:** Mộc→Thủy (1×1=1); Thổ→Thủy (1×1=1); Hỏa→Kim (1×2=2) → **4**.
 - **Kết quả: 5–4 → Thắng.**
 
-**VIII-1. Họ VIII — Trường hợp đặc biệt luôn hòa.** `Kim×4 : Mộc + Thổ + Thủy + Hỏa`.
+**VIII-1. Họ VIII — Dạng luôn hòa.** `Kim×4 : Mộc + Thổ + Thủy + Hỏa`.
 
 Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×4 : Mộc + Thổ + Thủy + Hỏa`.
 
@@ -543,7 +546,7 @@ Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×4 : Mộc + 
 - **Kết quả: 8–8 → Hòa.**
 
 
-#### B. Ba dạng nâng cao
+#### B. Ba dạng còn lại thuộc họ VIII
 
 **NC1-1. AAAA:BBCD — thắng.** `Kim×4 : Mộc×2 + Thổ + Thủy`.
 
