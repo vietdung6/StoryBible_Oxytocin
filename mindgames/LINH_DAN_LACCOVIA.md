@@ -71,7 +71,7 @@ c) Người đang Thủ **không được thay nguyên tố Dân** trong toàn b
 
 d) **Nguồn thay thẻ:** Đối với **Dân**, chỉ được hoán đổi thẻ thuộc nguồn Dân giữa các Dân còn tồn tại; không được bổ sung hoặc thay thẻ Dân bằng kho Lính. Đối với **Lính**, mọi thẻ đặt vào hoặc thay mới phải lấy từ kho Lính; thẻ Lính thay ra được trả về chính kho này. **Không chuyển thẻ trực tiếp giữa Dân và Lính, hoặc giữa hai Lính.** Thẻ Dân bị tiêu diệt được loại vĩnh viễn và không được bù lại.
 
-e) Khi một Lính Thủ đã bị tiêu diệt, người chơi được dùng **một lượt Chuẩn bị** để đặt đủ **4 thẻ nguyên tố lấy từ kho Lính** vào đúng ô Lính đã mất. Đây là ngoại lệ của **giới hạn 2 thẻ Lính**, chỉ áp dụng cho việc tái lập Lính Thủ bị tiêu diệt. **Trong cùng lượt này, người chơi vẫn được điều chỉnh tối đa 2 thẻ Dân nếu đang có quyền điều chỉnh Dân theo mục IV.3.b–c.**
+e) Khi một Lính Thủ đã bị tiêu diệt, người chơi được dùng **một lượt Chuẩn bị** để đặt đủ **4 thẻ nguyên tố lấy từ kho Lính** vào đúng ô Lính đã mất. Đây là ngoại lệ của **giới hạn 2 thẻ Lính**, chỉ áp dụng cho việc tái lập Lính Thủ bị tiêu diệt; **không được điều chỉnh thêm Lính ở ô khác trong cùng lượt**. **Trong cùng lượt này, người chơi vẫn được điều chỉnh tối đa 2 thẻ Dân nếu đang có quyền điều chỉnh Dân theo mục IV.3.b–c.**
 
 ### 4/ Tuyên chiến
 
@@ -136,7 +136,7 @@ b) Khi giao tranh, toàn bộ thẻ tham chiến phải ngửa.
 
 c) Thẻ đã ngửa không được tự lật úp lại.
 
-d) Trong lượt được phép điều chỉnh **Lính**, có thể thay một thẻ Lính đang ngửa bằng thẻ khác từ **kho Lính** rồi đặt thẻ mới úp, kể cả khi **thẻ mới cùng loại nguyên tố** với thẻ cũ. Quy định này không áp dụng cho thẻ Dân.
+d) Trong lượt được phép điều chỉnh **Lính**, có thể thay một thẻ Lính đang ngửa bằng thẻ khác từ **kho Lính** rồi đặt thẻ mới úp, kể cả khi **thẻ mới cùng loại nguyên tố** với thẻ cũ. **Quy định này áp dụng cả khi Tạm hoãn hoặc Ứng thủ.** Không áp dụng cho thẻ Dân.
 
 e) Giới hạn điều chỉnh được tính theo **số thẻ thực sự thay hoặc đặt**, không tính theo số loại nguyên tố thay đổi.
 
