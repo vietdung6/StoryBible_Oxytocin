@@ -20,7 +20,7 @@ File này lưu những thiết lập đã chốt của toàn bộ truyện, kể
 
    **Phase 1 — SP**
    - Arc 01 — **Spotlight** — ESFP
-   - Arc 02 — **Dare** — ESTP — **Du Vi Vi**
+   - Arc 02 — **Dare** — ESTP
    - Arc 03 — **Fault** — ISTP
    - Arc 04 — **Frame** — ISFP
 
@@ -38,7 +38,7 @@ File này lưu những thiết lập đã chốt của toàn bộ truyện, kể
 
    **Phase 4 — NF**
    - Arc 13 — **TBA** — ENFP
-   - Arc 14 — **Soul** — INFP — **Lạc Di Dương**
+   - Arc 14 — **Soul** — INFP
    - Arc 15 — **TBA** — ENFJ
    - Arc 16 — **Mirror** — INFJ
 
