@@ -48,7 +48,7 @@ d) Nếu toàn bộ nguyên tố bị triệt tiêu thì kết quả là Hòa.
 2. Mỗi bên giữ quyền Công trong **8 lượt**, sau đó đổi Công–Thủ.
 3. Trong thời gian Công, người chơi đồng thời được tổ chức đội hình để chuẩn bị cho thời gian Thủ kế tiếp.
 4. Dân luôn công khai; Lính có thể gồm các thẻ đang ngửa và các thẻ đang úp.
-5. **Tạm hoãn và Ứng thủ diễn ra bổ sung ngay trong lượt Tuyên chiến**, không chiếm một lượt Công–Thủ mới trong chuỗi 8 lượt.
+5. **Tạm hoãn là một hành động Công ở lượt riêng**, được đáp lại bằng **Ứng thủ**. Mỗi cặp Tạm hoãn–Ứng thủ **tính là 1 lượt Công–Thủ** trong chuỗi 8 lượt.
 
 ### 2/ Các cặp hành động
 
@@ -56,7 +56,7 @@ d) Nếu toàn bộ nguyên tố bị triệt tiêu thì kết quả là Hòa.
 |---|---|
 | Chuẩn bị | Chuẩn bị |
 | Tuyên chiến | Chuẩn bị |
-| Tạm hoãn (trong lượt Tuyên chiến) | Ứng thủ (tương ứng) |
+| Tạm hoãn | Ứng thủ |
 | Xuất chiến | Chiến |
 
 ### 3/ Chuẩn bị
@@ -79,25 +79,25 @@ b) Phải thông báo ô Dân bị tấn công. Lính Công đã chọn vẫn đ
 
 c) Bên Thủ thực hiện một lượt **Chuẩn bị** theo quy tắc thông thường.
 
-d) **Không được Tuyên chiến ở lượt thứ 8.** Một khi Tuyên chiến, bên Công phải giải quyết hết các lần Tạm hoãn (nếu có) ngay trong lượt Tuyên chiến và bắt buộc **Xuất chiến ở lượt Công kế tiếp**. Nếu Tuyên chiến ở lượt thứ 7, lượt thứ 8 phải Xuất chiến.
+d) **Không được Tuyên chiến ở lượt thứ 8.** Sau khi Tuyên chiến, bên Công chỉ được **Tạm hoãn** (nếu còn quyền và còn lượt hợp lệ) hoặc **Xuất chiến**. Bắt buộc phải Xuất chiến trước khi kết thúc 8 lượt Công; không được bỏ dở một lần Tuyên chiến. Nếu Tuyên chiến ở lượt thứ 7, lượt thứ 8 phải Xuất chiến.
 
 e) Lính Công có thể được chọn từ bất kỳ ô Lính còn quân, không bắt buộc trùng số ô với Dân mục tiêu.
 
 ### 5/ Tạm hoãn và Ứng thủ
 
-a) **Chỉ được Tạm hoãn trong chính lượt đã Tuyên chiến.** Không được Tạm hoãn ở lượt thứ 8, kể cả khi đã Tuyên chiến từ lượt thứ 7.
+a) **Tạm hoãn chỉ được thực hiện sau khi đã Tuyên chiến và trước khi Xuất chiến.** Mỗi lần Tạm hoãn là một **lượt Công–Thủ riêng**, trong đó bên Công Tạm hoãn và bên Thủ Ứng thủ. Lượt này nằm trong tổng số 8 lượt Công của giai đoạn.
 
 b) Mỗi lần Tạm hoãn, bên Công được thay tối đa **2 thẻ** của đúng Lính đã chọn khi Tuyên chiến; không được thay Dân hoặc chuyển sang Lính khác.
 
 c) Mỗi lần bên Công Tạm hoãn, bên Thủ được **Ứng thủ**: thay tối đa **2 thẻ** của đúng Lính bảo vệ Dân đang bị Tuyên chiến. Không được thay quân ở vị trí khác.
 
-d) Bên Công có quyền Tạm hoãn tối đa **3 lần cho mỗi lần Tuyên chiến**. Ba lần này phải được sử dụng (hoặc từ bỏ) **ngay trong lượt Tuyên chiến**, không được để dành sang lượt khác.
+d) Bên Công được Tạm hoãn tối đa **3 lần cho mỗi lần Tuyên chiến**, nếu số lượt còn lại cho phép. Không được để dành quyền Tạm hoãn sang một lần Tuyên chiến khác.
 
-e) Sau mỗi lần Tạm hoãn–Ứng thủ, bên Công có thể Tạm hoãn tiếp nếu còn quyền, hoặc kết thúc giai đoạn Tạm hoãn. Khi đã dùng hết 3 lần, giai đoạn này tự động kết thúc.
+e) Sau một lượt Tạm hoãn–Ứng thủ, bên Công có thể tiếp tục Tạm hoãn nếu còn quyền và lượt kế tiếp chưa phải lượt thứ 8; nếu không Tạm hoãn tiếp thì **lượt Công kế tiếp bắt buộc Xuất chiến**.
 
-f) **Sau khi kết thúc giai đoạn Tạm hoãn, hành động Công ở lượt kế tiếp bắt buộc là Xuất chiến** với Lính đã chọn và Dân đã tuyên bố. Không được chen Chuẩn bị, Tuyên chiến mới hoặc một lần Tạm hoãn khác. Không dùng Tạm hoãn cũng phải Xuất chiến ở lượt kế tiếp.
+f) **Lượt thứ 8 không được Tuyên chiến hoặc Tạm hoãn.** Nếu đang có một lần Tuyên chiến chưa giải quyết, hành động Công ở lượt thứ 8 bắt buộc là **Xuất chiến**. Không được kéo dài lần Tuyên chiến qua thời điểm đổi Công–Thủ.
 
-g) **Ở lượt thứ 8, không được Tuyên chiến và không được Tạm hoãn.** Nếu lượt thứ 7 đã Tuyên chiến, lượt thứ 8 phải Xuất chiến.
+g) Ví dụ: Tuyên chiến ở lượt 6 → Tạm hoãn ở lượt 7 (bên Thủ Ứng thủ) → bắt buộc Xuất chiến ở lượt 8. Tuyên chiến ở lượt 7 → bắt buộc Xuất chiến ngay lượt 8.
 
 ### 6/ Xuất chiến và Chiến
 
