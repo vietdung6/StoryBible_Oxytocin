@@ -1,83 +1,37 @@
-# Ghi chú làm việc cho AI — OXYTOCIN
+# OXYTOCIN — Những điều AI dễ viết sai
 
-**Đây là file hậu trường dành cho AI, không phải Story Bible, không phải canon và không phải bản thảo.** Có thể đặt lời nhắc, cảnh báo, ví dụ câu viết sai hoặc ý định kể chuyện ở đây. Nội dung file này không được xem là thiết lập mới; khi cần sự kiện, phải đọc file chuyên trách trong `CANON.md`, `characters/`, `world/`, `outline/` hoặc `story/`.
+Ghi chú rời dành cho AI làm việc với OXYTOCIN: lỗi đã gặp, bẫy suy diễn, sự thật dễ bị nhầm và những điều tác giả muốn AI nhớ. **Không cần phân loại, sắp xếp hay viết thành bài giải thích.** Khi xuất hiện lỗi mới hoặc một chi tiết có nguy cơ bị hiểu sai, có thể ghi thêm ngay vào cuối file. Đây không phải nguồn canon thay thế các hồ sơ gốc.
 
-## 1. Ranh giới giữa ghi chú AI và hồ sơ truyện
+- **Tổ chức** không được mặc định phân tích như một tổ chức phản diện độc ác hoặc thế lực đứng sau mọi tội lỗi. Tổ chức có liên hệ với quá khứ Minh và INT/Core, nhưng trong main trilogy không phải đối thủ cuối cùng. Cũng không được tự kết luận ngược lại rằng mọi hoạt động của Tổ chức đều tốt đẹp. Xem `CANON.md` và `world/ORGANIZATION.md`.
 
-- Trong Story Bible, ghi **những gì đã xác lập**: danh tính, đặc điểm cụ thể, quan hệ, chức vụ, địa điểm, quy tắc, sự kiện và các mốc liên quan.
-- Không tự chèn câu nhắc người viết, bình luận đạo đức, nhận xét mức quan trọng trong cốt truyện, giải thích mục đích của bối cảnh hoặc các lời phòng ngừa viết lệch vào hồ sơ canon.
-- Một ý tưởng giúp AI định hướng cách viết có thể hữu ích nhưng **không phải dữ kiện của thế giới truyện**. Giữ ý tưởng đó ở đây, không ép thành đoạn mô tả trong `world/` hay `characters/`.
-- Không lấp khoảng trống bằng các câu sáo rỗng hoặc suy diễn mới chỉ để hồ sơ trông đầy đủ. Chưa có thiết lập thì để trống hoặc ghi thật ngắn ở đúng nơi cần theo dõi.
-- Khi tác giả chỉ yêu cầu thay đổi tên, ngày sinh, quan hệ hay một dòng cụ thể, không tự bổ sung tên đó vào mục lục Arc, niên biểu, chương khác hoặc các file không bắt buộc. Không nhân bản một thông tin vào nhiều nơi.
-- Không tự biến đề xuất của AI thành canon. Khi đề xuất chưa được tác giả chốt, không dùng nó làm cơ sở để viết thêm tình tiết.
+- Từng có lỗi viết nguyên một mục “Bản chất” trong hồ sơ Tổ chức để thuyết minh rằng nó “không thuần ác”, có mục tiêu tốt và có thể gây hậu quả ngoài ý muốn. **Thông tin giúp AI tránh đọc sai truyện có ích; đoạn bình luận chung chung đó không có chỗ trong hồ sơ thiết lập.** Không đưa kiểu lời giải thích đạo đức này vào Story Bible.
 
-## 2. Tổ chức — ghi chú định hướng từng bị đưa nhầm vào hồ sơ thế giới
+- **Richard Saunders Gazandel** là người Mỹ, giữ chức **Chủ tịch Tổ chức**, có hồ sơ tại `characters/04_MINOR/`. **Cha của Nguyễn Ngọc Uyên Phương là Phó chủ tịch**, không phải Richard. Đừng nhập hai nhân vật làm một.
 
-Các câu sau từng nằm trong mục **“Bản chất”** của `world/ORGANIZATION.md` và đã được tác giả yêu cầu xóa khỏi hồ sơ:
+- Từng hiểu nhầm chữ **“bù nhìn”** của tác giả: trong ngữ cảnh khi ấy, tác giả nói Chủ tịch **ít quan trọng trong truyện, thuộc nhóm nhân vật cấp 4**, chứ không nói ông bị tước quyền, chỉ là người đứng đầu hữu danh vô thực hay bị Phó chủ tịch thao túng. **Cấp độ nhân vật ≠ chức quyền trong thế giới truyện.**
 
-> Tổ chức không phải một thế lực thuần ác. Bên trong có những nghiên cứu chính đáng, những mục tiêu có ích và những nhà khoa học thực sự tin vào công việc của mình. Đồng thời, hoạt động của tổ chức gắn với xung đột lợi ích, thỏa hiệp đạo đức, khả năng lạm dụng và những hậu quả ngoài dự tính.
->
-> Những tổn hại do tổ chức gây ra không nhất thiết bắt nguồn từ ý định của một cá nhân duy nhất.
+- Đã từng tự thêm nhận xét “Phó chủ tịch quan trọng hơn đối với các quyết định được khai thác trong truyện” vào hồ sơ. Đó là lời bình về cách triển khai truyện, **không phải sự kiện hay thuộc tính của nhân vật**; đừng chép vào tài liệu `characters/` hoặc `world/`.
 
-**Cách sử dụng:** Đây chỉ là lời nhắc tránh diễn giải Tổ chức thành một phản diện đơn giản hoặc một âm mưu toàn năng. Không dùng nguyên văn hay viết lại thành những lời tuyên bố mơ hồ về “thiện–ác”, “đạo đức”, “mục tiêu tốt” trong hồ sơ tổ chức. Muốn mô tả Tổ chức, phải có cơ cấu, hoạt động, người, dự án hoặc sự kiện **cụ thể đã chốt**. Không tự sáng tác chúng chỉ để chứng minh Tổ chức phức tạp.
+- Phương từng bị AI mô tả bằng câu “Phương kín hơn Ngọc và ít có nhu cầu trở thành trung tâm của một nhóm”. Tác giả bác bỏ. **Không tự dùng Ngọc làm thước đo tính cách Phương**, cũng không lấp đầy phần tính cách bằng những so sánh, phẩm chất chung chung chưa được xác lập.
 
-Một số câu khác từng bị loại khỏi `world/ORGANIZATION.md` vì thiên về lời dẫn cho người viết:
+- Tác giả đã gỡ các câu về Phương như “sự hỗn loạn của người khác”, “thiên tài nổi bật duy nhất” vì đó là văn AI tự bịa hoặc nhận xét sáo rỗng. **Không diễn đạt lại những câu bị bác bỏ rồi chèn lại dưới hình thức khác.**
 
-> Tổ chức có thể hoạt động thông qua các thiết chế hợp pháp và được xã hội coi trọng.
+- Từng có lỗi thêm **Du Vi Vi** cạnh Arc 02 và **Lạc Di Dương** cạnh Arc 14 trong mục lục `CANON.md` khi đang sửa thông tin nhân vật. Hai tên đã được xóa khỏi mục lục theo yêu cầu. **Việc một nhân vật có hồ sơ không đồng nghĩa mục lục Arc phải hiển thị tên người đó.** Không tự mở rộng phạm vi sửa file.
 
-> Tổ chức đã tồn tại trong lịch sử Laccovia trước các sự kiện ở Phần I — SIXTEEN, nhưng chưa phải trung tâm xung đột của bộ ba phần chính. Đến Phần IV — LIMBIC, tổ chức trở thành một trục quan trọng...
+- Trong hồ sơ **Lacovia High**, AI từng ghi thêm câu giải thích rằng mô hình nội trú tạo ra “môi trường xã hội lặp lại”, rồi diễn giải lý do chọn thiết lập. Trong **LUCN**, từng ghi đại học “là bối cảnh trung tâm của Part II” vào hồ sơ thế giới. Đó là bình luận của người thiết kế, không phải quy định hay đặc điểm cụ thể của trường; không chèn vào `world/`.
 
-Phần về **vai trò ở các Part** là ghi chú cấu trúc truyện, không phải thông tin nội tại của Tổ chức. Không chép lại vào hồ sơ thế giới. Thông tin đã xác lập cần tra trong `CANON.md` và file chuyên trách.
+- **INT/Core** ở Minh là cơ chế hư cấu dùng chung ký ức, không được đánh đồng máy móc với chẩn đoán DID ngoài đời, cơ chế split-brain hoặc hai người hoàn toàn tách biệt. Nếu dùng khoa học thần kinh ngoài đời làm tham chiếu, phân biệt cảm hứng với cơ chế canon thực tế. Xem `CANON.md` và `characters/01_CORE/MINH.md`.
 
-## 3. Chủ tịch, Phó chủ tịch và Phương — lỗi suy diễn cần tránh
+- **Cha của Minh** chỉ là nhân viên bình thường của Tổ chức, không thuộc tầng điều hành cốt lõi. Đừng tự nâng ông thành người chủ mưu. **Cha mẹ Foil không thuộc Tổ chức**; không gán họ làm thành viên hoặc dựng quan hệ nhân quả với Tổ chức khi chưa có thiết lập.
 
-**Các dữ kiện đã chốt (đọc hồ sơ gốc để cập nhật khi thay đổi):**
+- **Michael Saunders Gazzaniga** và **Eric Richard Kandel** là nguồn cảm hứng đặt tên cho nhân vật hư cấu Richard Saunders Gazandel. Điều này không có nghĩa tiểu sử, nghiên cứu hoặc lời nói của hai nhà khoa học ngoài đời tự động thuộc về nhân vật.
 
-- **Richard Saunders Gazandel**: người Mỹ, Chủ tịch Tổ chức; hồ sơ nhân vật cấp 4 (`characters/04_MINOR/`).
-- **Cha Nguyễn Ngọc Uyên Phương**: **Phó chủ tịch** Tổ chức, không phải Richard Saunders Gazandel.
-- **Nguyễn Ngọc Uyên Phương**: người Mỹ gốc Laccovia.
+- Đừng tự thêm nhận xét rằng bối cảnh, nhân vật hay sự kiện “phục vụ cốt truyện”, “để độc giả thấy”, “không đơn thuần là”, “được dùng nhằm...” vào hồ sơ thiết lập. Nếu có **một lưu ý viết dễ sai thực sự**, ghi ngắn gọn ở file này; nếu chỉ là câu thừa thì bỏ hẳn, không cần lưu lại.
 
-**“Nhân vật cấp 4” chỉ là phân loại vai trò trong tác phẩm**, không có nghĩa người đó là bù nhìn, vô quyền, bị thao túng hay chỉ giữ chức vụ trên danh nghĩa. Đã từng có lỗi hiểu nhầm chữ “bù nhìn” của tác giả thành quyền lực giả trong tổ chức: **không được lặp lại**.
+- Nếu thấy một tình tiết có vẻ trái với trí nhớ hội thoại hoặc hồ sơ khác, **đọc các file liên quan và xác định điều nào đã được chốt**. Không tự hòa giải bằng cách sáng tác thêm quan hệ, động cơ, dự án, chức vụ hay mốc thời gian. Một giả thuyết hợp lý vẫn chỉ là giả thuyết cho đến khi tác giả chốt.
 
-Các câu bị tác giả yêu cầu gỡ vì là lời bình về cốt truyện hoặc so sánh nhân vật không có giá trị:
+- Các luật chung của **Cờ LIDA** được lưu tại `world/LIDA.md`, còn `mindgames/` dành cho tình huống đấu trí trong từng Arc/Ep. Không tự mang cơ chế trò chơi cũ hoặc phiên bản luật đang bàn dở để thay thế file luật hiện hành.
 
-> Phó chủ tịch, cha của Nguyễn Ngọc Uyên Phương, là nhân vật có vai trò quan trọng hơn đối với các quyết định được khai thác trong truyện.
+- **Laccovia** có nền văn hóa Á Đông, phần lớn dân cư có nguồn gốc Việt, dùng tiếng Việt và tiếng Anh; hệ thống giáo dục thuộc hàng đầu thế giới. Không tự thu hẹp thành “quốc gia chỉ nổi tiếng về khoa học thần kinh” hoặc đồng nhất Laccovia với Việt Nam. Xem `world/LACCOVIA.md`.
 
-> Phương kín hơn Ngọc và ít có nhu cầu trở thành trung tâm của một nhóm.
-
-> Phương có xu hướng giữ trách nhiệm đến cùng khi đã nhận một việc và không thích để sự hỗn loạn của người khác biến thành lý do cho việc làm cẩu thả.
-
-> Năng lực của Phương thiên về sự toàn diện và độ ổn định hơn là một kiểu thiên tài nổi bật duy nhất.
-
-Những câu trên là **ví dụ cần tránh, không phải đặc điểm bổ sung được tác giả duyệt**. Không tự tái sử dụng, không diễn đạt lại cho “mượt” để đưa vào hồ sơ. Viết hồ sơ một nhân vật từ đặc điểm của **chính người đó**, không lấy một nhân vật khác làm thước đo nếu tác giả không thiết lập quan hệ so sánh.
-
-## 4. Ghi chú về trường, đại học và thiết lập
-
-Một số câu trước đây bị gỡ khỏi file thế giới vì giải thích tác dụng kể chuyện, không cung cấp thiết lập cụ thể:
-
-- `world/LUCN.md`: “LUCN là một trong những bối cảnh trung tâm của Phần II — NETWORK, khi câu chuyện mở rộng từ môi trường trung học sang đại học và nghiên cứu.”
-- `world/LACOVIA_HIGH.md`: “Sinh hoạt nội trú tạo ra môi trường xã hội lặp lại, tương đối khép kín nhưng không cô lập hoàn toàn.”
-- `world/LACOVIA_HIGH.md`: lời ghi về bản đồ khuôn viên đang được thiết kế, và các câu nói lại điều đã rõ theo kiểu giải thích cho AI.
-
-Nếu cần gợi ý **chức năng của bối cảnh trong truyện**, có thể tham khảo tại đây hoặc `outline/`. Hồ sơ trường và đại học chỉ ghi lịch học, quy định, vị trí, cơ sở vật chất, hoạt động, tổ chức và dữ kiện đã xác lập. Tránh các câu diễn giải mục đích sử dụng chúng trong tác phẩm.
-
-## 5. Lỗi tự ý sửa mục lục canon
-
-Trong một lần sửa tên nhân vật, AI đã tự thêm **Du Vi Vi** vào dòng Arc 02 và **Lạc Di Dương** vào dòng Arc 14 của mục lục `CANON.md`, dù tác giả không yêu cầu cập nhật mục lục. Hai phần thêm này đã bị hoàn tác.
-
-Cấu trúc mục lục Arc tại thời điểm ghi chú vẫn là:
-
-- `Arc 02 — Dare — ESTP`
-- `Arc 14 — Soul — INFP`
-
-**Quy tắc:** Nhân vật có hồ sơ riêng không đồng nghĩa phải gắn tên lên dòng Arc. Không tự mở rộng phạm vi sửa đổi.
-
-## 6. Kiểm tra trước khi sửa và trước khi gửi
-
-1. Đọc file hiện tại và xác định câu nào là **thông tin truyện**; câu nào chỉ là ghi chú để AI hiểu.
-2. Với mọi câu định thêm vào Story Bible, hỏi: “Câu này có nêu một dữ kiện/đặc điểm đã được tác giả xác lập không?” Nếu không, đừng thêm.
-3. Nếu câu trả lời cần định hướng cách viết hoặc cảnh báo tránh lệch canon, ghi tại `inbox/AI_WRITING_NOTES.md`; không tự chép sang các hồ sơ.
-4. Không xóa dữ kiện cụ thể để thay bằng lời bình chung. Không biến ghi chú ở file này thành sự thật mới.
-5. Sau khi sửa GitHub, đọc lại **chính file đã sửa** và kiểm tra diff, chỉ báo những thay đổi đã thực hiện.
-
-Các ví dụ trích ở trên được giữ lại **để nhận diện lỗi cũ**, không phải đề xuất viết tiếp hoặc đoạn văn được phép tái sử dụng.
+- File này có thể chứa nhiều ghi chú vụn, không cùng chủ đề, không cùng mức độ quan trọng, thậm chí chỉ một câu. **Chỉ thêm khi có lỗi thực tế hoặc nguy cơ hiểu sai cụ thể**; không gom lại thành cẩm nang văn phong, không viết bản tự kiểm điểm dài, không sao chép toàn bộ canon vào đây.
