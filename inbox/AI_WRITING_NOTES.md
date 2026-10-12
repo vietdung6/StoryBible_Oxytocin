@@ -35,3 +35,45 @@ Ghi chú rời dành cho AI làm việc với OXYTOCIN: lỗi đã gặp, bẫy 
 - **Laccovia** có nền văn hóa Á Đông, phần lớn dân cư có nguồn gốc Việt, dùng tiếng Việt và tiếng Anh; hệ thống giáo dục thuộc hàng đầu thế giới. Không tự thu hẹp thành “quốc gia chỉ nổi tiếng về khoa học thần kinh” hoặc đồng nhất Laccovia với Việt Nam. Xem `world/LACCOVIA.md`.
 
 - File này có thể chứa nhiều ghi chú vụn, không cùng chủ đề, không cùng mức độ quan trọng, thậm chí chỉ một câu. **Chỉ thêm khi có lỗi thực tế hoặc nguy cơ hiểu sai cụ thể**; không gom lại thành cẩm nang văn phong, không viết bản tự kiểm điểm dài, không sao chép toàn bộ canon vào đây.
+
+- **Minh không phải AI hay siêu nhân toàn tri.** Từng có lỗi biến INT thành AI hoặc cho Minh suy luận ra thông tin không có tín hiệu quan sát. INT ban đầu là cơ chế phòng vệ của Core. Khi viết suy luận, phải có dữ kiện và chuỗi nguyên nhân đủ kiểm tra được.
+
+- **INT và Core không có hai kho ký ức riêng.** Hai trạng thái dùng chung ký ức; khác nhau ở cách xử lý, ưu tiên và quyền điều khiển. Một bên chi phối hành động ở mỗi thời điểm. Đừng chế tạo bí mật trí nhớ kiểu hai nhân cách không biết những gì bên kia đã trải qua.
+
+- **Arc 01 không phải nơi giải thích công khai toàn bộ INT/Core.** Những dấu hiệu đầu chỉ nên xuất hiện theo đúng lượng thông tin đã được mở cho nhân vật và độc giả. Core hiếm khi trồi lên; phản ứng khi Ngọc tỏ tình không tự động chứng minh Minh yêu Ngọc.
+
+- **Foil không biết cơ chế INT/Core ngay từ đầu.** Trước đây AI từng để Foil khám phá quá sớm hoặc nắm cả quá khứ của Minh. Foil chỉ dần nhận ra điều bất thường gần cuối Part I; biết cơ chế không đồng nghĩa biết hết lịch sử gia đình Minh.
+
+- **Cái chết của Foil không phải một thủ thuật để giải thích INT/Core.** Foil có mục tiêu và lựa chọn chính trị của chính mình; Minh không biết hết lý do khi chứng kiến cái chết ấy. Không gộp tuyến chính trị Foil với nghiên cứu của Tổ chức thành một âm mưu cho tiện giải thích.
+
+- **Giáo sư Minh ở tuổi 42 không được viết như INT thời niên thiếu còn kiểm soát tuyệt đối.** Sau AMYGDALA, tương quan INT/Core đã đổi. Minh vẫn có khả năng phân tích và ký ức của mình, nhưng không được tự gán lại trạng thái tâm lý cực đoan của giai đoạn trước.
+
+- **Phân biệt thông tin tác giả biết, nhân vật biết và độc giả biết.** Một điều có trong Story Bible không tự biến thành lời thoại, nội tâm hay manh mối đã công khai trong cảnh. Đừng làm nhân vật nghe một lần là biết hết, hoặc kể thẳng bí mật hậu trường trước thời điểm tiết lộ.
+
+- **Mục tiêu ban đầu của Minh với Ngọc là khiến Ngọc chú ý đến mình**, không được thay bằng kế hoạch bắt Ngọc yêu hay nhận lời tỏ tình. Những tác động cần nhiều hành động cụ thể, có chuẩn bị và hệ quả; không đủ nếu chỉ một lần Minh thể hiện tài lẻ rồi Ngọc lập tức thích.
+
+- **Arc 01 khai thác halo effect**, không được biến thành một drama học đường nhân tạo ngay đầu năm hay chỉ bàn về confirmation bias. Ngọc có suy nghĩ và hành động của riêng mình; vẻ ngoài khiến người khác suy diễn phẩm chất của cô, không biến cô thành đạo cụ để Minh thao túng.
+
+- **Ngọc nói nhiều, suy nghĩ có thể trào thẳng thành lời và thường dùng “tui”** trong thoại tuổi học trò. Minh không cần nói “tui” theo Ngọc, cũng không nói như robot, không tự động lạnh lùng hay phát biểu những đoạn tâm lý học như giảng bài. Giữ lời thoại tự nhiên theo từng người.
+
+- **Foil có mặt nạ xã hội gần ENFP, nền tính cách nội tâm gần INFP.** Đừng chỉ viết thành kẻ pha trò kiểu Kaito Kid, thiên tài phản diện hay một nhân vật ENTP thuần túy. Tính hài hước và nhiều nghĩa không thay thế quan điểm, lựa chọn và điểm mù về hệ thống của Foil.
+
+- **Cảnh Minh 42 tuổi đi tàu ở Ep00:** sau lớp LUCN đã có màn thú nhận giả, im lặng và ngữ cảnh xã hội. Nếu dùng vụ móc túi, Minh không phải nạn nhân chính, không lao vào bắt trộm hay diễn lại đúng một mẹo tâm lý. Phải tạo tác động bằng quan sát cấu trúc và thay đổi vài biến nhỏ để người khác tự phản ứng; nạn nhân có thể không biết mình đã được giúp.
+
+- **Các màn suy luận cần dữ kiện được cài trước**, không có nhân chứng, tiếng động hay vật dụng tự xuất hiện đúng lúc để Minh thắng. Khi thiết kế cảnh mới, xác định rõ ngay từ đầu thứ gì đã ở đó, ai biết gì, mục tiêu của mỗi người là gì, và chuỗi nguyên nhân tạo ra kết quả.
+
+- **Cuộc thi định hướng Arc 01 không được tự phân tán sang các Ep khác.** Thiết kế hiện hành đặt cuộc thi trong Ep02 — BLINDSPOT; kết quả và điểm phải đọc từ `mindgames/PART01_SIXTEEN/ARC01_SPOTLIGHT.md`, không dùng bảng nháp cũ hoặc tự tính một bộ điểm khác.
+
+- **Trạm 1 của cuộc thi:** đề đưa cho đội là `T14 → C06 → H08`. Những biển chỉ dẫn đã được thấy từ trước là dữ kiện cần nhớ, **không phải chữ giải thích thêm vào chính câu hỏi**. Đừng làm câu đố tự lộ đáp án.
+
+- **Trạm 2 có hai giai đoạn liên lạc riêng:** ban đầu ban tổ chức cho kết nối âm thanh ngắn qua micro/điện thoại chỉ để thống nhất cách ra dấu; sau đó mới được nhìn thấy nhau từ xa và truyền tin bằng hình thể mà không nghe. Cả hai phía đều gửi dữ kiện; không được gộp hai giai đoạn thành một cuộc gọi hay một màn ra hiệu một chiều.
+
+- **Trạm 4:** manh mối trong cuộc trò chuyện của các tình nguyện viên được ban tổ chức cài có chủ đích. Không nhét câu gợi ý lộ liễu vào miệng họ hoặc làm Minh bỏ qua chi tiết một cách vô lý chỉ để Ngọc tỏa sáng. Phải có tương tác tự nhiên, sự chú ý khác nhau và lý do suy luận kiểm chứng được.
+
+- **Cờ LIDA là trò chơi bàn cờ có luật chính thức, không phải trò tính điểm hoặc cá cược.** Mục tiêu là tiêu diệt bốn Dân. Khi bàn luật, tránh kéo trở lại những phiên bản đã bỏ như thắng bằng tổng điểm; đọc `world/LIDA.md` trước khi tính một tình huống.
+
+- **Cờ LIDA: Dân công khai, Lính phục vụ công và bảo vệ Dân**, mỗi bên có nguồn thẻ Dân và kho Lính riêng theo luật hiện hành. Đừng tráo thẻ trực tiếp giữa Dân và Lính, và đừng tự đổi cơ chế chuẩn bị, tuyên chiến, tạm hoãn, xuất chiến chỉ vì thấy một phương án dễ tính hơn.
+
+- **Không được viết tài liệu canon như đang giải thích cho AI.** Từng thêm vào README lịch sử chuyển repo, vào `world/` những lời thuyết minh vì sao thiết lập hữu dụng, và vào `CANON.md` những nhận xét mang giọng trợ lý. README chỉ cần giới thiệu cấu trúc dự án; dữ kiện đưa về file chuyên trách; kinh nghiệm tránh lỗi đặt trong inbox.
+
+- **Bản thảo, outline và canon không phải một thứ.** Một tình tiết còn đang thử hoặc một lời gợi ý chưa được duyệt không phải sự kiện chốt. Không tự sửa bản thảo đã viết chỉ vì tóm tắt, sơ đồ hay ý tưởng mới nghe hợp lý hơn. Cần phân biệt bản đã công bố, bản nháp và thiết lập hậu trường.
