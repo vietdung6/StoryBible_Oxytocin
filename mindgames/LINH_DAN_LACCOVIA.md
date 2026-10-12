@@ -442,16 +442,16 @@ Phần này kiểm tra **toàn bộ 21 ví dụ** ở mục V bằng đúng quy 
 | VI-2 | Khối đơn đôi – Khối đơn đôi (ngoại lệ) | 5–4 | **Thắng** |
 | VII-1 | Khối đơn đôi – Khối ba | 5–4 | **Thắng** |
 | VIII-1 | Họ VIII — Dạng luôn hòa | 8–8 | **Hòa** |
-| NC1-1 | AAAA:BBCD — thắng | 12–4 | **Thắng** |
-| NC1-2 | AAAA:BBCD — hòa | 8–8 | **Hòa** |
-| NC1-3 | AAAA:BBCD — thua | 4–12 | **Thua** |
-| NC2-1 | AAAB:CCDD — thắng | 10–6 | **Thắng** |
-| NC2-2 | AAAB:CCDD — hòa | 8–8 | **Hòa** |
-| NC2-3 | AAAB:CCDD — thua | 6–10 | **Thua** |
-| NC3-1 | AAAB:CCDE — thắng | 9–7 | **Thắng** |
-| NC3-2 | AAAB:CCDE — hòa 1 | 8–8 | **Hòa** |
-| NC3-3 | AAAB:CCDE — thua | 6–10 | **Thua** |
-| NC3-4 | AAAB:CCDE — hòa 2 | 8–8 | **Hòa** |
+| VIII-2 | AAAA:BBCD — thắng | 12–4 | **Thắng** |
+| VIII-3 | AAAA:BBCD — hòa | 8–8 | **Hòa** |
+| VIII-4 | AAAA:BBCD — thua | 4–12 | **Thua** |
+| VIII-5 | AAAB:CCDD — thắng | 10–6 | **Thắng** |
+| VIII-6 | AAAB:CCDD — hòa | 8–8 | **Hòa** |
+| VIII-7 | AAAB:CCDD — thua | 6–10 | **Thua** |
+| VIII-8 | AAAB:CCDE — thắng | 9–7 | **Thắng** |
+| VIII-9 | AAAB:CCDE — hòa 1 | 8–8 | **Hòa** |
+| VIII-10 | AAAB:CCDE — thua | 6–10 | **Thua** |
+| VIII-11 | AAAB:CCDE — hòa 2 | 8–8 | **Hòa** |
 
 ### 2/ Đối chiếu chi tiết
 
@@ -548,7 +548,7 @@ Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×4 : Mộc + 
 
 #### B. Ba dạng còn lại thuộc họ VIII
 
-**NC1-1. AAAA:BBCD — thắng.** `Kim×4 : Mộc×2 + Thổ + Thủy`.
+**VIII-2. AAAA:BBCD — thắng.** `Kim×4 : Mộc×2 + Thổ + Thủy`.
 
 Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×4 : Mộc×2 + Thổ + Thủy`.
 
@@ -556,7 +556,7 @@ Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×4 : Mộc×2
 - **Điểm phải:** Thủy→Kim (1×4=4) → **4**.
 - **Kết quả: 12–4 → Thắng.**
 
-**NC1-2. AAAA:BBCD — hòa.** `Kim×4 : Mộc×2 + Thủy + Hỏa`.
+**VIII-3. AAAA:BBCD — hòa.** `Kim×4 : Mộc×2 + Thủy + Hỏa`.
 
 Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×4 : Mộc×2 + Thủy + Hỏa`.
 
@@ -564,7 +564,7 @@ Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×4 : Mộc×2
 - **Điểm phải:** Thủy→Kim (1×4=4); Hỏa→Kim (1×4=4) → **8**.
 - **Kết quả: 8–8 → Hòa.**
 
-**NC1-3. AAAA:BBCD — thua.** `Kim×4 : Mộc + Thủy×2 + Hỏa`.
+**VIII-4. AAAA:BBCD — thua.** `Kim×4 : Mộc + Thủy×2 + Hỏa`.
 
 Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×4 : Mộc + Thủy×2 + Hỏa`.
 
@@ -572,7 +572,7 @@ Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×4 : Mộc + 
 - **Điểm phải:** Thủy→Kim (2×4=8); Hỏa→Kim (1×4=4) → **12**.
 - **Kết quả: 4–12 → Thua.**
 
-**NC2-1. AAAB:CCDD — thắng.** `Kim×3 + Mộc : Thổ×2 + Thủy×2`.
+**VIII-5. AAAB:CCDD — thắng.** `Kim×3 + Mộc : Thổ×2 + Thủy×2`.
 
 Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×3 + Mộc : Thổ×2 + Thủy×2`.
 
@@ -580,7 +580,7 @@ Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×3 + Mộc : 
 - **Điểm phải:** Thủy→Kim (2×3=6) → **6**.
 - **Kết quả: 10–6 → Thắng.**
 
-**NC2-2. AAAB:CCDD — hòa.** `Kim×3 + Mộc : Thổ×2 + Hỏa×2`.
+**VIII-6. AAAB:CCDD — hòa.** `Kim×3 + Mộc : Thổ×2 + Hỏa×2`.
 
 Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×3 + Mộc : Thổ×2 + Hỏa×2`.
 
@@ -588,7 +588,7 @@ Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×3 + Mộc : 
 - **Điểm phải:** Hỏa→Kim (2×3=6); Hỏa→Mộc (2×1=2) → **8**.
 - **Kết quả: 8–8 → Hòa.**
 
-**NC2-3. AAAB:CCDD — thua.** `Kim×3 + Hỏa : Thổ×2 + Thủy×2`.
+**VIII-7. AAAB:CCDD — thua.** `Kim×3 + Hỏa : Thổ×2 + Thủy×2`.
 
 Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×3 + Hỏa : Thổ×2 + Thủy×2`.
 
@@ -596,7 +596,7 @@ Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×3 + Hỏa : 
 - **Điểm phải:** Thổ→Hỏa (2×1=2); Thủy→Kim (2×3=6); Thủy→Hỏa (2×1=2) → **10**.
 - **Kết quả: 6–10 → Thua.**
 
-**NC3-1. AAAB:CCDE — thắng.** `Kim×3 + Mộc : Thổ×2 + Thủy + Hỏa`.
+**VIII-8. AAAB:CCDE — thắng.** `Kim×3 + Mộc : Thổ×2 + Thủy + Hỏa`.
 
 Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×3 + Mộc : Thổ×2 + Thủy + Hỏa`.
 
@@ -604,7 +604,7 @@ Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×3 + Mộc : 
 - **Điểm phải:** Thủy→Kim (1×3=3); Hỏa→Kim (1×3=3); Hỏa→Mộc (1×1=1) → **7**.
 - **Kết quả: 9–7 → Thắng.**
 
-**NC3-2. AAAB:CCDE — hòa 1.** `Kim×3 + Thổ : Mộc×2 + Thủy + Hỏa`.
+**VIII-9. AAAB:CCDE — hòa 1.** `Kim×3 + Thổ : Mộc×2 + Thủy + Hỏa`.
 
 Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×3 + Thổ : Mộc×2 + Thủy + Hỏa`.
 
@@ -612,7 +612,7 @@ Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×3 + Thổ : 
 - **Điểm phải:** Mộc→Thổ (2×1=2); Thủy→Kim (1×3=3); Hỏa→Kim (1×3=3) → **8**.
 - **Kết quả: 8–8 → Hòa.**
 
-**NC3-3. AAAB:CCDE — thua.** `Kim×3 + Mộc : Thổ + Thủy×2 + Hỏa`.
+**VIII-10. AAAB:CCDE — thua.** `Kim×3 + Mộc : Thổ + Thủy×2 + Hỏa`.
 
 Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×3 + Mộc : Thổ + Thủy×2 + Hỏa`.
 
@@ -620,7 +620,7 @@ Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×3 + Mộc : 
 - **Điểm phải:** Thủy→Kim (2×3=6); Hỏa→Kim (1×3=3); Hỏa→Mộc (1×1=1) → **10**.
 - **Kết quả: 6–10 → Thua.**
 
-**NC3-4. AAAB:CCDE — hòa 2.** `Kim×3 + Thủy : Mộc + Thổ + Hỏa×2`.
+**VIII-11. AAAB:CCDE — hòa 2.** `Kim×3 + Thủy : Mộc + Thổ + Hỏa×2`.
 
 Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×3 + Thủy : Mộc + Thổ + Hỏa×2`.
 
