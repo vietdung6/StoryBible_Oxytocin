@@ -24,7 +24,6 @@ Các hoạt động gồm chia lớp, hoàn tất giấy tờ, sắp xếp và v
 ## Đánh giá và xếp hạng
 
 - Học sinh chủ yếu được xem **điểm tổng hợp** và **bảng xếp hạng công khai trong lớp**. Điểm từng môn không được công khai rộng rãi cho cả lớp.
-- Bảng xếp hạng chỉ hình thành sau khi có dữ liệu đánh giá, không có sẵn trong những ngày định hướng đầu năm.
 - Trường không thường sử dụng nhận xét của giáo viên như một tín hiệu thành tích công khai.
 - Mặt bằng học lực của trường cao; xếp cuối lớp không đồng nghĩa với năng lực học tập kém so với mặt bằng chung.
 - Bài trắc nghiệm được chấm bằng máy; giáo viên không thường xuyên kiểm tra riêng mẫu đáp án của từng học sinh. Thứ tự câu hỏi hoặc các lựa chọn có thể được xáo trộn.
