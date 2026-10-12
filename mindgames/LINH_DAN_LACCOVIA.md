@@ -63,7 +63,7 @@ d) Nếu toàn bộ nguyên tố bị triệt tiêu thì kết quả là Hòa.
 
 ### 3/ Chuẩn bị
 
-a) Trong **một lượt Chuẩn bị**, người chơi được điều chỉnh **tối đa 2 thẻ Lính và tối đa 2 thẻ Dân**, tính theo **hai giới hạn riêng biệt** (tổng cộng tối đa **4 thẻ** nếu được phép điều chỉnh cả hai loại). Có thể thực hiện cả hai trong cùng một lượt Chuẩn bị; không phải chọn chỉ Lính hoặc chỉ Dân. Khi điều chỉnh Dân, chỉ được hoán đổi các thẻ Dân đang có giữa các ô Dân còn tồn tại; **không được sử dụng thẻ trong kho**. Một lần hoán đổi hai thẻ giữa hai Dân được tính là điều chỉnh 2 thẻ Dân.
+a) Trong **một lượt Chuẩn bị**, người chơi được điều chỉnh **tối đa 2 thẻ Lính và tối đa 2 thẻ Dân**, tính theo **hai giới hạn riêng biệt** (tổng cộng tối đa **4 thẻ** nếu được phép điều chỉnh cả hai loại). Có thể thực hiện cả hai trong cùng một lượt Chuẩn bị; không phải chọn chỉ Lính hoặc chỉ Dân. Khi điều chỉnh Dân, chỉ được hoán đổi các thẻ Dân đang có giữa các ô Dân còn tồn tại; **không được sử dụng thẻ trong kho Lính**. Một lần hoán đổi hai thẻ giữa hai Dân được tính là điều chỉnh 2 thẻ Dân.
 
 b) Người đang Công được Chuẩn bị cả Lính và Dân của mình.
 
