@@ -12,7 +12,7 @@ Mỗi người điều khiển 4 Dân và các Lính bảo vệ. Mục tiêu là
 ## II/ Trước khi chơi
 
 1. Mỗi bên nhận **60 thẻ nguyên tố**: 12 Kim, 12 Mộc, 12 Thổ, 12 Thủy và 12 Hỏa.
-2. Dùng bàn cờ Lính–Dân Laccovia, có 4 ô Dân và 4 vị trí Lính cho mỗi bên. Các vị trí được đánh số từ 1 đến 4.
+2. Dùng bàn cờ Lính–Dân Laccovia, có 4 ô Dân và 4 vị trí Lính cho mỗi bên. Các vị trí được đánh số từ 1 đến 4. **Lính ở vị trí số nào thì mặc định bảo vệ ô Dân ở vị trí số đó.**
 3. Mỗi Dân gồm **4 thẻ nguyên tố** và phải đặt ngửa. Bốn Dân sử dụng tổng cộng 16 thẻ.
 4. Người chơi có thể đặt sẵn 4 thẻ vào từng ô Lính hoặc để dành thẻ trong kho, bổ sung Lính khi cần.
 5. Thẻ chưa đặt lên bàn được giữ trong kho nguyên tố của mỗi người.
