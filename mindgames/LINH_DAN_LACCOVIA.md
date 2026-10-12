@@ -13,8 +13,8 @@ Mỗi người điều khiển 4 Dân và các Lính bảo vệ. Mục tiêu là
 
 1. Mỗi bên nhận **60 thẻ nguyên tố**: 12 Kim, 12 Mộc, 12 Thổ, 12 Thủy và 12 Hỏa.
 2. Dùng bàn cờ Lính–Dân Laccovia, có 4 ô Dân và 4 vị trí Lính cho mỗi bên. Các vị trí được đánh số từ 1 đến 4. **Lính ở vị trí số nào thì mặc định bảo vệ ô Dân ở vị trí số đó.**
-3. Mỗi Dân gồm **4 thẻ nguyên tố** và phải đặt ngửa. Bốn Dân sử dụng tổng cộng 16 thẻ.
-4. Người chơi có thể đặt sẵn 4 thẻ vào từng ô Lính hoặc để dành thẻ trong kho, bổ sung Lính khi cần.
+3. Mỗi Dân gồm **4 thẻ nguyên tố** và phải đặt ngửa. Khi bắt đầu ván, người chơi chọn tổng cộng **16 thẻ nguyên tố** chia vào 4 ô Dân. **Tập 16 thẻ Dân ban đầu là cố định:** không được lấy thêm thẻ từ kho để bổ sung hoặc thay thế nguyên tố Dân. Trong thời gian được phép Chuẩn bị Dân, người chơi chỉ được **hoán đổi các thẻ thuộc tập Dân giữa những ô Dân còn tồn tại**; mỗi Dân vẫn phải có đúng 4 thẻ.
+4. Sau khi chia 16 thẻ cho Dân, người chơi còn **44 thẻ nguyên tố** dành cho Lính. Có thể đặt sẵn 4 thẻ vào từng ô Lính hoặc để dành thẻ trong kho, bổ sung Lính khi cần.
 5. Thẻ chưa đặt lên bàn được giữ trong kho nguyên tố của mỗi người.
 6. Hai bên tự thống nhất cách quyết định người Công trước; có thể chọn mỗi bên một quân 4 nguyên tố để đấu hoặc dùng cách khác.
 
@@ -61,13 +61,13 @@ d) Nếu toàn bộ nguyên tố bị triệt tiêu thì kết quả là Hòa.
 
 ### 3/ Chuẩn bị
 
-a) Mỗi lần Chuẩn bị được **thay hoặc đặt tối đa 2 thẻ nguyên tố**, phân bổ vào các vị trí Lính/Dân hợp lệ tùy ý.
+a) Mỗi lần Chuẩn bị được **điều chỉnh tối đa 2 thẻ nguyên tố** theo quy tắc riêng của Lính và Dân. Khi điều chỉnh Dân, chỉ được hoán đổi các thẻ Dân đang có giữa các ô Dân còn tồn tại; **không được sử dụng thẻ trong kho**. Một lần hoán đổi hai thẻ giữa hai Dân được tính là điều chỉnh 2 thẻ.
 
 b) Người đang Công được Chuẩn bị cả Lính và Dân của mình.
 
 c) Người đang Thủ **không được thay nguyên tố Dân** trong toàn bộ 8 lượt Thủ; chỉ được Chuẩn bị Lính.
 
-d) Thẻ được lấy khỏi một quân trong lúc Chuẩn bị được trả về kho nguyên tố của chính người chơi. Thẻ thay vào quân được lấy từ kho đó.
+d) **Đối với Lính**, thẻ được thay ra được trả về kho nguyên tố của người chơi, thẻ thay vào lấy từ kho. **Đối với Dân**, thẻ chỉ được hoán đổi giữa các Dân; không trả thẻ Dân về kho và không chuyển thẻ từ kho sang Dân. Các thẻ Dân bị tiêu diệt được loại vĩnh viễn, không được lấy thẻ khác bù vào.
 
 e) Khi một Lính Thủ đã bị tiêu diệt, người chơi được dùng **một lượt Chuẩn bị** để đặt đủ **4 thẻ nguyên tố** vào đúng ô Lính đã mất. Đây là ngoại lệ của giới hạn 2 thẻ, chỉ áp dụng cho việc tái lập Lính Thủ bị tiêu diệt.
 
