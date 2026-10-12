@@ -147,12 +147,6 @@ Trong main trilogy, Tổ chức không phải đối thủ cuối cùng của to
 
 ---
 
-## Gia tộc Lạc Di
-
-Lạc Di là một họ kép có nguồn gốc từ một nhánh người Lạc Việt cổ, thuộc những gia tộc lâu đời gắn với thời kỳ lập quốc Laccovia. Lịch sử cụ thể, quyền lực và quan hệ của gia tộc chưa được thiết lập.
-
----
-
 ## Tóm tắt nội dung theo từng phần
 
 ### Part 00 — THE ZEROTH AXIOM
