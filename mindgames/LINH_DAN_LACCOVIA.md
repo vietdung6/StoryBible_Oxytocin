@@ -178,7 +178,7 @@ d) Nếu không có dạng phù hợp, tính theo quy tắc so sánh hai quân t
 | `ABC` | Khối ba: 3 loại khác nhau |
 | `AAB` | Khối đơn đôi: 1 thẻ đơn và 1 đôi |
 
-### 2/ Bảng nhận dạng 7 họ
+### 2/ Bảng nhận dạng 8 họ
 
 | Họ | Dạng quân áp dụng | Tra theo |
 |---|---|---|
@@ -189,6 +189,7 @@ d) Nếu không có dạng phù hợp, tính theo quy tắc so sánh hai quân t
 | **V. Tam – Khối ba** | `AAA:BCD` | Nguyên tố thứ năm đấu A |
 | **VI. Khối đơn đôi – Khối đơn đôi** | `AAB:CCD` | A đấu C; có ngoại lệ |
 | **VII. Khối đơn đôi – Khối ba** | `AAB:CDE` | B đấu A |
+| **VIII. Trường hợp đặc biệt — luôn hòa** | `AAAA:BCDE` | Luôn hòa khi B, C, D, E là bốn nguyên tố khác A |
 
 ### 3/ Quy tắc và ví dụ từng họ
 
@@ -314,7 +315,7 @@ Cả ba quan hệ đều ngược với Kim đấu Thủy. Kết quả được 
 
 Triệt tiêu một Kim → `Kim Kim Thủy : Mộc Thổ Hỏa`. Thủy thắng Kim → **bên trái thắng**.
 
-### 4/ Thế luôn hòa
+### 4/ Họ VIII — Trường hợp đặc biệt: luôn hòa
 
 **Dạng:** `AAAA:BCDE` với B, C, D, E là đủ bốn nguyên tố còn lại.
 
@@ -437,7 +438,7 @@ Phần này kiểm tra **toàn bộ 21 ví dụ** ở mục V bằng đúng quy 
 | VI-1 | Khối đơn đôi – Khối đơn đôi (thường) | 7–2 | **Thắng** |
 | VI-2 | Khối đơn đôi – Khối đơn đôi (ngoại lệ) | 5–4 | **Thắng** |
 | VII-1 | Khối đơn đôi – Khối ba | 5–4 | **Thắng** |
-| H-1 | Thế luôn hòa | 8–8 | **Hòa** |
+| VIII-1 | Họ VIII — Trường hợp đặc biệt luôn hòa | 8–8 | **Hòa** |
 | NC1-1 | AAAA:BBCD — thắng | 12–4 | **Thắng** |
 | NC1-2 | AAAA:BBCD — hòa | 8–8 | **Hòa** |
 | NC1-3 | AAAA:BBCD — thua | 4–12 | **Thua** |
@@ -451,7 +452,7 @@ Phần này kiểm tra **toàn bộ 21 ví dụ** ở mục V bằng đúng quy 
 
 ### 2/ Đối chiếu chi tiết
 
-#### A. Bảy họ cơ bản và thế luôn hòa
+#### A. Tám họ cơ bản (bao gồm trường hợp đặc biệt luôn hòa)
 
 **I-1. Đồng cấp — ví dụ 1.** `Kim×4 : Mộc×4`.
 
@@ -533,7 +534,7 @@ Triệt tiêu: **Kim**. Còn lại `Kim×2 + Thủy : Mộc + Thổ + Hỏa`.
 - **Điểm phải:** Mộc→Thủy (1×1=1); Thổ→Thủy (1×1=1); Hỏa→Kim (1×2=2) → **4**.
 - **Kết quả: 5–4 → Thắng.**
 
-**H-1. Thế luôn hòa.** `Kim×4 : Mộc + Thổ + Thủy + Hỏa`.
+**VIII-1. Họ VIII — Trường hợp đặc biệt luôn hòa.** `Kim×4 : Mộc + Thổ + Thủy + Hỏa`.
 
 Triệt tiêu: **không có nguyên tố trùng**. Còn lại `Kim×4 : Mộc + Thổ + Thủy + Hỏa`.
 
