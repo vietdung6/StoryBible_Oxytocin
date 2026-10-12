@@ -1,0 +1,92 @@
+# OXYTOCIN — Quy tắc văn phong
+
+Đây là ràng buộc cách viết, không phải thiết lập truyện.
+
+## Góc nhìn
+- Mặc định ngôi ba giới hạn, bám sát Minh.
+- Chỉ dùng góc nhìn khác khi hữu ích về cấu trúc.
+- Không đổi góc nhìn chỉ để tiện làm lộ thông tin.
+
+## Nguyên tắc câu văn
+> **Ý tưởng có thể khó, câu văn thì nên dễ.**
+
+Truyện có thể đòi hỏi tư duy mà không khiến ngôn ngữ mệt mỏi.
+
+Mục tiêu:
+- Người đọc phổ thông theo được câu chuyện bề mặt.
+- Người có kiến thức nhận ra cơ chế.
+- Người đọc lại nhận ra cách sắp chi tiết, nhân quả và báo trước.
+
+## Thể hiện thay vì giải thích — HARD
+- Ưu tiên hành động, cử chỉ, khoảng ngừng, giọng điệu, lựa chọn, đồ vật và hệ quả.
+- Người kể ưu tiên dữ liệu có thể quan sát.
+- Minh suy nghĩ khi thật sự có khoảng trống cần suy luận.
+- Không nhắc lại trong độc thoại điều độc giả vừa thấy.
+- Không để người kể kết luận hiệu ứng cảnh đã thể hiện.
+- Không thêm đoạn tổng kết của tác giả để giải thích ý nghĩa / chủ đề cảnh.
+
+## Không giảng đạo — HARD
+- Nhân vật không tự nhiên dừng để giải thích chủ đề tác phẩm.
+- Thoại / độc thoại không biến thành bài giảng chỉ để phát biểu triết lý tác giả.
+- Logic tâm lý hoặc triết học hậu trường ở lại hậu trường, trừ khi nhân vật có lý do tự nhiên để nói ra.
+
+## Không giải thích quá mức — HARD
+- Thế giới được thể hiện trong môi trường, hành động và ngữ cảnh đời thường.
+- Không có đoạn bách khoa về Laccovia, LUCN, MBTI, thần kinh học, tổ chức hoặc quá khứ.
+- Chỉ tiết lộ thông tin cảnh hiện tại cần.
+
+
+## Văn nói trong văn viết — HARD
+- Thoại là **văn nói được đặt trong văn viết**. Không tự động gọt lời nhân vật thành câu văn đẹp, chuẩn hoặc cô đọng hơn mức một người thật sẽ nói.
+- Nhân vật được phép nói thừa, lặp, ngập ngừng, bỏ chủ ngữ, dùng từ đệm, sửa câu giữa chừng hoặc nói chưa tròn ngữ pháp nếu điều đó tự nhiên với người nói và tình huống.
+- Ưu tiên câu một người thật có thể buột miệng nói ra hơn câu “hay” trên trang giấy.
+- Phần văn viết chịu trách nhiệm giữ nhịp, dấu câu, hành động và ngữ cảnh đủ rõ; không dùng narrator để chuẩn hóa khẩu khí của nhân vật.
+
+## Tin độc giả — HARD
+- Nếu một hành động, lời giải hoặc hệ quả sắp tự làm sáng nghĩa một chi tiết, **không giải thích trước payoff**.
+- Có thể đặt một thuật ngữ, hình ảnh hoặc chi tiết xuống trước rồi để ý nghĩa của nó lộ ra vài dòng hoặc vài cảnh sau.
+- Người đọc phổ thông chỉ cần theo được lớp bề mặt; không bắt buộc phải hiểu ngay lớp kiến thức sâu.
+- Không chèn câu “dịch hộ” chỉ vì lo độc giả chưa nối hai mảnh. Chỉ giải thích khi nhân vật trong cảnh thật sự có lý do phải giải thích.
+
+## Tính địa phương của kiến thức — HARD
+- Kiến thức, thuật ngữ, suy luận và phản ứng phải nằm đúng ở **nhân vật có nền tảng để biết hoặc nghĩ ra chúng**.
+- Không phân phát kiến thức của tác giả cho cả phòng chỉ để cuộc thoại tiện hơn.
+- Một nhân vật chỉ được nhận ra điều họ có đủ trải nghiệm/nền tảng để nhận ra, dùng thuật ngữ họ có khả năng biết và suy luận ở độ sâu phù hợp với họ.
+- Người khác có thể hiểu kết quả sau khi được giải thích mà không cần tự biết cơ chế hoặc thuật ngữ chuyên môn từ đầu.
+
+## Logic đời thường và thiết kế cảnh — HARD
+- Phản ứng của nhân vật phải **đủ gần logic đời thường để người đọc chấp nhận**, nhưng không cần lúc nào cũng là phản ứng hợp lý nhất. Nhân vật có thể bốc đồng, vụng, sai logic hoặc hơi lệch vì tính cách và hoàn cảnh.
+- Độ lệch chỉ trở thành vấn đề khi nó đủ lớn để lộ bàn tay tác giả đang ép plot, punchline, exposition hoặc một beat đã định sẵn.
+- Hành động hoàn toàn có thể được thiết kế để mở thoại, chuyển nhịp hoặc lộ thông tin; chỉ cần bản thân hành động vẫn có lý do hợp với nhân vật và tình huống.
+
+## Dùng hình ảnh thay cho lời giải thích — HARD
+- Khi sơ đồ, đồ vật, cử chỉ hoặc môi trường có thể truyền thông tin tự nhiên hơn, ưu tiên cho chúng làm việc thay vì bắt nhân vật đọc lại thông tin bằng lời.
+- Không để nhân vật nói thành lời những gì người đọc vừa được thấy rõ qua hành động hoặc hình ảnh, trừ khi tình huống giao tiếp thật sự cần câu nói đó.
+
+## Sửa từ nguyên nhân — HARD
+- Khi một đoạn bị giả, đừng mặc định paraphrase lại câu cũ.
+- Xác định xem lỗi nằm ở câu chữ, phản ứng, nhịp, động cơ, thứ tự beat hay toàn bộ cấu trúc cảnh; nếu skeleton sai thì thay skeleton.
+- Không giữ một hành động/đoạn thoại chỉ vì nó đã có trong bản trước nếu chính nó là nguyên nhân làm cảnh thiếu tự nhiên.
+
+## Quan hệ quan trọng hơn phô diễn cơ chế — HARD
+- Kỹ thuật tâm lý là công cụ, tự nó chưa đủ làm tiền đề một cảnh.
+- Không cấu trúc các tập thành chuỗi “hôm nay Minh minh họa thiên lệch / cơ chế X”.
+- Cảnh phải làm ít nhất một việc có ý nghĩa: đẩy truyện tiến lên, đổi quan hệ, tạo / buộc lựa chọn, tạo hệ quả, bộc lộ nhân vật hoặc cài / giải đáp câu hỏi đáng kể.
+- Chỉ có kỹ thuật là chưa đủ lý do để cảnh tồn tại.
+- Ưu tiên biến chuyển quan hệ, hệ quả với nhân vật và bước tiến câu chuyện hơn trình diễn cơ chế.
+
+## Văn bản truyện — HARD
+- Tránh chia vụn bằng xuống dòng quá nhiều.
+- Thoại tự nhiên với người nói và tình huống.
+- Tránh bi lụy, kịch hóa quá mức.
+- Tránh văn hoa chỉ để làm đẹp.
+- Hình ảnh và miêu tả phải phục vụ hành động, chú ý, không khí hoặc hệ quả.
+- Không mô tả mọi đồ vật trong phòng.
+- Tránh chia vụn kiểu kịch bản.
+- Câu rút gọn phải có chủ đích, không thành nhịp mặc định.
+- Thế giới vẫn có thể ấm và sống động dù Minh lạnh.
+
+## Hậu trường và văn bản truyện
+> Hậu trường giải thích **vì sao** cảnh có tác dụng. Văn bản truyện thể hiện **điều xảy ra**.
+
+Không chép lý thuyết tâm lý vào thoại / độc thoại chỉ vì tác giả đã nghiên cứu.
