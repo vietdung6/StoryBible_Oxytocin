@@ -71,7 +71,7 @@ c) Người đang Thủ **không được thay nguyên tố Dân** trong toàn b
 
 d) **Nguồn thay thẻ:** Đối với **Dân**, chỉ được hoán đổi thẻ thuộc nguồn Dân giữa các Dân còn tồn tại; không được bổ sung hoặc thay thẻ Dân bằng kho Lính. Đối với **Lính**, mọi thẻ đặt vào hoặc thay mới phải lấy từ kho Lính; thẻ Lính thay ra được trả về chính kho này. **Không chuyển thẻ trực tiếp giữa Dân và Lính, hoặc giữa hai Lính.** Thẻ Dân bị tiêu diệt được loại vĩnh viễn và không được bù lại.
 
-e) Khi một Lính Thủ đã bị tiêu diệt, người chơi được dùng **một lượt Chuẩn bị** để đặt đủ **4 thẻ nguyên tố lấy từ kho Lính** vào đúng ô Lính đã mất. Đây là ngoại lệ của **giới hạn 2 thẻ Lính**, chỉ áp dụng cho việc tái lập Lính Thủ bị tiêu diệt.
+e) Khi một Lính Thủ đã bị tiêu diệt, người chơi được dùng **một lượt Chuẩn bị** để đặt đủ **4 thẻ nguyên tố lấy từ kho Lính** vào đúng ô Lính đã mất. Đây là ngoại lệ của **giới hạn 2 thẻ Lính**, chỉ áp dụng cho việc tái lập Lính Thủ bị tiêu diệt. **Trong cùng lượt này, người chơi vẫn được điều chỉnh tối đa 2 thẻ Dân nếu đang có quyền điều chỉnh Dân theo mục IV.3.b–c.**
 
 ### 4/ Tuyên chiến
 
@@ -146,13 +146,13 @@ f) Thẻ Dân luôn đặt ngửa.
 
 Nếu trong cả 8 lượt Công không thực hiện lần Xuất chiến nào, bên Công chịu mất 4 thẻ nguyên tố:
 
-a) Úp các thẻ còn trong kho dự trữ của mình.
+a) Úp các thẻ còn trong **kho Lính** của mình.
 
 b) Bên Thủ chỉ định 4 vị trí thẻ úp để lấy đi, không được xem trước nguyên tố.
 
-c) Chỉ lấy trong kho dự trữ, không lấy các thẻ đang đặt trên Lính hoặc Dân.
+c) Chỉ lấy trong **kho Lính**, không lấy các thẻ đang đặt trên Lính hoặc Dân.
 
-d) **Nếu tại thời điểm chịu phạt, kho dự trữ có ít hơn 4 thẻ nguyên tố, người chơi đó thua ván ngay lập tức**, không thực hiện lấy thẻ phạt. Quy tắc này chỉ áp dụng khi cả 8 lượt Công không có lần Xuất chiến nào.
+d) **Nếu tại thời điểm chịu phạt, kho Lính có ít hơn 4 thẻ nguyên tố, người chơi đó thua ván ngay lập tức**, không thực hiện lấy thẻ phạt. Quy tắc này chỉ áp dụng khi cả 8 lượt Công không có lần Xuất chiến nào.
 
 ### 9/ Kết thúc ván
 
