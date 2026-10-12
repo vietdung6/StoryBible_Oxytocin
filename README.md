@@ -31,6 +31,8 @@ Sau khi một **Arc** hoàn chỉnh, toàn bộ Arc mới được đọc lại 
 ├─ world/
 ├─ research/
 └─ inbox/
+   ├─ IDEAS.md
+   └─ AI_WRITING_NOTES.md
 ```
 
 ## Nội dung từng thư mục
@@ -94,7 +96,10 @@ Tài liệu nghiên cứu phục vụ quá trình viết.
 
 ### `inbox/`
 
-Ý tưởng chưa được đưa vào cấu trúc chính thức.
+Nơi lưu các nội dung hỗ trợ quá trình phát triển OXYTOCIN, không tự động trở thành canon:
+
+- [`IDEAS.md`](inbox/IDEAS.md) — brainstorm, các ý tưởng đang thử và những việc cần cải thiện hoặc thiết kế lại.
+- [`AI_WRITING_NOTES.md`](inbox/AI_WRITING_NOTES.md) — các lỗi AI đã gặp và thông tin dễ hiểu sai cần ghi nhớ để tránh viết lệch truyện. Có thể bổ sung ghi chú mới khi phát hiện lỗi.
 
 ## Các file chính
 
