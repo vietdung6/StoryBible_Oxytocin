@@ -4,7 +4,6 @@
 
 - Lacovia High là trường Minh nhập học lớp 10 ở cuối Arc 0, đầu Phần I.
 - Trường áp dụng mô hình **nội trú trong tuần**. Học sinh thường ở trường hoặc ký túc xá từ thứ Hai đến thứ Sáu; cuối tuần có thể ra ngoài hoặc về nhà.
-- Sinh hoạt nội trú tạo ra môi trường xã hội lặp lại, tương đối khép kín nhưng không cô lập hoàn toàn.
 
 ## Tuần định hướng đầu năm
 
@@ -12,14 +11,14 @@ Tuần đầu của lớp 10 chủ yếu dành cho việc chuyển tiếp và l�
 
 Các hoạt động gồm chia lớp, hoàn tất giấy tờ, sắp xếp và vệ sinh phòng học, giới thiệu, phổ biến nội quy, làm quen ký túc xá và khuôn viên trường.
 
-**Campus Orientation Challenge** có thể được tổ chức như một hoạt động hoặc truyền thống định hướng để học sinh làm quen với khuôn viên. Ở Arc 1, khối 10 có **10 lớp**, mỗi lớp cử một đội **4 học sinh** tham gia.
+Trong tuần định hướng, khối 10 có **10 lớp**, mỗi lớp cử một đội **4 học sinh** tham gia **Campus Orientation Challenge**.
 
 ## Lịch năm học
 
 - Một năm học có **20 tuần**, gồm **18 tuần dạy học** và **2 tuần thi cuối kỳ**.
 - Hai học kỳ có **9 tuần dạy học mỗi kỳ**. Tuần thi cuối kỳ diễn ra sau tuần dạy thứ 9 và thứ 18.
 - Thi giữa kỳ diễn ra vào **tuần dạy thứ 5 và thứ 14**, chỉ trong hai ngày **thứ Bảy và Chủ nhật**.
-- Ở các tuần thi giữa kỳ, học sinh ở lại trường cả cuối tuần, thành **7 ngày liên tục** thay vì về nhà sau thứ Sáu.
+- Học sinh phải ở lại trường trong cuối tuần có thi giữa kỳ.
 
 ## Đánh giá và xếp hạng
 
@@ -31,10 +30,6 @@ Các hoạt động gồm chia lớp, hoàn tất giấy tờ, sắp xếp và v
 
 - **Minh** thường chủ động duy trì điểm khá hoặc tốt, nhưng tránh đạt mức quá nổi bật. Mục tiêu điểm và thứ hạng cụ thể chưa xác lập.
 - **Foil** thường ở gần cuối bảng xếp hạng, điểm tổng khoảng **5–6**, đôi lúc rất thấp; khi thực sự chọn làm nghiêm túc, cậu có khả năng đạt điểm tối đa.
-
-## Khuôn viên
-
-Bản đồ khuôn viên được thiết kế riêng và chưa hoàn thiện. Vị trí các tòa nhà, khoảng cách, phân bổ phòng và những tuyến đường trong trường chưa xác lập đầy đủ.
 
 ## Những chi tiết chưa xác lập
 
