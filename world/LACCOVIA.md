@@ -6,7 +6,7 @@ Laccovia là một quốc đảo hư cấu, được hình dung ở khu vực v�
 
 ## Dân cư và ngôn ngữ
 
-Phần lớn dân cư Laccovia có nguồn gốc Việt, với văn hóa Việt là nền tảng. Tiếng Việt là một trong những ngôn ngữ chính; tiếng Anh cũng được sử dụng rộng rãi trong các thiết chế và đời sống công cộng.
+Phần lớn dân cư Laccovia có nguồn gốc Việt, với văn hóa Á Đông là nền tảng. Tiếng Việt là một trong những ngôn ngữ chính; tiếng Anh cũng được sử dụng rộng rãi trong các thiết chế và đời sống công cộng.
 
 ## Khoa học và giáo dục
 
