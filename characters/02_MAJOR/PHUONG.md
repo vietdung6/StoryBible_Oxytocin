@@ -5,9 +5,13 @@
 - Tên đầy đủ: **Nguyễn Ngọc Uyên Phương**
 - Giới tính: Nữ
 - Sinh ngày **17/12**
-- Người Laccovian
+- Người Mỹ gốc Laccovia
 - Concept tính cách: **INFJ**
 - Điềm tĩnh, đáng tin, quan sát tốt, có khả năng tổ chức cao.
+
+## Gia đình
+
+Cha của Phương là **chủ tịch Tổ chức nghiên cứu công nghệ sinh học và thần kinh học**. Nhân vật chủ tịch là người hư cấu, được định hướng lấy cảm hứng từ nhà khoa học thần kinh Michael S. Gazzaniga; tên riêng chưa được xác lập.
 
 ## Tính cách
 
