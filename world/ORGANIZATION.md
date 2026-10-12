@@ -14,7 +14,9 @@ Những tổn hại do tổ chức gây ra không nhất thiết bắt nguồn t
 
 ## Chủ tịch
 
-Chủ tịch Tổ chức là một nhân vật hư cấu được định hướng lấy cảm hứng từ nhà khoa học thần kinh Michael S. Gazzaniga. Ông là cha của **Nguyễn Ngọc Uyên Phương**. Tên riêng và tiểu sử cụ thể chưa được xác lập.
+Chủ tịch Tổ chức là **người đứng đầu trên danh nghĩa**, không nắm quyền quyết định thực sự. Nhân vật này được định hướng lấy cảm hứng từ nhà khoa học thần kinh Michael S. Gazzaniga; tên riêng và tiểu sử cụ thể chưa được xác lập.
+
+**Quyền quyết định thực tế thuộc về một nhân vật khác**, là cha của **Nguyễn Ngọc Uyên Phương**. Tên, chức danh và cơ chế nắm quyền của ông chưa được xác lập.
 
 ## Liên hệ với các nhân vật
 
