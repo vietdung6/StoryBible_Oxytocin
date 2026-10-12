@@ -77,3 +77,5 @@ Ghi chú rời dành cho AI làm việc với OXYTOCIN: lỗi đã gặp, bẫy 
 - **Không được viết tài liệu canon như đang giải thích cho AI.** Từng thêm vào README lịch sử chuyển repo, vào `world/` những lời thuyết minh vì sao thiết lập hữu dụng, và vào `CANON.md` những nhận xét mang giọng trợ lý. README chỉ cần giới thiệu cấu trúc dự án; dữ kiện đưa về file chuyên trách; kinh nghiệm tránh lỗi đặt trong inbox.
 
 - **Bản thảo, outline và canon không phải một thứ.** Một tình tiết còn đang thử hoặc một lời gợi ý chưa được duyệt không phải sự kiện chốt. Không tự sửa bản thảo đã viết chỉ vì tóm tắt, sơ đồ hay ý tưởng mới nghe hợp lý hơn. Cần phân biệt bản đã công bố, bản nháp và thiết lập hậu trường.
+
+- **Đặt sai cấp tài liệu và lặp thông tin:** AI từng tự tạo mục riêng `Gia tộc Lạc Di` trong `CANON.md`, mặc dù thông tin gia tộc đã có tại `world/LACCOVIA.md`. Đây là lỗi tổ chức Story Bible: không phân biệt thiết lập tổng thể với dữ kiện thuộc một gia tộc cụ thể. **Một thông tin có tính canon không đồng nghĩa phải xuất hiện trong `CANON.md`.** Phải đặt dữ kiện ở file chuyên trách, tránh sao chép trùng lặp và tự nâng chi tiết nhỏ thành mục cấp toàn series.
