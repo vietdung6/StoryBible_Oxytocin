@@ -4,15 +4,13 @@
 
 ### Part 00 — THE ZEROTH AXIOM
 
-- Đã hoàn thành 3 Ep đầu:
-  - Ep00 — CONSTANT
-  - Ep01 — POINT
-  - Ep02 — VARIABLE
+- Ep00 — CONSTANT, Ep01 — POINT và Ep02 — VARIABLE: bản viết hiện tại trong `story/`.
+- Ep03 — SOLUTION: bản nháp mới có Scene 1–2, đã chuyển vào [`draft/`](draft/PART00_ZEROTH_AXIOM/ARC00_ZEROTH_AXIOM/EP03_SOLUTION.md).
+- Ep04 — AXIOM: chưa có bản viết.
 
 ### Part I — SIXTEEN
 
-- Arc01 — SPOTLIGHT đã có bản nháp phần mở đầu.
-- Bản nháp này chưa được chuyển vào repo mới.
+- Arc01 — SPOTLIGHT: phần mở đầu Ep01 — HALO đã lưu tại [`draft/`](draft/PART01_SIXTEEN/ARC01_SPOTLIGHT/EP01_HALO.md), chưa chuyển vào `story/`.
 
 ## Ưu tiên hiện tại
 
