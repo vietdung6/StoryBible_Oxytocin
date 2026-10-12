@@ -10,7 +10,7 @@ Phần lớn dân cư Laccovia có nguồn gốc Việt, với văn hóa Việt 
 
 ## Khoa học và giáo dục
 
-Laccovia có truyền thống lâu đời về khoa học nhận thức và khoa học thần kinh.
+Laccovia có truyền thống giáo dục thuộc hàng đầu thế giới. Trong đó, khoa học nhận thức và khoa học thần kinh là một trong những lĩnh vực nổi bật.
 
 Một số thiết chế của quốc gia:
 
