@@ -12,6 +12,10 @@ Tổ chức không phải một thế lực thuần ác. Bên trong có những 
 
 Những tổn hại do tổ chức gây ra không nhất thiết bắt nguồn từ ý định của một cá nhân duy nhất.
 
+## Chủ tịch
+
+Chủ tịch Tổ chức là một nhân vật hư cấu được định hướng lấy cảm hứng từ nhà khoa học thần kinh Michael S. Gazzaniga. Ông là cha của **Nguyễn Ngọc Uyên Phương**. Tên riêng và tiểu sử cụ thể chưa được xác lập.
+
 ## Liên hệ với các nhân vật
 
 - **Vũ Nhật Minh:** Tổ chức có liên hệ sâu với quá khứ của Minh và cơ chế INT/Core.
@@ -26,7 +30,7 @@ Tổ chức đã tồn tại trong lịch sử Laccovia trước các sự kiệ
 
 ## Những chi tiết chưa xác lập
 
-- Cơ cấu tổ chức, cấp bậc và nhân sự.
+- Cơ cấu tổ chức, cấp bậc và các nhân sự khác.
 - Các dự án, thiết bị, thuốc và công nghệ cụ thể.
 - Cơ chế khoa học chi tiết liên quan INT/Core.
 - Quan hệ nhân quả cụ thể giữa tổ chức và biến cố của gia đình Foil.
