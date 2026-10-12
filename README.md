@@ -39,7 +39,7 @@ Sau khi một **Arc** hoàn chỉnh, toàn bộ Arc mới được đọc lại 
 
 ### `story/`
 
-Bản thảo truyện.
+Đây là **bản viết hiện tại** của OXYTOCIN.
 
 Mỗi Ep được viết thành một file riêng trong Arc tương ứng.
 
