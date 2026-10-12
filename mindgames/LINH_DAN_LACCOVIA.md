@@ -149,7 +149,7 @@ c) Chỉ lấy trong kho dự trữ, không lấy các thẻ đang đặt trên 
 
 Người chơi thắng khi **tiêu diệt đủ 4 Dân** đối phương hoặc khi đối phương **đầu hàng**.
 
-## V/ Bảng tra cứu nhanh cơ bản
+## V/ Bảng tra cứu nguyên tố
 
 Bảng này dùng để xác định thắng, thua hoặc hòa giữa **hai quân có 4 thẻ nguyên tố**. Không thay thế các quy định về Xuất chiến và xử lý quân bị loại.
 
@@ -317,17 +317,98 @@ Triệt tiêu một Kim → `Kim Kim Thủy : Mộc Thổ Hỏa`. Thủy thắng
 
 **Ví dụ:** `Kim Kim Kim Kim : Mộc Thổ Thủy Hỏa` → **Hòa**.
 
-### 5/ Những thế tính theo luật gốc
+### 5/ Bảng tra cứu nâng cao: ba dạng còn lại
 
-Ba dạng sau **không thuộc bảng tra cơ bản**:
+Ba dạng dưới đây có **bốn thẻ ở mỗi quân và không có nguyên tố chung để triệt tiêu**. Trong cả ba dạng, A, B, C, D, E biểu thị **năm nguyên tố khác nhau**, trừ khi nguyên tố thứ năm chỉ được nhắc đến để tra cứu.
 
-| Dạng | Cách xử lý |
+| Dạng | Điểm cần xét | Cách tra nhanh |
+|---|---|---|
+| **`AAAA:BBCD`** | A với B và nguyên tố còn thiếu E | So kết quả của A đấu B và A đấu E |
+| **`AAAB:CCDD`** | A với C, D; nếu cần, B với C, D | Ưu tiên kết quả của 3 thẻ A |
+| **`AAAB:CCDE`** | A với C; kiểm tra thêm A, B, C khi cần | Theo A đấu C, trừ trường hợp hòa đặc biệt |
+
+#### a) Tứ – Đôi và hai đơn: `AAAA:BBCD`
+
+Tìm **E**, nguyên tố thứ năm không có trong hai quân.
+
+| Quan hệ | Kết quả bên trái |
 |---|---|
-| `AAAA:BBCD` | Tính theo mục III |
-| `AAAB:CCDD` | Tính theo mục III |
-| `AAAB:CCDE` | Tính theo mục III |
+| **A thắng B**, **E thắng A** | **Thắng** |
+| **B thắng A**, **A thắng E** | **Thua** |
+| A thắng cả B và E | **Hòa** |
+| A thua cả B và E | **Hòa** |
 
-Nếu không nhận diện được một thế trong bảng, luôn có thể trở về **triệt tiêu nguyên tố chung và so sánh chéo** theo mục III.
+Chỉ cần xét **B** (nguyên tố lặp đôi bên phải) và **E** (nguyên tố vắng mặt); không cần lần lượt so A với C, D.
+
+**Ví dụ:**
+
+| Quân bên trái | Quân bên phải | Kết quả |
+|---|---|---|
+| Kim – Kim – Kim – Kim | Mộc – Mộc – Thổ – Thủy | **Thắng** (12–4) |
+| Kim – Kim – Kim – Kim | Mộc – Mộc – Thủy – Hỏa | **Hòa** (8–8) |
+| Kim – Kim – Kim – Kim | Thủy – Thủy – Mộc – Hỏa | **Thua** (4–12) |
+
+Ở ví dụ thứ nhất, nguyên tố vắng mặt là **Hỏa**: Kim thắng Mộc nhưng thua Hỏa, nên quân Kim thắng.
+
+#### b) Tam và đơn – Hai đôi: `AAAB:CCDD`
+
+Trước hết xét **A với C và D**.
+
+| Quan hệ của A | Xử lý |
+|---|---|
+| A thắng cả C và D | **Thắng** |
+| A thua cả C và D | **Thua** |
+| A thắng một, thua một | Xét tiếp B với C và D |
+
+Khi A thắng một, thua một:
+
+| Quan hệ của B | Kết quả bên trái |
+|---|---|
+| B thắng cả C và D | **Thắng** |
+| B thua cả C và D | **Thua** |
+| B thắng một, thua một | **Hòa** |
+
+**Ví dụ:**
+
+| Quân bên trái | Quân bên phải | Kết quả |
+|---|---|---|
+| Kim – Kim – Kim – Mộc | Thổ – Thổ – Thủy – Thủy | **Thắng** (10–6) |
+| Kim – Kim – Kim – Mộc | Thổ – Thổ – Hỏa – Hỏa | **Hòa** (8–8) |
+| Kim – Kim – Kim – Hỏa | Thổ – Thổ – Thủy – Thủy | **Thua** (6–10) |
+
+Ở ví dụ thứ nhất, Kim thắng Thổ nhưng thua Thủy; xét tiếp Mộc thì Mộc thắng cả Thổ và Thủy, nên quân bên trái thắng.
+
+#### c) Tam và đơn – Đôi và hai đơn: `AAAB:CCDE`
+
+Trước hết xét **A đấu C**, trong đó C là **nguyên tố lặp đôi bên phải**.
+
+| Quan hệ | Kết quả bên trái |
+|---|---|
+| A thắng C, **không** đồng thời có A thắng B và C thắng B | **Thắng** |
+| A thắng cả B và C, đồng thời C thắng B | **Hòa** |
+| C thắng A, **không** đồng thời có B thắng cả A và C | **Thua** |
+| B thắng cả A và C, đồng thời C thắng A | **Hòa** |
+
+**Ví dụ:**
+
+| Quân bên trái | Quân bên phải | Kết quả |
+|---|---|---|
+| Kim – Kim – Kim – Mộc | Thổ – Thổ – Thủy – Hỏa | **Thắng** (9–7) |
+| Kim – Kim – Kim – Thổ | Mộc – Mộc – Thủy – Hỏa | **Hòa** (8–8) |
+| Kim – Kim – Kim – Mộc | Thủy – Thủy – Thổ – Hỏa | **Thua** (6–10) |
+| Kim – Kim – Kim – Thủy | Hỏa – Hỏa – Mộc – Thổ | **Hòa** (8–8) |
+
+Ở ví dụ hòa thứ nhất, Kim thắng cả Mộc và Thổ, nhưng Mộc cũng thắng Thổ. Đây là trường hợp hòa đặc biệt dù **A thắng C**.
+
+Ở ví dụ hòa cuối cùng, Thủy thắng cả Kim và Hỏa, còn Hỏa thắng Kim. Đây là trường hợp hòa đặc biệt dù **C thắng A**.
+
+### 6/ Nguyên tắc sử dụng toàn bộ bảng
+
+a) Mỗi phép so sánh bắt đầu bằng việc **triệt tiêu các nguyên tố chung**. Sau đó đối chiếu phần còn lại với các dạng từ mục V.3 đến V.5.
+
+b) Kết quả ghi trong bảng luôn là **kết quả của quân bên trái**.
+
+c) Nếu không nhận diện được dạng tra nhanh, người chơi luôn có thể **so sánh chéo từng cặp nguyên tố** theo mục III. Phép so sánh gốc được ưu tiên khi cần đối chiếu kết quả.
 
 ---
 
