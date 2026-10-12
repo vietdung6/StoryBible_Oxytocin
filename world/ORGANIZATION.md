@@ -12,11 +12,10 @@ Tổ chức không phải một thế lực thuần ác. Bên trong có những 
 
 Những tổn hại do tổ chức gây ra không nhất thiết bắt nguồn từ ý định của một cá nhân duy nhất.
 
-## Chủ tịch
+## Ban lãnh đạo
 
-Chủ tịch Tổ chức là **người đứng đầu trên danh nghĩa**, không nắm quyền quyết định thực sự. Nhân vật này được định hướng lấy cảm hứng từ nhà khoa học thần kinh Michael S. Gazzaniga; tên riêng và tiểu sử cụ thể chưa được xác lập.
-
-**Quyền quyết định thực tế thuộc về một nhân vật khác**, là cha của **Nguyễn Ngọc Uyên Phương**. Tên, chức danh và cơ chế nắm quyền của ông chưa được xác lập.
+- **Chủ tịch:** Giữ chức Chủ tịch Tổ chức. Đây là nhân vật phụ cấp 4, không giữ vai trò lớn trong cốt truyện. Nhân vật được định hướng lấy cảm hứng từ nhà khoa học thần kinh Michael S. Gazzaniga; tên riêng chưa được xác lập.
+- **Phó chủ tịch:** Là cha của **Nguyễn Ngọc Uyên Phương**, có vai trò quan trọng trong những quyết định liên quan đến cốt truyện. Tên riêng chưa được xác lập.
 
 ## Liên hệ với các nhân vật
 
