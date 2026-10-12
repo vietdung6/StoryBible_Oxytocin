@@ -11,7 +11,7 @@
 
 ## Gia đình
 
-Cha của Phương là **chủ tịch Tổ chức nghiên cứu công nghệ sinh học và thần kinh học**. Nhân vật chủ tịch là người hư cấu, được định hướng lấy cảm hứng từ nhà khoa học thần kinh Michael S. Gazzaniga; tên riêng chưa được xác lập.
+Cha của Phương là **người nắm quyền quyết định thực sự trong Tổ chức nghiên cứu công nghệ sinh học và thần kinh học**. Ông không phải vị chủ tịch đứng tên trên danh nghĩa. Tên và chức danh cụ thể của ông chưa được xác lập.
 
 ## Tính cách
 
