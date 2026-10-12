@@ -14,8 +14,8 @@ Những tổn hại do tổ chức gây ra không nhất thiết bắt nguồn t
 
 ## Ban lãnh đạo
 
-- **Chủ tịch — Richard Saunders Gazandel:** Người Mỹ, nhân vật cấp 4, giữ vai trò nhỏ trong cốt truyện.
-- **Phó chủ tịch:** Là cha của **Nguyễn Ngọc Uyên Phương**, có vai trò quan trọng trong những quyết định liên quan đến cốt truyện. Tên riêng chưa được xác lập.
+- **Chủ tịch — Richard Saunders Gazandel:** Người Mỹ.
+- **Phó chủ tịch:** Cha của **Nguyễn Ngọc Uyên Phương**. Tên riêng chưa được xác lập.
 
 ## Liên hệ với các nhân vật
 
