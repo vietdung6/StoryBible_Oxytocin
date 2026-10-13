@@ -10,7 +10,7 @@ Nguyễn Xuân Ngọc gây ấn tượng mạnh ngay những ngày đầu nhập
 
 Cuộc thi định hướng đầu năm tạo cơ hội để Minh quan sát Ngọc trong nhiều tình huống. Sau cuộc thi, từ những gì đã thấy ở cô, Minh **chọn Ngọc làm đối tượng thí nghiệm**: cậu tìm hiểu, sắp xếp những hành động có chủ đích và theo dõi phản ứng để kiểm chứng khả năng khiến cô chú ý đến mình.
 
-Cuộc thí nghiệm phát triển trong **Ep03 và Ep04**. **Ep05** là kết quả cuối cùng, khi Ngọc tỏ tình với Minh.
+Minh thực hiện thí nghiệm trong **Ep03 và Ep04**. Khi Ngọc bắt đầu chủ động tìm đến cậu, Minh dừng thí nghiệm. **Ep05** là kết quả cuối cùng: Ngọc nói cô có cảm tình với Minh và muốn thử làm người yêu cậu.
 
 ## Ep01 — HALO
 
@@ -20,9 +20,13 @@ Cuộc thí nghiệm phát triển trong **Ep03 và Ep04**. **Ep05** là kết q
 
 1. Những ngày đầu, học sinh làm thủ tục nội trú, nhận phòng ký túc xá, làm quen trường và bắt đầu hình thành các nhóm bạn.
 2. Mỹ Linh xem hồ sơ từ trường cấp hai và những nhận xét cũ của một số học sinh. Cảnh này cần có nội dung hồ sơ cụ thể và tác động đến cách cô nhìn nhận học sinh.
-3. Phương được đề xuất làm lớp trưởng từ những gì cô đã thể hiện trong lớp và kinh nghiệm trước đó.
+3. Phương được chọn làm lớp trưởng trước khi lớp chọn đại diện đi thi.
 4. Một hôm trời mưa, Mỹ Linh đưa ra bài toán tìm đường nhanh nhất từ dãy A đến phòng Hóa ở dãy C. Học sinh phải lựa chọn giữa các hành lang có mái che và đoạn băng qua sân mưa, nơi tốc độ di chuyển khác nhau. Minh tìm ra cách đi hợp lý; trong suy nghĩ, cậu liên hệ bài toán tối ưu thời gian với **định luật Snell**. Long khiến cả lớp biết đến lời giải của Minh.
-5. Lớp chọn **Minh, Ngọc, Phương và Long** làm đại diện tham gia Campus Orientation Challenge. Minh được chú ý vì bài toán đường đi; Ngọc được nhiều bạn tin tưởng từ ấn tượng ban đầu; Phương đã thể hiện khả năng tổ chức; Long nhanh nhẹn và có khả năng ứng biến.
+5. Lớp chọn bốn đại diện tham gia Campus Orientation Challenge:
+   - **Minh:** Được chọn vì giải bài toán đường đi dưới mưa.
+   - **Ngọc:** Được chọn vì ấn tượng ban đầu.
+   - **Phương:** Được chọn vì khả năng quản lý và đáng tin cậy.
+   - **Long:** Được chọn vì vui tính và nhanh nhẹn.
 
 Ep01 kết thúc sau khi đội được chọn, trước ngày thi.
 
@@ -58,17 +62,18 @@ Cuộc thi cũng khiến Minh nổi bật hơn trong lớp và bị người kh�
 
 1. Minh tiếp tục thí nghiệm qua nhiều lần tương tác với Ngọc. Những hành động mới được thiết kế dựa trên những gì cậu đã quan sát ở Ep03.
 2. Ngọc dần dành nhiều sự chú ý hơn cho Minh. Cách cô bắt chuyện, tìm gặp và tham gia những hoạt động có Minh thay đổi theo thời gian.
-3. Minh tiếp tục theo dõi kết quả và điều chỉnh những lần tác động sau. Khi Ngọc bắt đầu chủ động tìm mình, cậu có thể giảm bớt những cuộc gặp do mình sắp đặt để xem mối quan hệ diễn biến ra sao.
-4. Cả hai tiếp xúc ngày càng nhiều. Các phản ứng của Ngọc trở thành dữ kiện mới cho Minh, đồng thời làm quan hệ giữa họ thay đổi.
+3. Minh tiếp tục quan sát phản ứng của Ngọc và điều chỉnh những hành động của mình.
+4. Khi Ngọc bắt đầu chủ động tìm Minh, cậu nhận thấy mục tiêu đã đạt được và **chủ động ngừng thí nghiệm**, không tiếp tục sắp đặt các cuộc gặp.
+5. Ngọc vẫn chủ động đến tìm và nói chuyện với Minh.
 
-**Kết thúc Ep04:** Quá trình tác động đã tạo ra kết quả rõ rệt; Ngọc chủ động quan tâm và tìm đến Minh. **Lời tỏ tình diễn ra ở Ep05.**
+**Kết thúc Ep04:** Minh đã dừng thí nghiệm. Ngọc vẫn chủ động tìm đến cậu.
 
 **Cần phát triển:** Các tình huống tiếp xúc tiếp nối Ep03, những thay đổi cụ thể trong phản ứng của Ngọc và bước chuyển dẫn tới Ep05.
 
 ## Ep05 — SPOTLIGHT
 
-1. **Ngọc tỏ tình với Minh.** Cách diễn ra và lời thoại còn cần xây dựng.
-2. Lời tỏ tình khiến **Core thoáng giành quyền kiểm soát**. INT sau đó lấy lại quyền kiểm soát và từ chối Ngọc.
+1. Ngọc nói rằng **cô có cảm tình với Minh và muốn thử làm người yêu cậu**. Cách cô nói chuyện này với Minh còn cần xây dựng.
+2. Khi nghe Ngọc nói vậy, **Core thoáng giành quyền kiểm soát**. INT sau đó lấy lại quyền kiểm soát và từ chối đề nghị của Ngọc.
 3. Sau lời từ chối, Minh cân nhắc lại quyết định. Việc Ngọc có các mối quan hệ và khả năng tiếp cận thông tin xã hội trở thành một yếu tố trong suy xét của INT.
 4. Minh và Ngọc trở thành một cặp. Hai người giữ kín mối quan hệ trong trường.
 5. Gần cuối Arc, **Long chuyển trường**, để lại chỗ ngồi cạnh Minh. **Foil** được Mỹ Linh đưa vào lớp và xếp ngồi cạnh cậu.
@@ -79,7 +84,7 @@ Cuộc thi cũng khiến Minh nổi bật hơn trong lớp và bị người kh�
 - Các hành động Minh thực hiện trong Ep03 và Ep04; phản ứng của Ngọc sau từng hành động.
 - Những sự kiện trong lớp hoặc ký túc xá diễn ra song song với thí nghiệm.
 - Thời điểm Ngọc bắt đầu chủ động tìm Minh và những lần tương tác tiếp theo.
-- Cảnh tỏ tình, lời từ chối của Minh và diễn biến dẫn đến việc hai người thành đôi.
+- Cảnh Ngọc nói có cảm tình và muốn thử làm người yêu Minh, lời từ chối của Minh và diễn biến sau đó dẫn đến việc hai người thành đôi.
 - Thiết kế CP3 và cuộc trò chuyện của ba tình nguyện viên ở CP4.
 
 ## Liên hệ với các phần khác
