@@ -6,11 +6,13 @@
 
 ## Nội dung chính
 
-Nguyễn Xuân Ngọc gây ấn tượng mạnh ngay những ngày đầu nhập học. Vẻ ngoài và cách giao tiếp khiến cô nhanh chóng được nhiều bạn trong lớp chú ý, kéo theo những đánh giá tích cực về các phẩm chất mà họ chưa có dịp kiểm chứng. **Halo Effect** là hiện tượng tâm lý được khai thác xuyên suốt Arc.
+Đầu năm lớp 10, Nguyễn Xuân Ngọc nhanh chóng trở thành tâm điểm của lớp nhờ ngoại hình và cách giao tiếp. Từ ấn tượng ban đầu ấy, nhiều học sinh mặc nhiên gán cho cô những phẩm chất tốt đẹp mà họ chưa thực sự biết rõ. Arc 1 xoay quanh hiệu ứng hào quang (*Halo Effect*) trong tâm lý học, đồng thời đặt ra câu hỏi: **Liệu một người luôn được chú ý đã thực sự được nhìn thấy?**
 
-Cuộc thi định hướng đầu năm tạo cơ hội để Minh quan sát Ngọc trong nhiều tình huống. Sau cuộc thi, từ những gì đã thấy ở cô, Minh **chọn Ngọc làm đối tượng thí nghiệm**: cậu tìm hiểu, sắp xếp những hành động có chủ đích và theo dõi phản ứng để kiểm chứng khả năng khiến cô chú ý đến mình.
+Trong những ngày đầu năm học, trường tổ chức [Campus Orientation Challenge](../../../mindgames/PART01_SIXTEEN/ARC01_SPOTLIGHT.md). Minh, Ngọc, Phương và Long được chọn làm đại diện lớp vì những lý do khác nhau. Đội của họ cuối cùng giành giải nhất.
 
-Minh thực hiện thí nghiệm trong **Ep03 và Ep04**. Khi Ngọc bắt đầu chủ động tìm đến cậu, Minh dừng thí nghiệm. **Ep05** là kết quả cuối cùng: Ngọc nói cô có cảm tình với Minh và muốn thử làm người yêu cậu.
+Sau cuộc thi đầu năm, Minh chủ động chọn Ngọc làm đối tượng thí nghiệm dựa trên những gì cậu đã quan sát được trong cuộc thi. Trong những tuần tiếp theo, cậu tìm hiểu Ngọc, cố tình thiết kế nhiều hành động nhằm khiến cô chú ý đến mình và theo dõi những phản ứng của cô. Thí nghiệm cuối cùng thành công, nhưng cũng kéo theo một hệ quả ngoài mục tiêu ban đầu: Ngọc đã thích Minh và muốn thử trở thành người yêu của cậu. Sau một thời gian do dự, Minh đồng ý trở thành "người yêu bí mật" vì cho rằng mối quan hệ này có thể giúp cậu tiến hành thêm những thí nghiệm khác.
+
+Arc khép lại khi bạn cùng bàn của Minh - Long chuyển trường, còn Foil chuyển vào lớp và trở thành người bạn cùng bàn mới của Minh.
 
 ## Ep01 — HALO
 
