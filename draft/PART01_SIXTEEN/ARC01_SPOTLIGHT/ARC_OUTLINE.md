@@ -14,27 +14,51 @@ Sau cuộc thi đầu năm, Minh chủ động chọn Ngọc làm đối tượn
 
 Arc khép lại khi bạn cùng bàn của Minh - Long chuyển trường, còn Foil chuyển vào lớp và trở thành người bạn cùng bàn mới của Minh.
 
+## Tuần 00 — Tuần làm quen
+
+Tuần làm quen, trước **Tuần 01** là tuần học chính thức đầu tiên. **Ep01** diễn ra từ thứ Hai đến thứ Sáu; **Ep02** diễn ra vào thứ Bảy và Chủ Nhật.
+
 ## Ep01 — HALO
 
-**Buổi nhận lớp đã có bản nháp:** Minh đến Lacovia High, vào lớp 10A01 và ngồi cạnh Lý Thanh Long. Cô Mỹ Linh giới thiệu lớp; các học sinh lần lượt giới thiệu bản thân. Ngọc thu hút sự chú ý của các bạn, Phương giúp cô Linh phát hồ sơ. Buổi nhận lớp kết thúc, Minh ra về.
+### Thứ Hai — Sáng: Buổi nhận lớp
 
-**Diễn biến tiếp theo:**
+Minh đến trường, gặp Long và vào lớp 10A01. Cô Mỹ Linh giới thiệu sơ về trường; các học sinh lần lượt giới thiệu bản thân. Ngọc nhanh chóng trở thành tâm điểm chú ý trong lớp.
 
-1. Những ngày đầu, học sinh làm thủ tục nội trú, nhận phòng ký túc xá, làm quen trường và bắt đầu hình thành các nhóm bạn.
-2. Mỹ Linh xem hồ sơ từ trường cấp hai và những nhận xét cũ của một số học sinh. Cảnh này cần có nội dung hồ sơ cụ thể và tác động đến cách cô nhìn nhận học sinh.
-3. Phương được chọn làm lớp trưởng trước khi lớp chọn đại diện đi thi.
-4. Một hôm trời mưa, Mỹ Linh đưa ra bài toán tìm đường nhanh nhất từ dãy A đến phòng Hóa ở dãy C. Học sinh phải lựa chọn giữa các hành lang có mái che và đoạn băng qua sân mưa, nơi tốc độ di chuyển khác nhau. Minh tìm ra cách đi hợp lý; trong suy nghĩ, cậu liên hệ bài toán tối ưu thời gian với **định luật Snell**. Long khiến cả lớp biết đến lời giải của Minh.
-5. Lớp chọn bốn đại diện tham gia Campus Orientation Challenge:
-   - **Minh:** Được chọn vì giải bài toán đường đi dưới mưa.
-   - **Ngọc:** Được chọn vì ấn tượng ban đầu.
-   - **Phương:** Được chọn vì khả năng quản lý và đáng tin cậy.
-   - **Long:** Được chọn vì vui tính và nhanh nhẹn.
+Sau phần giới thiệu, cô Linh thu lại hồ sơ nhập học đã phát trước đó và phát hai phiếu mới: **đăng ký ký túc xá** và **làm thẻ học sinh**. Cô nhìn thấy Phương ngồi bàn đầu, gọi cô lên bàn giáo viên và hướng dẫn sơ các mục cần điền. Phương được nhờ phát giấy một mình. Khi các bạn trong lớp có thắc mắc, cô nhớ nhanh những điều vừa nghe và trả lời giúp cô Linh. Minh lấy hồ sơ nhập học cũ ra nộp; tờ giấy đã có chữ ký phụ huynh từ trước.
 
-Ep01 kết thúc sau khi đội được chọn, trước ngày thi.
+Tiếp đó, cả lớp cùng vệ sinh và sắp xếp lại phòng học rồi ra về. Cảnh vệ sinh tập trung phát triển Ngọc, đồng thời có thêm tương tác của Phương và Long.
+
+### Thứ Hai — Chiều: Tham quan trường
+
+Minh tham quan trường và khu ký túc xá. Qua chuyến đi, những hệ thống và cách tổ chức của trường được giới thiệu. **Du Vi Vi** xuất hiện thoáng qua, trước khi có vai trò ở Arc02.
+
+### Thứ Ba – Thứ Tư: Làm quen và nhận phòng
+
+Các thủ tục và việc phân phòng ký túc xá được giải quyết trong khoảng thời gian này. Minh đã có phòng. Long có nguyện vọng riêng nên **không ở ký túc xá**, đồng thời tạo điều kiện cho việc cậu rời đi về sau. Những học sinh trong lớp đã có dịp gặp gỡ nhau riêng ngoài buổi nhận lớp; Minh không tham gia.
+
+### Thứ Tư — Tối: Nhà cô Linh
+
+Tại nhà, Mỹ Linh kiểm tra hồ sơ, đọc học bạ và nhận xét từ những năm cấp hai của học sinh. Có thể xuất hiện thêm các nhân vật đã được đặt tên trong outline. Nội dung từng hồ sơ và phản ứng cụ thể của cô Linh còn cần phát triển.
+
+### Thứ Năm: Bầu ban cán sự và chọn đội
+
+Lớp bầu ban cán sự; hiện mới xác định **Phương làm lớp trưởng**. Các học sinh tiếp tục làm quen. Cô Linh thông báo cuối tuần sẽ có buổi định hướng đầu năm vào **thứ Bảy**, cũng là thời điểm toàn trường bắt đầu nội trú.
+
+Trời bất ngờ đổ mưa. Cô Linh đặt bài toán tìm đường nhanh nhất từ dãy A đến phòng Hóa ở dãy C khi đi dưới hành lang có mái che và băng qua sân mưa có tốc độ khác nhau. Minh giải được bài toán, liên hệ đến **định luật Snell**; Long khiến câu trả lời của cậu được cả lớp chú ý.
+
+Sau đó, cả lớp đề xuất bốn đại diện tham gia **Campus Orientation Challenge**:
+- **Minh:** Giải được bài toán đường đi dưới mưa.
+- **Ngọc:** Ấn tượng ban đầu.
+- **Phương:** Khả năng quản lý và đáng tin cậy.
+- **Long:** Vui tính và nhanh nhẹn.
+
+### Thứ Sáu: Trở về nhà
+
+Một cảnh ngắn Minh trở về nhà, nhìn ảnh Ngoại và gặp chú Tuấn. Trong suy nghĩ cậu thoáng qua Ngọc và việc được người khác chú ý. Có thể dùng lúc Minh đọc cuốn sách chú Tuấn tặng để dẫn đến liên tưởng này.
 
 ## Ep02 — BLINDSPOT
 
-Toàn bộ **Campus Orientation Challenge** diễn ra trong tập này. Khối 10 có 10 lớp, mỗi lớp cử bốn đại diện; cuộc thi gồm năm trạm.
+**Thứ Bảy và Chủ Nhật, Tuần 00:** Các hoạt động định hướng đầu năm và **Campus Orientation Challenge** kéo dài hai ngày. Cuộc thi có **5 trạm**, khối 10 có **10 lớp**, mỗi lớp cử bốn đại diện. Phân chia các trạm và diễn biến cụ thể giữa hai ngày chưa xác định.
 
 1. **CP1 — Mã địa điểm:** Phương nhớ các ký hiệu trên biển chỉ dẫn đã thấy trong trường và xác định đúng lộ trình cho đội.
 2. **CP2 — Truyền tin:** Đội tách thành hai cặp Minh–Ngọc và Phương–Long. Hai bên có ít thời gian liên lạc bằng âm thanh để thống nhất cách ra dấu, rồi phải truyền dữ kiện từ xa bằng cử chỉ. Long nghĩ ra quy ước. Ngọc hiểu thêm một ý ngoài quy ước từ cử chỉ của đồng đội, khiến cả đội mất thời gian kiểm tra lại và đứng thứ ba tại trạm này.
