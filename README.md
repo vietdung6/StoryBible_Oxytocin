@@ -19,7 +19,6 @@ Sau khi một **Arc** hoàn chỉnh, toàn bộ Arc mới được đọc lại 
 ├─ CANON.md
 ├─ STYLE.md
 │
-├─ story/
 ├─ draft/
 ├─ outline/
 ├─ mindgames/
@@ -38,15 +37,9 @@ Sau khi một **Arc** hoàn chỉnh, toàn bộ Arc mới được đọc lại 
 
 ## Nội dung từng thư mục
 
-### `story/`
-
-Đây là **bản viết hiện tại** của OXYTOCIN.
-
-Mỗi Ep được viết thành một file riêng trong Arc tương ứng.
-
 ### `draft/`
 
-Bản nháp đang viết hoặc chưa hoàn chỉnh; chưa thuộc bản viết hiện tại trong `story/`.
+Lưu toàn bộ bản thảo văn xuôi hiện tại của OXYTOCIN, kể cả các Ep còn đang viết hoặc chưa hoàn chỉnh. Mỗi Ep được lưu thành một file riêng trong Arc tương ứng.
 
 ### `outline/`
 
@@ -130,6 +123,6 @@ Quy tắc văn phong và cách viết bản thảo.
 2. Đọc outline tương ứng.
 3. Đọc mindgame nếu Ep có cơ chế đấu trí riêng.
 4. Mở các hồ sơ nhân vật hoặc world cần thiết.
-5. Viết Ep trong `story/`.
+5. Viết và hoàn thiện Ep trong `draft/`.
 6. Hoàn thiện toàn bộ Arc.
 7. Chia Arc thành Chapter sau cùng.

@@ -22,7 +22,7 @@
 ## 3. Vị trí tài liệu
 
 - `CANON.md`: thiết lập cấp toàn series.
-- `story/`: bản thảo thực tế; không tự viết lại từ outline.
+- `draft/`: bản thảo văn xuôi hiện tại; không tự viết lại từ outline.
 - `outline/`: cấu trúc truyện, arc, ep và tiến trình cảnh.
 - `characters/`: hồ sơ nhân vật.
 - `world/`: thiết lập Laccovia, thiết chế, trò chơi và luật tồn tại độc lập trong thế giới. **Cờ LIDA: `world/LIDA.md`.**
