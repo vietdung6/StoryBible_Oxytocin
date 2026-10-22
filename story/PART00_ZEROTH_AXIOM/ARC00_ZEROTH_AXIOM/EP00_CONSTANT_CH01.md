@@ -1,4 +1,4 @@
-Bên trong hội trường lớn của LUCN, ánh nắng chiều tà xiên qua những vòm kính cao vút,  mang theo những vệt sáng dài xuống nền đá. Từ trên bục giảng ngay lằn ranh sáng tối, giáo sư Minh nhìn xuống hơn một trăm sinh viên đang chìm trong bóng râm. Đầu ngón tay Minh gõ nhẹ xuống mặt bàn gỗ.
+Bên trong hội trường lớn của LUCN, ánh nắng chiều tà xiên qua những vòm kính cao vút,  mang theo những vệt nắng trải dài xuống nền đá. Từ trên bục giảng ngay lằn ranh sáng tối, giáo sư Minh nhìn xuống hơn một trăm sinh viên đang chìm trong bóng râm. Đầu ngón tay Minh gõ nhẹ xuống mặt bàn gỗ.
 
 *Cộc.*
 
@@ -66,13 +66,13 @@ Một vài sinh viên hơi nhướng mày.
 
 Minh không giải thích thêm. Ông đặt viên phấn xuống, cầm lấy chiếc micro không dây trên bàn rồi thong thả bước xuống lối đi giữa hai dãy bàn. Gót giày nện từng nhịp chậm rãi trên sàn nhà, cho đến khi dừng lại ngay cạnh một nam sinh đang cúi nhìn xuống tập vở.
 
-Chiếc ghế gỗ bên cạnh khẽ rít lên một tiếng ngắn khi Minh kéo lại gần. Minh ngồi xuống, hơi rướn người về phía trước, bàn tay trái gác hờ lên mặt bàn gỗ. Chiếc micro nằm lọt trong lòng bàn tay phải, nơi đầu ngón cái vẫn tì nhẹ vào nút gạt nguồn đang ở nấc tắt.
+Minh dừng lại bên lối đi bậc thang ngay cạnh cậu sinh viên. Ông hơi cúi người xuống, cẳng tay trái chống hờ lên mép bàn. Chiếc micro nằm lọt trong bàn tay phải buông thõng bên hông, ngón cái tì nhẹ lên nút gạt đang tắt.
 
 Minh nhìn cậu sinh viên vài giây. Mí mắt hơi hạ, ánh nhìn mềm đi, giọng nói cũng hạ xuống chỉ vừa đủ cho người đối diện nghe thấy.
 
 "Năm cuối, bài luận tốt nghiệp của tôi thực ra tôi đã bịa số liệu."
 
-Cậu sinh viên ngẩng lên. Minh vẫn giữ nguyên vẻ mặt.
+Cậu sinh viên ngẩng lên. Khuôn mặt Minh dường như không thay đổi.
 
 "Thời hạn nộp bài khi đó đã rất gần. Tôi không kịp làm mẫu đối chứng nên tự điền thông số cho khớp mô hình. Đến giờ bản in đó chắc vẫn còn nằm đâu đó trên tầng bốn thư viện trường."
 
@@ -106,7 +106,7 @@ Minh gạt công tắc trở lại. Nét ấm áp trên gương mặt ông rút 
 
 Minh nhìn xuống cậu sinh viên.
 
-"Thư viện tầng bốn không cất bất kỳ bản luận gian lận nào của tôi cả."
+"Thư viện tầng bốn không cất bất kỳ bài luận gian lận nào của tôi cả."
 
 Cả giảng đường lại bật cười.
 
