@@ -84,7 +84,7 @@ Minh chờ đúng lúc ấy, khẽ nghiêng đầu.
 
 "Dạ. Máy tính em hỏng ạ."
 
-Minh không đáp. Ông vẫn nhìn cậu sinh viên, nét mặt không đổi. Ngón cái trên thân micro khẽ gạt xuống.
+Minh không đáp. Ông vẫn nhìn cậu sinh viên, nét mặt không đổi. Tay phải khẽ nâng lên, ngón cái trên thân micro gạt nhẹ công tắc.
 
 Cậu sinh viên xoay cây bút giữa hai ngón tay. Ánh mắt cậu chạm phải Minh một thoáng rồi lại hạ xuống trang vở. Minh vẫn không nói gì. Cây bút trong tay cậu ngừng xoay.
 
