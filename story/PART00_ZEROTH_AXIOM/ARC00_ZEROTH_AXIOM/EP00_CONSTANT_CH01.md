@@ -32,7 +32,7 @@ Không ai trả lời, chỉ có vài cái lắc đầu rất nhẹ. Minh không
 
 Một cánh tay giơ lên từ hàng ghế giữa. Minh dừng lại, khẽ gật đầu ra hiệu.
 
-"Thưa giáo sư, vậy nếu người ta bớt phòng vệ rồi thì… chẳng phải cũng dễ tin người kia hơn sao?”
+"Thưa giáo sư, vậy nếu người ta bớt phòng vệ rồi thì… chẳng phải cũng dễ tin người kia hơn sao?"
 
 Minh nhìn cậu sinh viên vài giây rồi ra hiệu cho cậu ngồi xuống.
 
@@ -100,7 +100,7 @@ Rồi tiếng cười bật lên từ khắp các hàng ghế.
 
 Cậu sinh viên đơ người. Ánh mắt hạ xuống chiếc micro trong tay Minh rồi lập tức ngẩng phắt lên nhìn ông. Mặt cậu đỏ bừng, môi định hé ra nói điều gì đó nhưng không nói được câu nào.
 
-Minh gạt công tắc trở lại. Nét ấm áp trên gương mặt ông rút đi, mí mắt nâng lên đôi chút, ánh nhìn trở lại vẻ tĩnh và sắc quen thuộc. Khóe môi chỉ còn giữ một đường cong rất nhẹ. Ông đứng dậy, sửa lại cổ tay áo.
+Minh gạt công tắc trở lại. Nét ấm áp trên gương mặt ông rút đi, mí mắt nâng lên đôi chút, ánh nhìn trở lại vẻ tĩnh và sắc quen thuộc. Khóe môi chỉ còn giữ một đường cong rất nhẹ. Ông sửa lại cổ tay áo.
 
 "Em yên tâm."
 

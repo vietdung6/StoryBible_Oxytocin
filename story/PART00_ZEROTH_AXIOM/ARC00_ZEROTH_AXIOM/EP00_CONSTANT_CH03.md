@@ -8,7 +8,7 @@ Vừa thấy Minh, người phụ nữ nhướng mày.
 
 “Bà có báo trước đâu.”
 
-“Báo trước thì thể nào ông cũng lại kiếm cớ bận nghiên cứu với chả họp hành. Lạ gì tính ông nữa”.
+“Báo trước thì thể nào ông cũng lại kiếm cớ bận nghiên cứu với chả họp hành. Lạ gì tính ông nữa.”
 
 Minh tránh sang một bên.
 
@@ -46,7 +46,7 @@ Cô cười, rồi kéo túi giấy lại gần, lấy ra vài quả quýt.
 
 “Mua cho ông ít quýt này, ngon lắm đấy. Nhìn mặt ông là biết cả tuần chả ăn nổi miếng trái cây nào.”
 
-Cô bóc một quả, chia cho Minh vài múi rồi cầm theo túi giấy vào bếp, tiện tay bỏ vỏ quýt vào thùng rác.Vừa mở thùng rác, cô bắt gặp mấy vỏ hộp thức ăn đã dùng bên trong.
+Cô bóc một quả, chia cho Minh vài múi rồi cầm theo túi giấy vào bếp, tiện tay bỏ vỏ quýt vào thùng rác. Vừa mở thùng rác, cô bắt gặp mấy vỏ hộp thức ăn đã dùng bên trong.
 
 “Tôi nghĩ ông nên tìm ai đó về nấu ăn cho thì hơn.”
 
@@ -68,7 +68,7 @@ Cô nhìn phần thức ăn, rồi quay sang Minh.
 
 Cô cất phần thức ăn mua sẵn vào tủ lạnh, rồi bắt đầu chuẩn bị bữa tối. Minh vào bếp phụ vài việc lặt vặt.
 
-Một lúc sau, hai người ngồi xuống bàn ăn. Vừa ăn vừa trò truyện.
+Một lúc sau, hai người ngồi xuống bàn ăn. Vừa ăn vừa trò chuyện.
 
 “Tuần sau ông có đi không?”
 
@@ -134,7 +134,7 @@ Cô kéo tấm ảnh về phía mình một chút. Nụ cười trên môi dịu
 
 Rồi lúc sau, ánh mắt cô lướt đến phiên bản tuổi mười sáu của mình.
 
-“Hồi đó yêu nhau giấu giếm mà vui ghê…”. Rồi cô kể tiếp kỉ niệm giữa hai người.
+“Hồi đó yêu nhau giấu giếm mà vui ghê…” Rồi cô kể tiếp kỉ niệm giữa hai người.
 
 Minh không đáp.
 
@@ -142,7 +142,7 @@ Người phụ nữ vẫn nhìn tấm ảnh.
 
 “Trong trường gặp nhau mà cứ làm như chẳng quen.”
 
-“Chủ yếu là do bà nghĩ như vậy6.”
+“Chủ yếu là do bà nghĩ như vậy.”
 
 Cô quay sang.
 

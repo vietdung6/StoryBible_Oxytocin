@@ -32,7 +32,7 @@ Không ai trả lời, chỉ có vài cái lắc đầu rất nhẹ. Minh không
 
 Một cánh tay giơ lên từ hàng ghế giữa. Minh dừng lại, khẽ gật đầu ra hiệu.
 
-"Thưa giáo sư, vậy nếu người ta bớt phòng vệ rồi thì… chẳng phải cũng dễ tin người kia hơn sao?”
+"Thưa giáo sư, vậy nếu người ta bớt phòng vệ rồi thì… chẳng phải cũng dễ tin người kia hơn sao?"
 
 Minh nhìn cậu sinh viên vài giây rồi ra hiệu cho cậu ngồi xuống.
 
@@ -100,7 +100,7 @@ Rồi tiếng cười bật lên từ khắp các hàng ghế.
 
 Cậu sinh viên đơ người. Ánh mắt hạ xuống chiếc micro trong tay Minh rồi lập tức ngẩng phắt lên nhìn ông. Mặt cậu đỏ bừng, môi định hé ra nói điều gì đó nhưng không nói được câu nào.
 
-Minh gạt công tắc trở lại. Nét ấm áp trên gương mặt ông rút đi, mí mắt nâng lên đôi chút, ánh nhìn trở lại vẻ tĩnh và sắc quen thuộc. Khóe môi chỉ còn giữ một đường cong rất nhẹ. Ông đứng dậy, sửa lại cổ tay áo.
+Minh gạt công tắc trở lại. Nét ấm áp trên gương mặt ông rút đi, mí mắt nâng lên đôi chút, ánh nhìn trở lại vẻ tĩnh và sắc quen thuộc. Khóe môi chỉ còn giữ một đường cong rất nhẹ. Ông sửa lại cổ tay áo.
 
 "Em yên tâm."
 
@@ -186,7 +186,7 @@ Khoảng mười phút sau, đến trạm cuối, Minh cất sách vào cặp r�
 
 Minh mở cửa, đưa tay bật đèn, treo chìa khóa lên móc khóa gần cửa. Ông bước vào, tháo giày rồi đặt cặp cạnh tủ.
 
-Minh mang phần thức ăn vừa mua vào bếp, đặt lên bàn bếp rồi đi vào phòng khách. Rồi kéo chiếc ghế bên bàn ăn ra, điện thoại xuống mặt bàn.
+Minh mang phần thức ăn vừa mua vào bếp, đặt lên bàn bếp rồi đi vào phòng khách. Rồi kéo chiếc ghế bên bàn ăn ra, đặt điện thoại xuống mặt bàn.
 
 Ngón tay Minh khẽ gõ lên mặt kính như một thói quen. Một tiếng gõ nhẹ, hai tiếng rồi lại ba tiếng. Minh đứng yên, không còn tiếng ghế ngừng xê dịch, không còn ánh mắt nào nhìn về, chỉ còn căn nhà chìm trong yên lặng. Bàn tay Minh vẫn dừng trên mặt bàn. Sau vài giây, ông vô thức rút tay về.
 
@@ -202,7 +202,7 @@ Vừa thấy Minh, người phụ nữ nhướng mày.
 
 “Bà có báo trước đâu.”
 
-“Báo trước thì thể nào ông cũng lại kiếm cớ bận nghiên cứu với chả họp hành. Lạ gì tính ông nữa”.
+“Báo trước thì thể nào ông cũng lại kiếm cớ bận nghiên cứu với chả họp hành. Lạ gì tính ông nữa.”
 
 Minh tránh sang một bên.
 
@@ -240,7 +240,7 @@ Cô cười, rồi kéo túi giấy lại gần, lấy ra vài quả quýt.
 
 “Mua cho ông ít quýt này, ngon lắm đấy. Nhìn mặt ông là biết cả tuần chả ăn nổi miếng trái cây nào.”
 
-Cô bóc một quả, chia cho Minh vài múi rồi cầm theo túi giấy vào bếp, tiện tay bỏ vỏ quýt vào thùng rác.Vừa mở thùng rác, cô bắt gặp mấy vỏ hộp thức ăn đã dùng bên trong.
+Cô bóc một quả, chia cho Minh vài múi rồi cầm theo túi giấy vào bếp, tiện tay bỏ vỏ quýt vào thùng rác. Vừa mở thùng rác, cô bắt gặp mấy vỏ hộp thức ăn đã dùng bên trong.
 
 “Tôi nghĩ ông nên tìm ai đó về nấu ăn cho thì hơn.”
 
@@ -262,7 +262,7 @@ Cô nhìn phần thức ăn, rồi quay sang Minh.
 
 Cô cất phần thức ăn mua sẵn vào tủ lạnh, rồi bắt đầu chuẩn bị bữa tối. Minh vào bếp phụ vài việc lặt vặt.
 
-Một lúc sau, hai người ngồi xuống bàn ăn. Vừa ăn vừa trò truyện.
+Một lúc sau, hai người ngồi xuống bàn ăn. Vừa ăn vừa trò chuyện.
 
 “Tuần sau ông có đi không?”
 
@@ -328,7 +328,7 @@ Cô kéo tấm ảnh về phía mình một chút. Nụ cười trên môi dịu
 
 Rồi lúc sau, ánh mắt cô lướt đến phiên bản tuổi mười sáu của mình.
 
-“Hồi đó yêu nhau giấu giếm mà vui ghê…”. Rồi cô kể tiếp kỉ niệm giữa hai người.
+“Hồi đó yêu nhau giấu giếm mà vui ghê…” Rồi cô kể tiếp kỉ niệm giữa hai người.
 
 Minh không đáp.
 
@@ -336,7 +336,7 @@ Người phụ nữ vẫn nhìn tấm ảnh.
 
 “Trong trường gặp nhau mà cứ làm như chẳng quen.”
 
-“Chủ yếu là do bà nghĩ như vậy6.”
+“Chủ yếu là do bà nghĩ như vậy.”
 
 Cô quay sang.
 
