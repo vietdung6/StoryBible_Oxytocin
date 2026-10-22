@@ -30,11 +30,11 @@ Chị kéo khóa ngăn ngoài của túi, đưa tay vào tìm rồi lại mở c
 
 “Nếu chị không tìm thấy thì tôi phải buộc mời chị mua lại vé.”
 
-“Tôi vừa dùng vé để vào ga mà. Anh cho tôi tìm thêm một chút được không?”
+“Tôi vừa dùng vé để vào ga mà. Anh chờ tôi tìm thêm một chút được không?”
 
 “Tôi đã chờ chị được một lúc rồi.”
 
-Chị khựng lại, rồi cúi xuống kiểm tra chiếc ví thêm lần nữa.
+Chị khựng lại, rồi cúi xuống kiểm tra chiếc ví thêm lần nữa.  
 
 Minh nhìn sang một thoáng, rồi khép lại sách, lấy vé trong túi áo.
 
@@ -56,4 +56,4 @@ Minh mở cửa, đưa tay bật đèn, treo chìa khóa lên móc khóa gần c
 
 Minh mang phần thức ăn vừa mua vào bếp, đặt lên bàn rồi đi vào phòng khách. Rồi kéo chiếc ghế bên bàn ăn ra, điện thoại xuống mặt bàn.
 
-Ngón tay Minh khẽ gõ lên mặt kính như thói một quen. Một tiếng gõ nhẹ, hai tiếng rồi lại ba tiếng. Minh đứng yên, không còn tiếng ghế ngừng xê dịch, không còn ánh mắt nào nhìn về, chỉ còn căn nhà chìm trong yên lặng. Bàn tay Minh vẫn dừng trên mặt bàn. Sau vài giây, ông vô thức rút tay về.
+Ngón tay Minh khẽ gõ lên mặt kính như một thói quen. Một tiếng gõ nhẹ, hai tiếng rồi lại ba tiếng. Minh đứng yên, không còn tiếng ghế ngừng xê dịch, không còn ánh mắt nào nhìn về, chỉ còn căn nhà chìm trong yên lặng. Bàn tay Minh vẫn dừng trên mặt bàn. Sau vài giây, ông vô thức rút tay về.
