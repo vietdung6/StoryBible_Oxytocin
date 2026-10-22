@@ -4,14 +4,15 @@
 
 ### Part 00 — THE ZEROTH AXIOM
 
-- Ep00 — CONSTANT: bản nháp văn xuôi mới đã chuyển sang [`draft/`](draft/PART00_ZEROTH_AXIOM/ARC00_ZEROTH_AXIOM/EP00_CONSTANT.md), có ghi chú đoạn từ LUCN về nhà còn cần bổ sung.
-- Ep01 — POINT và Ep02 — VARIABLE: bản viết trước đó chuyển nguyên văn sang `draft/`.
-- Ep03 — SOLUTION: bản nháp mới có Scene 1–2, đã chuyển vào [`draft/`](draft/PART00_ZEROTH_AXIOM/ARC00_ZEROTH_AXIOM/EP03_SOLUTION.md).
-- Ep04 — AXIOM: chưa có bản viết.
+- **EP00 — CONSTANT:** Đã hoàn thiện và chính thức chốt bản văn xuôi.
+- **EP01 — POINT:** Đã có bản nháp văn xuôi đầy đủ.
+- **EP02 — VARIABLE:** Đã có bản nháp văn xuôi đầy đủ.
+- **EP03 — SOLUTION:** Đang phát triển; đã có sườn kịch bản và bản nháp văn xuôi một phần.
+- **EP04 — AXIOM:** Đang phát triển; đã có sườn kịch bản, chưa hoàn thiện văn xuôi.
 
 ### Part I — SIXTEEN
 
-- Arc01 — SPOTLIGHT: phần mở đầu Ep01 — HALO đã lưu tại [`draft/`](draft/PART01_SIXTEEN/ARC01_SPOTLIGHT/EP01_HALO.md).
+- **Arc01 — SPOTLIGHT / EP01 — HALO:** Đang viết. Đã có phần văn xuôi dùng chung với EP04 Arc00, đóng vai trò chương kết Arc00 đồng thời là chương mở Arc01.
 
 ## Ưu tiên hiện tại
 
