@@ -14,7 +14,7 @@ Minh tránh sang một bên.
 
 “Vào đi.”
 
-Ngọc bước qua cửa, cúi người cởi giày, mắt đã đảo một vòng khắp nhà.
+Cô bước qua cửa, cúi người cởi giày, mắt đã đảo một vòng khắp nhà.
 
 “Nhà ông bao nhiêu năm vẫn thế nhỉ, bước vào cứ tưởng như đi lạc vào thư viện quốc gia.”
 
