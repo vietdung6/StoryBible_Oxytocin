@@ -28,7 +28,7 @@ Sau khi cô ra về, Minh xem lại bức ảnh. Ông dừng mắt ở một c�
 
 ## Ep01 — POINT
 
-Minh 16 tuổi đang chuẩn bị nhập học. Cậu nghe đôi vợ chồng hàng xóm cãi nhau và ghi lại những dự đoán của mình về diễn biến cuộc tranh cãi.
+Minh 16 tuổi đang chuẩn bị hồ sơ nhập học. Cậu nghe đôi vợ chồng hàng xóm cãi nhau và ghi lại những dự đoán của mình về diễn biến cuộc tranh cãi.
 
 Trong lúc đi photocopy giấy tờ, Minh chủ động đứng sang phía quầy còn trống. Những khách đến sau bắt đầu xếp hàng phía sau cậu. Minh quan sát phản ứng của họ và xem lại kết quả khi trở về nhà.
 
@@ -52,12 +52,7 @@ Sau nhiều lần thử nghiệm, Minh kết hợp các cách trưng bày và g�
 
 Chú Tuấn cảm ơn Minh vì những thay đổi ở hiệu sách và tặng cậu một cuốn sách.
 
-Minh dành những ngày cuối cùng để hoàn tất việc chuẩn bị nhập học, xem lại những ghi chép của mình. Arc khép lại khi cậu bước vào lớp 10A01 tại Lacovia High School.
-
-## Những tình tiết cần xây dựng
-
-- **Ep03:** Hoàn thiện diễn biến các lần điều chỉnh thí nghiệm và kết quả cuối cùng.
-- **Ep04:** Hoàn thiện những ngày cuối trước khi nhập học.
+Minh dành những ngày cuối cùng để chuẩn bị cho năm học mới, xem lại những ghi chép của mình. Arc khép lại khi cậu bước vào lớp 10A01 tại Lacovia High School.
 
 ---
 
