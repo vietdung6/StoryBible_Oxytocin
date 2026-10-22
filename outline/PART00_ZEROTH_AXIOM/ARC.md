@@ -2,7 +2,7 @@
 
 **Dàn ý nháp · Part 00 — THE ZEROTH AXIOM**
 
-**Thời gian:** Mở đầu khi Minh 42 tuổi, sau đó trở về những ngày cuối trước khi cậu nhập học lớp 10.
+**Thời gian:** Tuần cuối cùng, trước khi nhập học.
 
 ## Nội dung chính
 
