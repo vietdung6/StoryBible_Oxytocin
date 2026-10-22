@@ -6,11 +6,9 @@
 
 ## Nội dung chính
 
-Ở tuổi trung niên, Vũ Nhật Minh là giáo sư tại LUCN, có khả năng quan sát và tác động đến hành vi người khác. Một buổi giảng về oxytocin, cuộc sống riêng của ông và cuộc gặp với người quen cũ dần hé lộ con người Minh, đồng thời đặt ra câu hỏi về những mối quan hệ và lựa chọn trong quá khứ.
+Ở tuổi trung niên, Vũ Nhật Minh đã trở thành một giáo sư tại LUCN. Trong một buổi giảng, ông khiến cả giảng đường kinh ngạc bằng một màn thao túng tâm lý ngay trước mắt sinh viên. Thế nhưng, đằng sau hình ảnh một giáo sư tài giỏi là cuộc sống riêng khá cô độc. Cuộc viếng thăm của một người phụ nữ từng có quan hệ tình cảm với Minh, cùng bức ảnh lớp mười cô mang đến, gợi lại những chuyện xảy ra hơn hai mươi năm trước.
 
-Câu chuyện quay về Minh năm 16 tuổi, ngay trước khi bước vào cấp ba. Cậu đã quan sát, dự đoán và ghi chép hành vi con người từ nhiều năm trước; điều mới ở giai đoạn này là **chủ động thay đổi điều kiện như một cách thử nghiệm**. Từ một tình huống ở tiệm photocopy, Minh tiếp tục nghiên cứu phản ứng của khách hàng ở hiệu sách chú Tuấn. Cậu lần lượt phát hiện những giới hạn trong cách thử nghiệm của mình, rồi bắt đầu phối hợp các yếu tố khác nhau để tác động đến mức độ chú ý và tương tác của khách với sách.
-
-Những thử nghiệm nhỏ diễn ra xen kẽ với sinh hoạt đời thường, quan hệ của Minh với chú Tuấn và việc chuẩn bị nhập học. Arc khép lại khi Minh bước vào môi trường trung học, nối trực tiếp với Arc01 — SPOTLIGHT.
+Câu chuyện quay về những ngày Minh chuẩn bị bước vào lớp 10. Sống một mình và ít giao tiếp, cậu dành nhiều thời gian đọc sách, ghi chép và quan sát những người xung quanh. Một tuần trước ngày nhập học, Minh bắt đầu tiến hành một chuỗi thí nghiệm tâm lý. Qua nhiều lần thử nghiệm và điều chỉnh, cậu dần thu được những kết quả đáng chú ý. Arc khép lại khi Minh bước vào lớp 10A01 tại Laccovia High School, bắt đầu năm học cấp ba của mình.
 
 ## Ep00 — CONSTANT
 
