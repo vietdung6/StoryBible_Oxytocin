@@ -20,7 +20,7 @@ Cô bước qua cửa, cúi người cởi giày, mắt đã đảo một vòng 
 
 “Thư viện còn ồn hơn.”
 
-“À quên mất đang nói chuyện với giáo sư.”
+“À quên mất, đang nói chuyện với giáo sư.”
 
 Cô đặt túi giấy lên bàn phòng khách rồi tự kéo ghế ngồi. Minh đi lấy thêm một chiếc cốc.
 
@@ -94,7 +94,7 @@ Minh ngước lên.
 
 Cô bật cười.
 
-“Biết rồi. Giáo sư Minh lúc nào cũng đúng giờ.”
+“Rồi, rồi. Giáo sư Minh lúc nào cũng đúng giờ.”
 
 Ăn xong, Minh mang bát đĩa vào bếp.
 
@@ -130,17 +130,19 @@ Minh nhìn cô.
 
 “Không có chi.”
 
-Cô kéo tấm ảnh về phía mình một chút. Nụ cười trên môi dịu xuống.
+Cô kéo tấm ảnh về phía mình một chút. Nụ cười trên môi dịu xuống. Cô lướt qua nhiều bạn học khác, kể về cuộc sống của họ hiện tại, cũng như những kỉ niệm đáng nhớ. Minh phần lớn chỉ lắng nghe.
 
-“Hồi đó yêu nhau giấu giếm mà vui ghê…”. Rồi tiếp tục kể thêm vài kỉ niệm năm tháng học trò đầy hồn nhiên của hai người.
+Rồi lúc sau, ánh mắt cô lướt đến phiên bản tuổi mười sáu của mình.
 
-Minh không đáp. Chỉ lắng nghe.
+“Hồi đó yêu nhau giấu giếm mà vui ghê…”. Rồi cô kể tiếp kỉ niệm giữa hai người.
+
+Minh không đáp.
 
 Người phụ nữ vẫn nhìn tấm ảnh.
 
-“Trong trường gặp nhau cứ làm như chẳng quen.”
+“Trong trường gặp nhau mà cứ làm như chẳng quen.”
 
-“Chủ yếu là do bà nghĩ không ai biết.”
+“Chủ yếu là do bà nghĩ như vậy6.”
 
 Cô quay sang.
 
@@ -158,17 +160,17 @@ Minh cầm cốc nước lên.
 
 Cô cúi xuống tấm ảnh lần nữa.
 
-“Cái này chụp cuối lớp mười đúng không nhỉ?”
+“Cái này chụp cuối lớp mười đúng không ta?”
 
 “Ừ.”
 
-“Nhìn mặt đứa nào cũng hơi ngố ngố, dễ thương, trừ mỗi ông.”
+“Nhìn mặt đứa nào cũng hơi ngố ngố, dễ thương, trừ mỗi cụ Minh.”
 
-Minh nhìn theo nhưng không nói gì.
+Cô bật cười. Minh nhìn theo nhưng không nói gì.
 
 Cô giữ tấm ảnh thêm một lúc, khóe miệng vẫn còn nụ cười nhỏ.
 
-“Lâu thật rồi đấy. Ôi nhớ quá!”
+“Lâu thật rồi đấy. Ôi nhớ quá! Ước gì được quay lại thời đó.”
 
 “Lâu thật.”
 
@@ -176,7 +178,7 @@ Cô đặt tấm ảnh xuống bàn.
 
 Hai người chuyển sang vài câu chuyện vụn vặt khác. Minh phần lớn chỉ nghe, thỉnh thoảng đáp lại một câu. Gần mười giờ, cô nhìn đồng hồ rồi đứng dậy.
 
-“Thôi, tôi về. Trễ rồi.”
+“Thôi, tôi về đây. Trễ rồi.”
 
 Minh cũng đứng lên.
 
@@ -186,7 +188,7 @@ Cô đeo lại túi xách, đi được vài bước thì quay đầu nhìn tấ
 
 “Của bà mà.”
 
-“Giữ làm kỉ niệm đi, tôi có chụp lại rồi.”
+“Giữ làm kỉ niệm đi chứ, tôi có chụp lại rồi.”
 
 Minh nhìn tấm ảnh.
 
@@ -224,9 +226,9 @@ Ngón tay ông dừng trên mép tấm ảnh.
 
 Cô gái tuổi mười sáu vẫn cười với ống kính. Minh nhìn thêm vài giây. Rồi ánh mắt dịch sang bên cạnh, qua những gương mặt quen thuộc chen nhau ở phía sau.
 
-Gần mép khung hình, một cậu thiếu niên đứng lệch khỏi nhóm chính. Một bên vai bị người phía trước che khuất, cà vạt hơi lệch, hai tay bỏ trong túi. Cậu không nhìn máy ảnh.
+Gần mép khung hình, một cậu thiếu niên đứng lệch khỏi nhóm chính. Một bên vai bị người phía trước che khuất, cà vạt hơi lệch, một tay bỏ trong túi quần. Cậu không nhìn máy ảnh.
 
-Minh khựng lại.         
+Minh khựng lại.
 
 Giữa hơn ba mươi người đang hướng mắt về phía ống kính, cậu thiếu niên ấy nhìn sang hướng của Minh. Khóe miệng hơi nhấc lên.
 
@@ -234,7 +236,7 @@ Căn phòng vẫn im lặng. Kim đồng hồ trên tường dịch thêm một 
 
 *Tách.*
 
-Trong ảnh, cô gái vẫn đang cười. Nhưng Minh không nhìn cô nữa.
+Trong ảnh, cô gái vẫn đang cười. Nhưng Minh không nhìn cô.
 
 *Tách.*
 

@@ -76,7 +76,7 @@ Cậu sinh viên ngẩng lên. Khuôn mặt Minh dường như không thay đổ
 
 "Thời hạn nộp bài khi đó đã rất gần. Tôi không kịp làm mẫu đối chứng nên tự điền thông số cho khớp mô hình. Đến giờ bản in đó chắc vẫn còn nằm đâu đó trên tầng bốn thư viện trường."
 
-Cậu sinh viên khựng lại. Đôi vai vốn hơi co lại từ lúc Minh ngồi xuống chậm rãi thả lỏng. Nét căng quanh chân mày dịu đi, ánh mắt cũng thôi lảng tránh. Cậu nhìn Minh thêm một lúc, vẻ dè chừng ban đầu dần nhường chỗ cho một chút ngạc nhiên lẫn nhẹ nhõm.
+Cậu sinh viên khựng lại. Đôi vai vốn hơi co lại từ lúc Minh đứng gần chậm rãi thả lỏng. Nét căng quanh chân mày dịu đi, ánh mắt cũng thôi lảng tránh. Cậu nhìn Minh thêm một lúc, vẻ dè chừng ban đầu dần nhường chỗ cho một chút ngạc nhiên lẫn nhẹ nhõm.
 
 Minh chờ đúng lúc ấy, khẽ nghiêng đầu.
 

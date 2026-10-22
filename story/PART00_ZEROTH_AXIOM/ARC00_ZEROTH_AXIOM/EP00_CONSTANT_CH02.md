@@ -34,7 +34,7 @@ Chị kéo khóa ngăn ngoài của túi, đưa tay vào tìm rồi lại mở c
 
 “Tôi đã chờ chị được một lúc rồi.”
 
-Chị khựng lại, rồi cúi xuống kiểm tra chiếc ví thêm lần nữa.  
+Chị khựng lại, khuôn mặt hơi lúng túng, rồi cúi xuống kiểm tra chiếc ví thêm lần nữa.
 
 Minh nhìn sang một thoáng, rồi khép lại sách, lấy vé trong túi áo.
 
@@ -54,6 +54,6 @@ Khoảng mười phút sau, đến trạm cuối, Minh cất sách vào cặp r�
 
 Minh mở cửa, đưa tay bật đèn, treo chìa khóa lên móc khóa gần cửa. Ông bước vào, tháo giày rồi đặt cặp cạnh tủ.
 
-Minh mang phần thức ăn vừa mua vào bếp, đặt lên bàn rồi đi vào phòng khách. Rồi kéo chiếc ghế bên bàn ăn ra, điện thoại xuống mặt bàn.
+Minh mang phần thức ăn vừa mua vào bếp, đặt lên bàn bếp rồi đi vào phòng khách. Rồi kéo chiếc ghế bên bàn ăn ra, điện thoại xuống mặt bàn.
 
 Ngón tay Minh khẽ gõ lên mặt kính như một thói quen. Một tiếng gõ nhẹ, hai tiếng rồi lại ba tiếng. Minh đứng yên, không còn tiếng ghế ngừng xê dịch, không còn ánh mắt nào nhìn về, chỉ còn căn nhà chìm trong yên lặng. Bàn tay Minh vẫn dừng trên mặt bàn. Sau vài giây, ông vô thức rút tay về.
