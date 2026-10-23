@@ -71,6 +71,7 @@ Thứ tự đọc phần mở rộng: **FOIL → PAST → LIMBIC**.
 ## Ý nghĩa tác phẩm
 
 OXYTOCIN khai thác mối quan hệ giữa lý trí và cảm xúc, giữa những điều con người có thể lý giải bằng khoa học và ý nghĩa mà họ dành cho chúng.
+
 Tác phẩm còn đề cập đến tự do lựa chọn, trách nhiệm đối với những quyết định của bản thân và giá trị của sự gắn bó. Qua hành trình của Minh, câu chuyện đi sâu vào cách con người tìm kiếm và tự tạo ra ý nghĩa cho cuộc sống của mình.
 
 ---
