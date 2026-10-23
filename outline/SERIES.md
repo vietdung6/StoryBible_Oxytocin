@@ -4,9 +4,9 @@ Dàn ý tổng thể của OXYTOCIN.
 
 ## Cấu trúc series
 
-- **Part 00 — THE ZEROTH AXIOM**: phần mở đầu độc lập.
-- **Main trilogy**: Part I — SIXTEEN, Part II — NETWORK, Part III — AMYGDALA.
-- **Phần mở rộng**: FOIL, PAST và Part IV — LIMBIC.
+- **Prolugue - THE ZEROTH AXIOM**: phần mở đầu giới thiệu.
+- **Main trilogy**: PART I,II,III.
+- **Phần mở rộng**: FOIL, PAST và Part IV.
 
 ## Mục lục đọc
 
