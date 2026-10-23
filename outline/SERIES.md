@@ -112,13 +112,13 @@ Foil xuất hiện từ thời cấp ba, dần trở thành người bạn thân
 
 ### Part II — NETWORK
 
-Trong những năm đầu đại học tại LUCN, Minh mở rộng nghiên cứu từ hành vi cá nhân sang các nhóm người, mạng lưới xã hội, tổ chức, dòng thông tin và quan hệ lợi ích. Cậu dần áp dụng những phương pháp từng sử dụng ở quy mô nhỏ để tác động đến các hệ thống lớn hơn.
+Trong ba năm đầu đại học tại LUCN, Minh mở rộng nghiên cứu từ hành vi cá nhân sang các nhóm người, mạng lưới xã hội, tổ chức, dòng thông tin và quan hệ lợi ích. Cậu dần áp dụng những phương pháp từng sử dụng ở quy mô nhỏ để tác động đến các hệ thống lớn hơn.
 
 Cùng thời gian đó, Foil xây dựng mạng lưới quan hệ và ảnh hưởng riêng, từng bước tham gia vào các vấn đề xã hội và chính trị của Laccovia.
 
 ### Part III — AMYGDALA
 
-AMYGDALA diễn ra khi Minh khoảng 22 tuổi, giữa lúc những xung đột xã hội và chính trị tại Laccovia leo thang. Minh ngày càng can dự sâu vào các cuộc xung đột, trong khi Foil đã có ảnh hưởng chính trị của riêng mình.
+AMYGDALA diễn ra trong năm cuối đại học của Minh, khi cậu khoảng 22 tuổi, giữa lúc những xung đột xã hội và chính trị tại Laccovia leo thang. Minh ngày càng can dự sâu vào các cuộc xung đột, trong khi Foil đã có ảnh hưởng chính trị của riêng mình.
 
 Foil đi đến một lựa chọn chính trị để giải quyết một cuộc khủng hoảng quốc gia, dù phải đánh đổi bằng mạng sống. Cuối cùng, cuộc khủng hoảng được giải quyết, nhưng Minh mất đi người bạn quan trọng nhất đời mình.
 
