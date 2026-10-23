@@ -70,7 +70,11 @@ Thứ tự đọc phần mở rộng: **FOIL → PAST → LIMBIC**.
 
 ## Ý nghĩa tác phẩm
 
-**Nếu mọi cảm xúc của con người đều có thể được khoa học lý giải, liệu chúng có còn ý nghĩa?**
+Nếu mọi cảm xúc đều có thể được khoa học lý giải, liệu chúng còn ý nghĩa gì? Nếu suy nghĩ và quyết định của con người đều có nguyên nhân, vậy rốt cuộc chúng ta có thật sự tự do?
+
+OXYTOCIN đặt ra một giả định: cuộc sống vốn chẳng có ý nghĩa sẵn có. Khi ấy, con người sẽ chọn sống như thế nào? Và tại sao phải cố tìm cho mình một ý nghĩa?
+
+Nếu cuộc sống vốn vô nghĩa, liệu chính việc nó có ý nghĩa hay không còn quan trọng nữa?
 
 ---
 
