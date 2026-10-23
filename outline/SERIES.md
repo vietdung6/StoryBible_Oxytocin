@@ -68,23 +68,11 @@ Thứ tự đọc phần mở rộng: **FOIL → PAST → LIMBIC**.
 
 ---
 
-## Trục chủ đề
+## Ý nghĩa tác phẩm
 
-OXYTOCIN xoay quanh các câu hỏi:
+OXYTOCIN khai thác mối quan hệ giữa lý trí và cảm xúc, giữa những điều con người có thể lý giải bằng khoa học và ý nghĩa mà họ dành cho chúng. Minh càng hiểu rõ nguyên nhân đằng sau hành vi của người khác, cậu càng tìm cách dự đoán và tác động đến lựa chọn của họ. Nhưng chính những mối quan hệ trong cuộc đời Minh cũng dần làm thay đổi cách cậu nhìn nhận con người.
 
-- Có thể hiểu và dự đoán con người đến đâu?
-- Nếu biết cơ chế tạo ra một cảm xúc, cảm xúc đó có bớt thật không?
-- Ranh giới giữa quan sát, thuyết phục, tác động và thao túng nằm ở đâu?
-- Một lựa chọn tự do đến mức nào khi nó luôn bắt đầu từ những điều kiện có trước?
-- Một mối quan hệ có mất giá trị nếu một phần điều kiện dẫn tới nó từng được chủ động sắp đặt?
-- Con người khám phá ý nghĩa hay tự tạo ra nó?
-
-Các trục dài hạn:
-
-- **tất định ↔ ý chí tự do**
-- **kiểm soát ↔ bất định**
-- **mô hình ↔ con người thật**
-- **hư vô ↔ ý nghĩa tự tạo**
+Tác phẩm còn đề cập đến tự do lựa chọn, trách nhiệm đối với những quyết định của bản thân và giá trị của sự gắn bó. Qua hành trình của Minh, câu chuyện đi sâu vào cách con người tìm kiếm và tự tạo ra ý nghĩa cho cuộc sống của mình.
 
 ---
 
