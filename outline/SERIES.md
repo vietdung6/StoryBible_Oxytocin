@@ -116,12 +116,6 @@ Xuất thân từ gia tộc Levi từng có ảnh hưởng lớn tại Laccovia,
 
 ---
 
-## INT / Core
-
-INT và Core là hai trạng thái của Minh, dùng chung ký ức nhưng khác nhau về cách xử lý thông tin, phản ứng và quyền kiểm soát. Core là phần tính cách gốc; INT hình thành để bảo vệ Core và dần giữ quyền kiểm soát trong phần lớn thời gian.
-
----
-
 ## Tổ chức
 
 Một tổ chức thần kinh học cấp cao có liên hệ sâu với quá khứ của Minh và cơ chế INT/Core.
