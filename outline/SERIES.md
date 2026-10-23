@@ -70,9 +70,7 @@ Thứ tự đọc phần mở rộng: **FOIL → PAST → LIMBIC**.
 
 ## Ý nghĩa tác phẩm
 
-OXYTOCIN khám phá giới hạn của lý trí trong việc hiểu con người. Khoa học có thể lý giải cảm xúc, hành vi và những lựa chọn tưởng chừng tự do, nhưng lời giải thích ấy chưa thể nói hết giá trị của tình yêu, niềm tin hay sự gắn bó.
-
-Qua hành trình của Minh và Foil, tác phẩm đặt ra vấn đề về tự do lựa chọn, những mất mát không thể thay đổi và điều mỗi người sẵn sàng đánh đổi vì những gì mình coi là có ý nghĩa.
+**Nếu mọi cảm xúc của con người đều có thể được khoa học lý giải, liệu chúng có còn ý nghĩa?**
 
 ---
 
