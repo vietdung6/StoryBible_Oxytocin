@@ -94,8 +94,6 @@ Nhân vật chính thứ hai của OXYTOCIN.
 
 Foil thông minh, cởi mở, hài hước và giỏi ứng biến. Cậu dễ bắt chuyện, tạo quan hệ và xử lý những tình huống bất ngờ. Đằng sau vẻ ngoài hoạt bát, Foil sống nội tâm và ít bộc lộ những tình cảm sâu kín.
 
-Gia tộc Levi của Foil từng có ảnh hưởng lớn tại Laccovia nhưng bị thanh trừng về chính trị. Khi trưởng thành, Foil tự xây dựng mạng lưới quan hệ và dần tham gia vào các xung đột chính trị của Laccovia.
-
 ---
 
 ## Tóm tắt nội dung theo từng phần
