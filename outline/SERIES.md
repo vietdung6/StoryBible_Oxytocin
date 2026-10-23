@@ -126,7 +126,7 @@ Một tổ chức thần kinh học cấp cao có liên hệ sâu với quá kh�
 
 ### Part 00 — THE ZEROTH AXIOM
 
-Câu chuyện mở đầu khi Minh 42 tuổi, đang là giáo sư tại LUCN, rồi quay về tuần cuối trước khi cậu nhập học lớp 10.
+Câu chuyện mở đầu khi Minh đã ở tuổi trung niên, đang là giáo sư tại LUCN, rồi quay về tuần cuối trước khi cậu nhập học lớp 10.
 
 Ở tuổi 16, Minh thực hiện một chuỗi thí nghiệm tâm lý từ những tình huống đời thường. Cậu thử thay đổi các điều kiện và quan sát phản ứng của người khác, đặc biệt trong những ngày thường lui tới hiệu sách của chú Tuấn. Part 00 khép lại khi Minh bước vào lớp 10A01 tại Lacovia High School.
 
