@@ -64,13 +64,7 @@ Thứ tự đọc phần mở rộng: **FOIL → PAST → LIMBIC**.
 
 ## Bản sắc tác phẩm
 
-**OXYTOCIN** là psychological thriller / dark coming-of-age / mindgame xoay quanh **Vũ Nhật Minh**.
-
-Câu chuyện theo chân Minh từ những thí nghiệm về hành vi con người đến việc nghiên cứu các mạng lưới xã hội và cuối cùng là chính bản thân mình.
-
-Phương pháp Minh sử dụng xuyên suốt:
-
-**quan sát → mô hình hóa → dự đoán → can thiệp → hệ quả**
+**OXYTOCIN** là psychological thriller / dark coming-of-age / mindgame, kể về hành trình của **Vũ Nhật Minh**, một người tin rằng có thể hiểu rõ cảm xúc con người bằng khoa học.
 
 ---
 
