@@ -98,12 +98,6 @@ Gia tộc Levi của Foil từng có ảnh hưởng lớn tại Laccovia nhưng 
 
 ---
 
-## Tổ chức
-
-Một tổ chức thần kinh học cấp cao có liên hệ sâu với quá khứ của Minh và cơ chế INT/Core.
-
----
-
 ## Tóm tắt nội dung theo từng phần
 
 ### Part 00 — THE ZEROTH AXIOM
