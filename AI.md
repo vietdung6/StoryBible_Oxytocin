@@ -21,9 +21,9 @@
 
 ## 3. Vị trí tài liệu
 
-- `CANON.md`: thiết lập cấp toàn series.
+- `outline/SERIES.md`: cấu trúc và nội dung tổng thể của series.
 - `draft/`: bản thảo văn xuôi hiện tại; không tự viết lại từ outline.
-- `outline/`: cấu trúc truyện, arc, ep và tiến trình cảnh.
+- `outline/`: dàn ý series, Part, Arc, Ep và tiến trình cảnh.
 - `characters/`: hồ sơ nhân vật.
 - `world/`: thiết lập Laccovia, thiết chế, trò chơi và luật tồn tại độc lập trong thế giới. **Cờ LIDA: `world/LIDA.md`.**
 - `mindgames/`: màn đấu trí **cụ thể** trong một arc/ep; tham chiếu luật dùng chung từ `world/` khi cần, không sao chép thành bộ luật thứ hai.
