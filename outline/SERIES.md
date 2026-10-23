@@ -7,7 +7,7 @@ Dàn ý tổng thể của OXYTOCIN.
 - **Part 00 — THE ZEROTH AXIOM**: phần mở đầu độc lập.
 - **Main trilogy**: Part I — SIXTEEN, Part II — NETWORK, Part III — AMYGDALA.
 - **Phần mở rộng**: FOIL, PAST và Part IV — LIMBIC.
-- **Phase**: nhãn dùng để nhóm nhiều Arc trong thiết kế tổng thể; không phải một tầng thư mục hay đơn vị bản thảo.
+- **Phase**: nhóm các Arc theo bốn nhóm tính cách SP, SJ, NT và NF.
 
 ## Mục lục đọc
 
