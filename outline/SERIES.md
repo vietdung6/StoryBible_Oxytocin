@@ -70,9 +70,11 @@ Thứ tự đọc phần mở rộng: **FOIL → PAST → LIMBIC**.
 
 ## Ý nghĩa tác phẩm
 
-OXYTOCIN xoay quanh những câu hỏi:
+Nếu mọi quyết định của con người đều là kết quả của những nguyên nhân có trước, liệu con người có thật sự tự do?
 
-Nếu mọi quyết định đều có nguyên nhân, liệu con người có thật sự tự do? Nếu cuộc sống vốn không có sẵn ý nghĩa, chúng ta sẽ chọn sống thế nào? Để mặc hư vô nuốt chửng mình, hay tiếp tục sống vì những điều bản thân cho là có ý nghĩa? Và sau cùng, liệu con người có thực sự cần một ý nghĩa để tiếp tục sống?
+Và nếu cuộc sống vốn chẳng có ý nghĩa gì, con người sẽ lựa chọn sống như thế nào? Để mặc sự hư vô nuốt chửng, hay tiếp tục sống vì những điều con người tin là quan trọng?
+
+Và cuối cùng, **Liệu cuộc sống có thực sự cần một ý nghĩa để tồn tại?**
 
 ---
 
