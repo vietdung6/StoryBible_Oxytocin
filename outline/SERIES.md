@@ -152,7 +152,7 @@ Trong thời gian này, Foil xây dựng các mối quan hệ và ảnh hưởng
 
 AMYGDALA diễn ra khi Minh khoảng 22 tuổi. Các xung đột liên quan đến xã hội và chính trị Laccovia ngày càng lớn. Minh tìm cách tác động vào những cấu trúc quyền lực, trong khi Foil đã có ảnh hưởng chính trị của riêng mình.
 
-Foil đi đến một lựa chọn chính trị mà cậu chấp nhận đánh đổi bằng mạng sống. Minh chứng kiến cái chết của Foil khi vẫn chưa hiểu hết lựa chọn ấy. Sau biến cố, Minh nhận ra tình yêu sâu sắc của mình dành cho Foil theo nghĩa platonic.
+Foil đi đến một lựa chọn chính trị mà cậu chấp nhận đánh đổi bằng mạng sống. Minh chứng kiến cái chết của Foil khi vẫn chưa hiểu hết lựa chọn ấy.
 
 Cái chết của Foil làm thay đổi thế cân bằng INT/Core, khiến INT dần mất vị trí chi phối. Main trilogy khép lại khi câu chuyện trở về Minh ở tuổi 42.
 
