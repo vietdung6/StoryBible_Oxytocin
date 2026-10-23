@@ -16,11 +16,11 @@ Sau khi một **Arc** hoàn chỉnh, toàn bộ Arc mới được đọc lại 
 ├─ README.md
 ├─ CURRENT.md
 ├─ HISTORY.md
-├─ CANON.md
 ├─ STYLE.md
 │
 ├─ draft/
 ├─ outline/
+│  └─ SERIES.md
 ├─ mindgames/
 ├─ characters/
 │  ├─ 01_CORE/
@@ -43,7 +43,7 @@ Lưu toàn bộ bản thảo văn xuôi hiện tại của OXYTOCIN, kể cả c
 
 ### `outline/`
 
-Dàn ý của Part, Arc và Ep.
+Dàn ý toàn series, Part, Arc và Ep.
 
 Dùng để giữ:
 - diễn biến chính;
@@ -109,9 +109,9 @@ Trạng thái hiện tại của dự án: phần nào đã xong, đang viết �
 
 Nhật ký theo ngày về những thay đổi và công việc đã thực hiện.
 
-### `CANON.md`
+### `outline/SERIES.md`
 
-Story bible và thiết lập của series.
+Cấu trúc, nhân vật chính và dàn ý tổng thể của series.
 
 ### `STYLE.md`
 
