@@ -70,11 +70,9 @@ Thứ tự đọc phần mở rộng: **FOIL → PAST → LIMBIC**.
 
 ## Ý nghĩa tác phẩm
 
-Nếu mọi cảm xúc đều có thể được khoa học lý giải, liệu chúng còn ý nghĩa gì? Nếu suy nghĩ và quyết định của con người đều có nguyên nhân, vậy rốt cuộc chúng ta có thật sự tự do?
+OXYTOCIN xoay quanh các câu hỏi:
 
-OXYTOCIN đặt ra một giả định: cuộc sống vốn chẳng có ý nghĩa sẵn có. Khi ấy, con người sẽ chọn sống như thế nào? Và tại sao phải cố tìm cho mình một ý nghĩa?
-
-Nếu cuộc sống vốn vô nghĩa, liệu chính việc nó có ý nghĩa hay không còn quan trọng nữa?
+Nếu mọi quyết định đều có nguyên nhân, con người có thật sự tự do? Nếu cuộc sống vốn không mang một ý nghĩa nào, chúng ta sẽ chọn sống như thế nào: để sự hư vô nuốt chửng, hay tiếp tục sống với những điều mà bản thân cho là có ý nghĩa? Và sau cùng, liệu con người có thực sự cần một ý nghĩa để tiếp tục sống?
 
 ---
 
