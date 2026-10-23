@@ -154,7 +154,7 @@ AMYGDALA diễn ra khi Minh khoảng 22 tuổi. Các xung đột liên quan đ�
 
 Foil đi đến một lựa chọn chính trị để giải quyết một cuộc khủng hoảng quốc gia, dù phải đánh đổi bằng mạng sống. Cuối cùng, cuộc khủng hoảng được giải quyết, nhưng Minh mất đi người bạn quan trọng nhất đời mình.
 
-Cái chết của Foil làm thay đổi thế cân bằng INT/Core, khiến INT dần mất vị trí chi phối. Main trilogy khép lại khi câu chuyện trở về Minh ở tuổi 42.
+Cái chết của Foil làm thay đổi thế cân bằng INT/Core, khiến INT dần mất vị trí chi phối. Main trilogy khép lại khi câu chuyện trở về "tuần sau" ở Arc00.
 
 ### FOIL
 
@@ -175,6 +175,8 @@ Phần này cũng kể về quá khứ gia đình Minh, gia tộc Levi và Tổ 
 ### Part IV — LIMBIC
 
 LIMBIC tiếp tục hành trình của Minh sau khi Foil chết. Trong quá trình tìm hiểu và nghiên cứu một tổ chức bí mật, Minh dần khám phá những sự thật có liên hệ với chính bản thân cậu và cơ chế INT/Core.
+
+Sau khi bí mật dần được hé lộ, chúng ta quay về các sự kiện cuối cùng, tiếp nối những điều dang dở ở "tuần sau" và tương lai của Minh.
 
 ---
 
