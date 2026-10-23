@@ -66,13 +66,11 @@ Thứ tự đọc phần mở rộng: **FOIL → PAST → LIMBIC**.
 
 **OXYTOCIN** là psychological thriller / dark coming-of-age / mindgame xoay quanh **Vũ Nhật Minh**.
 
-Minh nhìn con người như những hệ thống có thể quan sát, mô hình hóa, dự đoán và tác động. Từ năm 16 tuổi, cách nhìn đó dần trở thành phương pháp cậu dùng để xử lý con người, quan hệ và những hệ thống lớn hơn quanh mình.
+Câu chuyện theo chân Minh từ những thí nghiệm về hành vi con người đến việc nghiên cứu các mạng lưới xã hội và cuối cùng là chính bản thân mình.
 
-Trục vận hành xuyên suốt:
+Phương pháp Minh sử dụng xuyên suốt:
 
 **quan sát → mô hình hóa → dự đoán → can thiệp → hệ quả**
-
-Càng đi xa, đối tượng Minh cố hiểu càng phức tạp: từ một cá nhân, đến mạng lưới xã hội, rồi cuối cùng là chính bản thân cậu.
 
 ---
 
@@ -102,17 +100,17 @@ Các trục dài hạn:
 
 Nhân vật chính của OXYTOCIN.
 
-Minh ít nói, sống khép kín và có khả năng quan sát, phân tích hành vi con người rất tốt. Cậu thường suy nghĩ kỹ trước khi hành động, có xu hướng tính toán các khả năng và tìm cách kiểm soát diễn biến của một tình huống.
+Minh ít nói, sống khép kín và thường chú ý đến hành vi của những người xung quanh. Cậu giỏi phân tích, dự đoán phản ứng và thường tính toán kỹ trước khi hành động.
 
-Minh tồn tại với hai trạng thái INT và Core, cùng chia sẻ ký ức nhưng khác nhau về tính cách và cách phản ứng. INT thường giữ quyền kiểm soát, trong khi Core thể hiện phần tính cách giàu cảm xúc hơn của Minh.
+Minh có hai trạng thái INT và Core, cùng chia sẻ ký ức nhưng khác nhau về cách suy nghĩ và phản ứng. INT chi phối cậu phần lớn thời gian, còn Core là phần tính cách gốc, giàu cảm xúc hơn.
 
 ### Fatio Ozias Isaac Levi — Foil
 
 Nhân vật chính thứ hai của OXYTOCIN.
 
-Foil thông minh, hoạt ngôn, hài hước và có khả năng ứng biến nhanh. Cậu dễ dàng bắt chuyện, tạo quan hệ và thích nghi với những tình huống bất ngờ. Khác với Minh, Foil thường hành động linh hoạt thay vì chuẩn bị kỹ mọi khả năng từ trước.
+Foil thông minh, cởi mở, hài hước và giỏi ứng biến. Cậu dễ bắt chuyện, tạo quan hệ và xử lý những tình huống bất ngờ. Đằng sau vẻ ngoài hoạt bát, Foil sống nội tâm và ít bộc lộ những tình cảm sâu kín.
 
-Xuất thân từ gia tộc Levi từng có ảnh hưởng lớn tại Laccovia, Foil mang theo quá khứ gắn với cuộc thanh trừng gia đình mình. Cậu dần xây dựng những mối quan hệ và ảnh hưởng riêng, về sau tham gia sâu vào các xung đột chính trị của Laccovia.
+Gia tộc Levi của Foil từng có ảnh hưởng lớn tại Laccovia nhưng bị thanh trừng về chính trị. Khi trưởng thành, Foil tự xây dựng mạng lưới quan hệ và dần tham gia vào các xung đột chính trị của Laccovia.
 
 ---
 
@@ -126,25 +124,25 @@ Một tổ chức thần kinh học cấp cao có liên hệ sâu với quá kh�
 
 ### Part 00 — THE ZEROTH AXIOM
 
-Câu chuyện mở đầu khi Minh đã ở tuổi trung niên, đang là giáo sư tại LUCN, rồi quay về tuần cuối trước khi cậu nhập học lớp 10.
+Câu chuyện mở đầu với Minh ở tuổi trung niên, khi ông đã là giáo sư tại LUCN, rồi trở về tuần cuối trước ngày cậu nhập học lớp 10.
 
-Ở tuổi 16, Minh thực hiện một chuỗi thí nghiệm tâm lý từ những tình huống đời thường. Cậu thử thay đổi các điều kiện và quan sát phản ứng của người khác, đặc biệt trong những ngày thường lui tới hiệu sách của chú Tuấn. Part 00 khép lại khi Minh bước vào lớp 10A01 tại Lacovia High School.
+Ở tuổi 16, Minh thực hiện một chuỗi thí nghiệm tâm lý trong đời sống thường ngày, đặc biệt tại hiệu sách của chú Tuấn. Cậu chủ động thay đổi các điều kiện để quan sát phản ứng của người khác. Part 00 khép lại khi Minh bước vào lớp 10A01 tại Lacovia High School.
 
 ### Part I — SIXTEEN
 
-SIXTEEN kể về ba năm cấp ba của Minh, gồm 16 Arc xoay quanh 16 nhân vật nữ khác nhau. Qua những mối quan hệ ấy, Minh tiếp tục phát triển khả năng quan sát, dự đoán và tác động đến hành vi con người.
+SIXTEEN kể về ba năm cấp ba của Minh, gồm 16 Arc xoay quanh 16 nhân vật nữ khác nhau. Trong thời gian này, Minh tiếp tục nghiên cứu hành vi con người qua những cuộc gặp gỡ và các mối quan hệ ở trường.
 
-Foil xuất hiện trong giai đoạn cấp ba và dần trở thành đối thủ quan trọng nhất của Minh. Cuối SIXTEEN, một thất bại lớn khiến Minh chuyển hướng nghiên cứu từ từng cá nhân sang những mạng lưới xã hội.
+Foil xuất hiện từ thời cấp ba, dần trở thành người bạn thân thiết và đối trọng quan trọng nhất của Minh. Cuối SIXTEEN, một thất bại lớn khiến Minh chuyển hướng nghiên cứu từ từng cá nhân sang những mạng lưới xã hội.
 
 ### Part II — NETWORK
 
-Minh bước vào những năm đầu đại học tại LUCN. Cậu bắt đầu nghiên cứu các nhóm người, mạng lưới xã hội, thiết chế, dòng thông tin và những quan hệ lợi ích. Minh thử áp dụng các phương pháp của mình trên quy mô lớn hơn và dần can thiệp sâu vào những hệ thống mà cậu nghiên cứu.
+Trong những năm đầu đại học tại LUCN, Minh mở rộng nghiên cứu từ hành vi cá nhân sang các nhóm người, mạng lưới xã hội, tổ chức, dòng thông tin và quan hệ lợi ích. Cậu dần áp dụng những phương pháp từng sử dụng ở quy mô nhỏ để tác động đến các hệ thống lớn hơn.
 
-Trong thời gian này, Foil xây dựng các mối quan hệ và ảnh hưởng riêng, từng bước tham gia vào những vấn đề xã hội và chính trị của Laccovia.
+Cùng thời gian đó, Foil xây dựng mạng lưới quan hệ và ảnh hưởng riêng, từng bước tham gia vào các vấn đề xã hội và chính trị của Laccovia.
 
 ### Part III — AMYGDALA
 
-AMYGDALA diễn ra khi Minh khoảng 22 tuổi. Các xung đột liên quan đến xã hội và chính trị Laccovia ngày càng lớn. Minh tìm cách tác động vào những cấu trúc quyền lực, trong khi Foil đã có ảnh hưởng chính trị của riêng mình.
+AMYGDALA diễn ra khi Minh khoảng 22 tuổi, giữa lúc những xung đột xã hội và chính trị tại Laccovia leo thang. Minh ngày càng can dự sâu vào các cuộc xung đột, trong khi Foil đã có ảnh hưởng chính trị của riêng mình.
 
 Foil đi đến một lựa chọn chính trị để giải quyết một cuộc khủng hoảng quốc gia, dù phải đánh đổi bằng mạng sống. Cuối cùng, cuộc khủng hoảng được giải quyết, nhưng Minh mất đi người bạn quan trọng nhất đời mình.
 
@@ -154,28 +152,28 @@ Cái chết của Foil làm thay đổi thế cân bằng INT/Core, khiến INT 
 
 FOIL kể lại cuộc đời của Foil từ góc nhìn của chính cậu.
 
-Foil sinh ra trong gia tộc Levi, một gia tộc giàu có từng có ảnh hưởng lớn tại Laccovia. Khi Foil khoảng 12 tuổi, cha mẹ cậu bị bắt và gia tộc bị thanh trừng về mặt chính trị. Khi ấy, Foil đang sống ở nước ngoài. Cậu trở về Laccovia mà không biết đầy đủ những chuyện đã xảy ra với gia đình mình.
+Foil sinh ra trong gia tộc Levi, một gia tộc giàu có từng có ảnh hưởng lớn tại Laccovia. Khi cậu khoảng 12 tuổi và đang sống ở nước ngoài, cha mẹ bị bắt và gia tộc bị thanh trừng về chính trị. Foil trở về Laccovia khi vẫn chưa biết đầy đủ những gì đã xảy ra với gia đình mình.
 
-Từ cuối cấp ba đến những năm đại học, Foil tự xây dựng mạng lưới quan hệ và ảnh hưởng chính trị, dần có được vị thế độc lập với gia tộc Levi. Khoảng 22 tuổi, cậu tham gia vào những quyết định chính trị lớn ở Laccovia và cuối cùng chấp nhận hy sinh vì mục tiêu mình theo đuổi.
+Từ cuối cấp ba đến những năm đại học, Foil xây dựng mạng lưới quan hệ và ảnh hưởng chính trị riêng, dần có được vị thế độc lập với gia tộc Levi. Khoảng 22 tuổi, cậu đã có thể tham gia vào những quyết định chính trị quan trọng ở Laccovia và cuối cùng hy sinh vì mục tiêu mình theo đuổi.
 
 ### PAST
 
 PAST kể về tuổi thơ của Minh và Foil cùng những biến cố xảy ra với gia đình họ.
 
-Core của Minh và Foil có nhiều nét tính cách tương đồng: sống nội tâm, nhạy cảm và giàu tình cảm. Ở Minh, INT hình thành để bảo vệ Core rồi dần chi phối cách cậu suy nghĩ và hành động. Foil phát triển vẻ ngoài cởi mở, hài hước và khả năng ứng biến linh hoạt, dù vẫn giữ kín nhiều suy nghĩ và cảm xúc.
+Tính cách gốc của Minh và Foil có nhiều điểm tương đồng: cả hai đều sống nội tâm, nhạy cảm và giàu tình cảm. Ở Minh, INT hình thành để bảo vệ Core rồi dần chi phối cách cậu suy nghĩ và hành động. Foil trở nên cởi mở, hài hước và giỏi ứng biến khi giao tiếp, nhưng vẫn giữ kín nhiều suy nghĩ và cảm xúc.
 
-Phần này cũng kể về quá khứ gia đình Minh, gia tộc Levi và Tổ chức.
+PAST cũng kể về quá khứ của gia đình Minh, gia tộc Levi và Tổ chức.
 
 ### Part IV — LIMBIC
 
-LIMBIC tiếp tục hành trình của Minh sau khi Foil chết. Trong quá trình tìm hiểu và nghiên cứu một tổ chức bí mật, Minh dần khám phá những sự thật có liên hệ với chính bản thân cậu và cơ chế INT/Core.
+LIMBIC tiếp tục hành trình của Minh sau khi Foil chết. Trong quá trình điều tra một tổ chức bí mật, Minh dần phát hiện những mối liên hệ giữa tổ chức này, quá khứ của mình và cơ chế INT/Core.
 
-Sau khi bí mật dần được hé lộ, chúng ta quay về các sự kiện cuối cùng, tiếp nối những điều dang dở ở "tuần sau" và tương lai của Minh.
+Khi những bí mật dần được hé lộ, câu chuyện trở lại mốc "tuần sau" ở Arc00, tiếp nối những sự kiện còn dang dở và kể về tương lai của Minh.
 
 ---
 
 ## Quan hệ Minh–Foil
 
-Trong gần bảy năm, Minh và Foil vừa là bạn, vừa là đối thủ. Hai người dần trở nên gắn bó và có ảnh hưởng sâu sắc đến nhau.
+Trong gần bảy năm, Minh và Foil vừa là bạn, vừa là đối thủ. Dù thường xuyên khác biệt về quan điểm và cách hành động, hai người ngày càng gắn bó và trở nên quan trọng trong cuộc đời nhau.
 
 Sau khi chứng kiến Foil chết, Minh nhận ra tình yêu sâu sắc của mình dành cho cậu theo nghĩa platonic.
