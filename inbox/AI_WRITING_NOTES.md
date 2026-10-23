@@ -2,7 +2,7 @@
 
 Ghi chú rời dành cho AI làm việc với OXYTOCIN: lỗi đã gặp, bẫy suy diễn, sự thật dễ bị nhầm và những điều tác giả muốn AI nhớ. **Không cần phân loại, sắp xếp hay viết thành bài giải thích.** Khi xuất hiện lỗi mới hoặc một chi tiết có nguy cơ bị hiểu sai, có thể ghi thêm ngay vào cuối file. Đây không phải nguồn canon thay thế các hồ sơ gốc.
 
-- **Tổ chức** không được mặc định phân tích như một tổ chức phản diện độc ác hoặc thế lực đứng sau mọi tội lỗi. Tổ chức có liên hệ với quá khứ Minh và INT/Core, nhưng trong main trilogy không phải đối thủ cuối cùng. Cũng không được tự kết luận ngược lại rằng mọi hoạt động của Tổ chức đều tốt đẹp. Xem `CANON.md` và `world/ORGANIZATION.md`.
+- **Tổ chức** không được mặc định phân tích như một tổ chức phản diện độc ác hoặc thế lực đứng sau mọi tội lỗi. Tổ chức có liên hệ với quá khứ Minh và INT/Core, nhưng trong main trilogy không phải đối thủ cuối cùng. Cũng không được tự kết luận ngược lại rằng mọi hoạt động của Tổ chức đều tốt đẹp. Xem `outline/SERIES.md` và `world/ORGANIZATION.md`.
 
 - Từng có lỗi viết nguyên một mục “Bản chất” trong hồ sơ Tổ chức để thuyết minh rằng nó “không thuần ác”, có mục tiêu tốt và có thể gây hậu quả ngoài ý muốn. **Thông tin giúp AI tránh đọc sai truyện có ích; đoạn bình luận chung chung đó không có chỗ trong hồ sơ thiết lập.** Không đưa kiểu lời giải thích đạo đức này vào Story Bible.
 
@@ -20,7 +20,7 @@ Ghi chú rời dành cho AI làm việc với OXYTOCIN: lỗi đã gặp, bẫy 
 
 - Trong hồ sơ **Lacovia High**, AI từng ghi thêm câu giải thích rằng mô hình nội trú tạo ra “môi trường xã hội lặp lại”, rồi diễn giải lý do chọn thiết lập. Trong **LUCN**, từng ghi đại học “là bối cảnh trung tâm của Part II” vào hồ sơ thế giới. Đó là bình luận của người thiết kế, không phải quy định hay đặc điểm cụ thể của trường; không chèn vào `world/`.
 
-- **INT/Core** ở Minh là cơ chế hư cấu dùng chung ký ức, không được đánh đồng máy móc với chẩn đoán DID ngoài đời, cơ chế split-brain hoặc hai người hoàn toàn tách biệt. Nếu dùng khoa học thần kinh ngoài đời làm tham chiếu, phân biệt cảm hứng với cơ chế canon thực tế. Xem `CANON.md` và `characters/01_CORE/MINH.md`.
+- **INT/Core** ở Minh là cơ chế hư cấu dùng chung ký ức, không được đánh đồng máy móc với chẩn đoán DID ngoài đời, cơ chế split-brain hoặc hai người hoàn toàn tách biệt. Nếu dùng khoa học thần kinh ngoài đời làm tham chiếu, phân biệt cảm hứng với cơ chế canon thực tế. Xem `outline/SERIES.md` và `characters/01_CORE/MINH.md`.
 
 - **Cha của Minh** chỉ là nhân viên bình thường của Tổ chức, không thuộc tầng điều hành cốt lõi. Đừng tự nâng ông thành người chủ mưu. **Cha mẹ Foil không thuộc Tổ chức**; không gán họ làm thành viên hoặc dựng quan hệ nhân quả với Tổ chức khi chưa có thiết lập.
 
