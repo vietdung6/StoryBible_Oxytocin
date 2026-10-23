@@ -152,7 +152,7 @@ Trong thời gian này, Foil xây dựng các mối quan hệ và ảnh hưởng
 
 AMYGDALA diễn ra khi Minh khoảng 22 tuổi. Các xung đột liên quan đến xã hội và chính trị Laccovia ngày càng lớn. Minh tìm cách tác động vào những cấu trúc quyền lực, trong khi Foil đã có ảnh hưởng chính trị của riêng mình.
 
-Foil đi đến một lựa chọn chính trị mà cậu chấp nhận đánh đổi bằng mạng sống. Minh chứng kiến cái chết của Foil khi vẫn chưa hiểu hết lựa chọn ấy.
+Foil đi đến một lựa chọn chính trị để giải quyết một cuộc khủng hoảng quốc gia, dù phải đánh đổi bằng mạng sống. Cuối cùng, cuộc khủng hoảng được giải quyết, nhưng Minh mất đi người bạn quan trọng nhất đời mình.
 
 Cái chết của Foil làm thay đổi thế cân bằng INT/Core, khiến INT dần mất vị trí chi phối. Main trilogy khép lại khi câu chuyện trở về Minh ở tuổi 42.
 
@@ -174,9 +174,7 @@ Phần này cũng kể về quá khứ gia đình Minh, gia tộc Levi và Tổ 
 
 ### Part IV — LIMBIC
 
-LIMBIC trở lại quãng đời của Minh từ khoảng 22 đến 42 tuổi, sau những sự kiện ở AMYGDALA.
-
-Minh bắt đầu tìm hiểu chính mình, nghiên cứu cơ chế INT/Core và những mối liên hệ giữa Tổ chức với quá khứ của bản thân.
+LIMBIC tiếp tục hành trình của Minh sau khi Foil chết. Trong quá trình tìm hiểu và nghiên cứu một tổ chức bí mật, Minh dần khám phá những sự thật có liên hệ với chính bản thân cậu và cơ chế INT/Core.
 
 ---
 
