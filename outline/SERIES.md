@@ -70,15 +70,15 @@ Thứ tự đọc phần mở rộng: **FOIL → PAST → LIMBIC**.
 
 ## Ý nghĩa tác phẩm
 
-OXYTOCIN khai thác mối quan hệ giữa lý trí và cảm xúc, giữa những điều con người có thể lý giải bằng khoa học và ý nghĩa mà họ dành cho chúng.
+OXYTOCIN khám phá giới hạn của lý trí trong việc hiểu con người. Khoa học có thể lý giải cảm xúc, hành vi và những lựa chọn tưởng chừng tự do, nhưng lời giải thích ấy chưa thể nói hết giá trị của tình yêu, niềm tin hay sự gắn bó.
 
-Tác phẩm còn đề cập đến tự do lựa chọn, trách nhiệm đối với những quyết định của bản thân và giá trị của sự gắn bó. Qua hành trình của Minh, câu chuyện đi sâu vào cách con người tìm kiếm và tự tạo ra ý nghĩa cho cuộc sống của mình.
+Qua hành trình của Minh và Foil, tác phẩm đặt ra vấn đề về tự do lựa chọn, những mất mát không thể thay đổi và điều mỗi người sẵn sàng đánh đổi vì những gì mình coi là có ý nghĩa.
 
 ---
 
 ## Hai nhân vật chính
 
-### Vũ Nhật Minh
+### Vũ Nhật Minh - Main
 
 Nhân vật chính của OXYTOCIN.
 
@@ -86,7 +86,7 @@ Minh ít nói, sống khép kín và thường chú ý đến hành vi của nh�
 
 Minh có hai trạng thái INT và Core, cùng chia sẻ ký ức nhưng khác nhau về cách suy nghĩ và phản ứng. INT chi phối cậu phần lớn thời gian, còn Core là phần tính cách gốc, giàu cảm xúc hơn.
 
-### Fatio Ozias Isaac Levi — Foil
+### Fatio Ozias Isaac Levi - Foil
 
 Nhân vật chính thứ hai của OXYTOCIN.
 
